@@ -1371,18 +1371,26 @@ class xc_Play(Screen):
                     if not line:
                         continue
 
-                    if line.startswith("http://") or line.startswith("https://"):
-                        outfile.write('#SERVICE 4097:0:1:0:0:0:0:0:0:0:%s\r\n' % line.replace(':', '%3a'))
+                    if line.startswith(
+                            "http://") or line.startswith("https://"):
+                        outfile.write(
+                            '#SERVICE 4097:0:1:0:0:0:0:0:0:0:%s\r\n' %
+                            line.replace(
+                                ':', '%3a'))
                         outfile.write("#DESCRIPTION %s\r\n" % desk_tmp)
                     elif line.startswith("#EXTINF"):
                         desk_tmp = line.split(",")[-1].strip()
                     elif "<stream_url><![CDATA" in line:
-                        globalsxp.stream_url = line.split("[")[-1].split("]")[0].replace(":", "%3a")
-                        outfile.write('#SERVICE 4097:0:1:0:0:0:0:0:0:0:%s\r\n' % globalsxp.stream_url)
+                        globalsxp.stream_url = line.split(
+                            "[")[-1].split("]")[0].replace(":", "%3a")
+                        outfile.write(
+                            '#SERVICE 4097:0:1:0:0:0:0:0:0:0:%s\r\n' %
+                            globalsxp.stream_url)
                         outfile.write("#DESCRIPTION %s\r\n" % desk_tmp)
                     elif "<title>" in line:
                         if "<![CDATA[" in line:
-                            desk_tmp = line.split("[")[-1].split("]")[0].strip()
+                            desk_tmp = line.split(
+                                "[")[-1].split("]")[0].strip()
                         else:
                             desk_tmp = line.split("<")[1].split(">")[1].strip()
 
