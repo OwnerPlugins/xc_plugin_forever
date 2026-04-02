@@ -1349,6 +1349,7 @@ class xc_Play(Screen):
             bouquet_path = "/etc/enigma2/%s" % xcname
             if file_exists(bouquet_path):
                 remove(bouquet_path)
+
             with open(bouquet_path, "w") as outfile:
                 outfile.write(
                     "#NAME %s\r\n" %
@@ -1357,31 +1358,33 @@ class xc_Play(Screen):
                         "").replace(
                         " ",
                         "").capitalize())
-                with open(name, "r") as infile:
-                    for line in infile:
-                        if line.startswith(
-                                "http://") or line.startswith("https://"):
-                            outfile.write(
-                                '#SERVICE 4097:0:1:0:0:0:0:0:0:0:%s\r\n' %
-                                line.replace(
-                                    ':', '%3a'))
-                            outfile.write("#DESCRIPTION %s\r\n" % desk_tmp)
-                        elif line.startswith("#EXTINF"):
-                            desk_tmp = line.split(",")[-1].strip()
-                        elif "<stream_url><![CDATA" in line:
-                            globalsxp.stream_url = line.split(
-                                "[")[-1].split("]")[0].replace(":", "%3a")
-                            outfile.write(
-                                '#SERVICE 4097:0:1:0:0:0:0:0:0:0:%s\r\n' %
-                                globalsxp.stream_url)
-                            outfile.write("#DESCRIPTION %s\r\n" % desk_tmp)
-                        elif "<title>" in line:
-                            if "<![CDATA[" in line:
-                                desk_tmp = line.split(
-                                    "[")[-1].split("]")[0].strip()
-                            else:
-                                desk_tmp = line.split("<")[1].split(">")[
-                                    1].strip()
+
+                try:
+                    with open(name, "r", encoding="utf-8") as infile:
+                        lines = infile.readlines()
+                except UnicodeDecodeError:
+                    with open(name, "r", encoding="latin-1") as infile:
+                        lines = infile.readlines()
+
+                for raw_line in lines:
+                    line = raw_line.strip()
+                    if not line:
+                        continue
+
+                    if line.startswith("http://") or line.startswith("https://"):
+                        outfile.write('#SERVICE 4097:0:1:0:0:0:0:0:0:0:%s\r\n' % line.replace(':', '%3a'))
+                        outfile.write("#DESCRIPTION %s\r\n" % desk_tmp)
+                    elif line.startswith("#EXTINF"):
+                        desk_tmp = line.split(",")[-1].strip()
+                    elif "<stream_url><![CDATA" in line:
+                        globalsxp.stream_url = line.split("[")[-1].split("]")[0].replace(":", "%3a")
+                        outfile.write('#SERVICE 4097:0:1:0:0:0:0:0:0:0:%s\r\n' % globalsxp.stream_url)
+                        outfile.write("#DESCRIPTION %s\r\n" % desk_tmp)
+                    elif "<title>" in line:
+                        if "<![CDATA[" in line:
+                            desk_tmp = line.split("[")[-1].split("]")[0].strip()
+                        else:
+                            desk_tmp = line.split("<")[1].split(">")[1].strip()
 
             self.session.open(
                 MessageBox,

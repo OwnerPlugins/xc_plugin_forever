@@ -1,7 +1,7 @@
 #!/bin/bash
 
-version='5.1'
-changelog='Fix Downloader - request missing'
+version='5.2'
+changelog='Fix Export Channels'
 
 TMPPATH=/tmp/XCplugin-install
 FILEPATH=/tmp/XCplugin-main.tar.gz
