@@ -45,7 +45,8 @@ __email__ = "ekekaz@gmail.com"
 __copyright__ = 'Copyright (c) 2024 Lululla'
 __license__ = "GPL-v2"
 currversion = '5.2'
-version = "XC Forever V.%s" % currversion
+__version__ = currversion
+version = "XC Forever V.%s" % __version__
 plugin_path = resolveFilename(
     SCOPE_PLUGINS,
     "Extensions/{}".format('XCplugin'))
