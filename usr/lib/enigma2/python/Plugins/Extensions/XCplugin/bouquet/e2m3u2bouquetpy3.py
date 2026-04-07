@@ -711,8 +711,8 @@ class Provider:
                 if line.startswith('#NAME'):
                     continue
                 else:
-                    if not '.xc_{}'.format(
-                            self._get_safe_provider_filename()) in line:
+                    if '.xc_{}'.format(
+                            self._get_safe_provider_filename()) not in line:
                         current_bouquets_indexes.append(line)
         return current_bouquets_indexes
 

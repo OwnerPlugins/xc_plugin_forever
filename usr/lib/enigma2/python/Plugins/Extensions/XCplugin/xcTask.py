@@ -242,7 +242,7 @@ class xc_StreamTasks(Screen):
         try:
             NOT_STARTED = 0
             IN_PROGRESS = 1
-            FINISHED = 2
+            # FINISHED = 2
             FAILED = 3
 
             job_name = getattr(job, 'name', 'Unknown')

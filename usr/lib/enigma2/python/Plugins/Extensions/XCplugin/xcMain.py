@@ -55,7 +55,7 @@ from Screens.MessageBox import MessageBox
 from Screens.MovieSelection import MovieSelection
 from Screens.Screen import Screen
 from Screens.Standby import Standby
-from Screens.TaskView import JobView
+# from Screens.TaskView import JobView
 from Screens.VirtualKeyBoard import VirtualKeyBoard
 from enigma import (
     eListboxPythonMultiContent,
