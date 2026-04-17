@@ -1,23 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-04-17 20:54+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Norwegian Bokmal <l10n-no@lister.huftis.org>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgid "%s"
 msgstr ""
 
@@ -570,7 +567,7 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-msgid "Scaricamento: %d%% - Velocità: %.1f KB/s - Tempo rimanente: %d sec"
+msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
 msgstr ""
 
 msgid "Schedule type:"
