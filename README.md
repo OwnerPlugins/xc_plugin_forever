@@ -8,7 +8,7 @@
 [![Python package](https://github.com/Belfagor2005/xc_plugin_forever/actions/workflows/pylint.yml/badge.svg)](https://github.com/Belfagor2005/xc_plugin_forever/actions/workflows/pylint.yml)
 [![Ruff Status](https://github.com/Belfagor2005/xc_plugin_forever/actions/workflows/ruff.yml/badge.svg)](https://github.com/Belfagor2005/xc_plugin_forever/actions/workflows/ruff.yml)
 [![GitHub stars](https://img.shields.io/github/stars/Belfagor2005/xc_plugin_forever?style=social)](https://github.com/Belfagor2005/xc_plugin_forever/stargazers)
-[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](Maintainers.md#maintainers "Donate")
+[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://ko-fi.com/lululla)
 
 <p align="center">
   <img src="https://github.com/Belfagor2005/xc_plugin_forever/blob/main/usr/lib/enigma2/python/Plugins/Extensions/XCplugin/skin/pic/xcgold.png?raw=true" height="140">
