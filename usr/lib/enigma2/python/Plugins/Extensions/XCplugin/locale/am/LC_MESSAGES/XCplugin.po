@@ -18,676 +18,676 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s አልተገኘም!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(ሰማያዊ ቁልፍ):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(አረንጓዴ ቁልፍ):\n"
 
 msgid "(REC BUTTON):\n"
 msgstr ""
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(ማቆሚያ ቁልፍ):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(ቢጫ ቁልፍ):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
-msgstr ""
+msgstr "/ወዘተ/enigma2/iptv.sh\n"
 
 msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "በማስወረድ ላይ..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "ያልተፈቀደ መዳረሻ (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "ንቁ አውቶማቲክ ቡኬት ዝማኔ"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "ገባሪ ዋና ማያ ትልቅ"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "የሰዓት ሰቅን ያስተካክሉ"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "የሰዓት ሰቅ (ሰዓት) ያስተካክሉ"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "ያልተጠበቀ ስህተት ተከስቷል። እባክዎ ቆይተው እንደገና ይሞክሩ።"
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "በሰአታት ልዩነት ወይም በተወሰነ ጊዜ"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "ራስ-ሰር እቅፍ ዝማኔ (መርሃግብር)፦"
 
 msgid "Back"
-msgstr ""
+msgstr "ተመለስ"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "እቅፍ"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "የቡኬት ዘይቤ"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ሰርዝ"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "ይህን የተግባር ሁኔታ መቀየር አልተቻለም"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "ይህን ንጥል ባለበት ማቆም/ከቆመበት መቀጠል አይቻልም"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "ይህን ንጥል ማስወገድ አልተቻለም"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "በተወዳጅ ዝርዝሮች ላይ ይመልከቱ..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "ማውጫ ይምረጡ፡-"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "ማውጫ ይምረጡ"
 
 msgid "Close"
-msgstr ""
+msgstr "ገጠመ"
 
 msgid "Config"
-msgstr ""
+msgstr "አዋቅር"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "የማዋቀር አማራጮች\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "በተወሰነ ጊዜ አዋቅር"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "ከአሁን በኋላ እያንዳንዱን የሰዓታት ክፍተት ያዋቅሩ"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "ወደ ውጭ የተላከውን እቅፍ ስም ያዋቅሩ። ነባሪው የእኔ ቡኬት ነው።"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "የአገልግሎት ማጣቀሻ Dvb-Iptv-Gstreamer-Exteplayer3 አዋቅር"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "የአገልግሎት ማጣቀሻ Iptv-Gstreamer-Exteplayer3 አዋቅር"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "በተወዳጅ ዝርዝር ውስጥ የመቀየሪያውን አይነት ያዋቅሩ"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "የተቀየሩ ዝርዝሮችን እቅፍ አበባ ለማስቀመጥ ያዋቅሩ"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "የማውረጃ ፊልም አይነት ያዋቅሩ፡ JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "በመለወጥ የሚወርዱትን የዥረት አይነት ያዋቅሩ"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "እንኳን ደስ ያለህ! ቀድሞውንም የቅርብ ጊዜ ስሪት አለህ..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "ከአገልጋዩ ጋር በመገናኘት ላይ..."
 
 msgid "Console"
-msgstr ""
+msgstr "ኮንሶል"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "%s ልወጣ በሂደት ላይ"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "የልወጣ አይነት ውፅዓት"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "አጫዋች ዝርዝሩን ወደ፡%s ቀይር?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "XC Live/VOD Bouquets ይፍጠሩ\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "ቪዲዮ አውርድ?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "በማውረድ ላይ"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "የውሂብ አገልጋይ ውቅር"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "በዋናው ሜኑ ውስጥ XCplugin ን አሳይ"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "%sን ወደ ተወዳጅ .TV መቀየር ይፈልጋሉ?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "ዝማኔን (%s) አሁን መጫን ይፈልጋሉ?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "%sን ማስወገድ ይፈልጋሉ?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "ማስወገድ ይፈልጋሉ፡ %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "%sን ማስወገድ ይፈልጋሉ?"
 
 msgid "Download"
-msgstr ""
+msgstr "አውርድ"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "ማውረድ አልተሳካም!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "ማውረድ ተጠናቅቋል!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "M3u ፋይል ያውርዱ?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "ፒኮኖች ያውርዱ?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "የማውረድ አይነት"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "VOD የተመረጠውን ቻናል አውርድ\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "ቪዲዮ አውርድ \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "ማውረድ ተጠናቅቋል"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "ማውረድ በተሳካ ሁኔታ ተጠናቅቋል!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "የማውረድ ስህተት፡ %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "ማውረድ በመመለሻ ኮድ አልተሳካም፦ {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "ማውረድ አልተሳካም፦"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "ማውረድ አልተሳካም።"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "በኮርሶ አውርድ"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "ማውረዱ እንደገና ተጀምሯል፡ {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "ማውረድ ተጀምሯል፡ {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "ማውረድ ቆሟል፡ {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "የማውረድ ተግባር ተወግዷል"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "አውርድ፡ %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "የወረደው ፋይል በጣም ትንሽ ነው።"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "የወረደው ፋይል አልተገኘም።"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "የይለፍ ቃል አስገባ"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "የአገልጋይ ወደብ አስገባ ለምሳሌ፡'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "ያለእርስዎ_ዶሚን 'http://' የአገልጋይ ዩአርኤል ያስገቡ"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "የተጠቃሚ ስም አስገባ"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "ፒን ኮድ አስገባ"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg መመሪያ ወይም imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "የስህተት ኮድ"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "ማውረድን በመቆጣጠር ላይ ስህተት፦ {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "ፋይሉን መሰረዝ ላይ ስህተት"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "%s: %s ማንበብ ወይም ማስኬድ ላይ ስህተት"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "ፋይሉን ማንበብ ወይም ማስኬድ ላይ ስህተት፡ %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "ተግባርን ማስወገድ ላይ ስህተት፦ {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "ማውረዱን በማረጋገጥ ላይ ስህተት፦ {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "ውጣ"
 
 msgid "Export"
-msgstr ""
+msgstr "ወደ ውጪ ላክ"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "ፋይል m3u ወደ Bouquet .tv\n ይላኩ።"
 
 msgid "FAILED"
-msgstr ""
+msgstr "አልተሳካም።"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "የዝማኔ መረጃ ማምጣት አልተሳካም። እባክዎ የበይነመረብ ግንኙነትዎን ያረጋግጡ።"
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "የዝማኔ መረጃን መተንተን አልተሳካም። እባክዎ ቆይተው እንደገና ይሞክሩ።"
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "ፋይል አልታወቀም!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "ፋይል አልተገኘም ወይም ባዶ፡ %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "ፋይል አልተገኘም!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "መጥፎ ቀን አጣራ"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "ይህን ምድብ አጣራ..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "መጀመሪያ ዝርዝሩን ይምረጡ ወይም Config ውስጥ ያስገቡት።"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "የአቃፊ ተጠቃሚ ፋይል .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "ቅርጸት፡\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "ነፃ ቦታ"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "የእርዳታ ቁልፍ፡\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "ቤት"
 
 msgid "Help\n"
-msgstr ""
+msgstr "እገዛ\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "ደብቅ/ አሳይ"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "ተጫዋች ንቁ ከሆነ STOP የተጫዋች ብስለትን በመውጣት ላይ"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "ፋይል ካላችሁ፡\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "ፋይል ካለህ\n"
 
 msgid "Import"
-msgstr ""
+msgstr "አስመጣ"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "አገልጋይ ከ /etc/enigma2/iptv.sh አስመጣ?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "አገልጋይ ከ/tmp/xc.tx አስመጣ?"
 
 msgid "Info"
-msgstr ""
+msgstr "መረጃ"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Init ቀጥል መጫወት\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "ልክ ያልሆነ URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "በዝማኔ መረጃ ውስጥ ልክ ያልሆነ የቀን ቅርጸት።"
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "ልክ ያልሆነ የፋይል ቅርጸት፡ በ%s ውስጥ በቂ ወይም ባዶ መስመሮች የሉም"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "ልክ ያልሆነ ቅርጸት በ%s። የአገልጋይ ዝርዝሮችን ማውጣት አልተቻለም።"
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "ልክ ያልሆነ ወይም የማይደገፍ የስራ አይነት"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "ማውጫ ወይም ፋይል የለም።"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "የመጨረሻው የሰርጥ ዝመና፡ %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "መስመር አስቀድሞ በአጫዋች ዝርዝር ውስጥ አለ።"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "መስመር ወደ አጫዋች ዝርዝር ተያይዟል።"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "በዋናው ምናሌ ውስጥ አገናኝ"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "የቀጥታ ማጫወቻ በቅንብር ውስጥ ንቁ: ለቀጥታ ስርጭት No ያዘጋጁ"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "የቀጥታ ማጫወቻ ለዥረት .ts፡ ለቀጥታ ስርጭት No አዘጋጅ"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "የቀጥታ አገልግሎቶች ዓይነት"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer ንቁ"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u ጫኝ"
 
 msgid "Main"
-msgstr ""
+msgstr "ዋና"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "ዋና ማያ ኤክስ.ኤል"
 
 msgid "Make"
-msgstr ""
+msgstr "አድርግ"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "የሚዲያ አቃፊ"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "የጠፋ ወይም ባዶ ፋይል፡ %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "ፊልም"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "የፊልም አቃፊ"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "ፊልሙ በተሳካ ሁኔታ ተሰርዟል።"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "የቡኬት ውቅር ስም"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "ስም Bouquet ወደ ውጪ መላክ"
 
 msgid "Network error!"
-msgstr ""
+msgstr "የአውታረ መረብ ስህተት!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "ለማውረድ ምንም አገልጋይ አልተዋቀረም!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "የሚወርድ/የሚቀዳ ቪዲዮ የለም!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "ምንም ውሂብ ወይም አጫዋች ዝርዝር ከXCplugin ጋር ተኳሃኝ አይደለም።"
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "ምንም ፊልም አልተመረጠም!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "ምንም ተግባር አልተመረጠም!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "ምንም የዝማኔ መረጃ አይገኝም።"
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "ተከታታይ ክፍሎች ብቻ ተፈቅደዋል!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "ቪኦዲ ፊልም ብቻ ነው የሚፈቀደው!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "የፊልም አቃፊን ክፈት\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='yyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "ባለበት ቆሟል"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "ለአፍታ አቁም/ ከቆመበት ቀጥል"
 
 msgid "Picons IPTV"
-msgstr ""
+msgstr "ፒኮኖች IPTV"
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "ፒኮኖች IPTV እቅፍ አበባዎች ወደ"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "የ IPTV እቅፍ አበባዎችን በ"
 
 msgid "Player"
-msgstr ""
+msgstr "ተጫዋች"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "እባክዎ መጀመሪያ የአገልጋዩን ዝርዝሮች ያዋቅሩ"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "እባክዎ የወላጅ ቁጥጥር ፒን ኮድ ያስገቡ"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "ማውረዱን በማዘጋጀት ላይ..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr ".m3u ፋይሎችን በአቃፊ %s ውስጥ አስቀምጥ"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "መስመሮችዎን በ"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "ቅንብሮችን ሳታስቀምጥ በእርግጥ ይዘጋል?"
 
 msgid "Rec Movie"
 msgstr ""
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Rec ተከታታይ"
 
 msgid "Reload"
-msgstr ""
+msgstr "እንደገና ጫን"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "ዝርዝር ዳግም ጫን\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "አጫዋች ዝርዝሮችን እንደገና ጫን በሂደት ላይ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "አስወግድ"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "አጫዋች ዝርዝር ከ Bouquets ይወገድ?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "ለ{} የማውረድ ተግባር ይወገድ?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "ፋይሉን ከዝርዝር አስወግድ\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "ሁሉንም እቅፍ አበባዎች ያስወግዳል\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "የጥራት ለውጥ አልተሳካም።"
 
 msgid "Restart"
-msgstr ""
+msgstr "እንደገና ጀምር"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "ወደ ቻናሎች ዝርዝር ተመለስ\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "ምንጭ አልተገኘም (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ምርጫዎን ይምረጡ"
 
 msgid "Save"
-msgstr ""
+msgstr "አስቀምጥ"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "አውርድ፡ %d%% - ፍጥነት፡ %1f ኪባ/ሰ - የሚቀረው ጊዜ፡ %d ሰከንድ"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "የመርሃግብር አይነት፡"
 
 msgid "Search"
-msgstr ""
+msgstr "ፈልግ"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "ቀጥታ/ፊልም ይፈልጉ"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "በዝርዝሩ ውስጥ ርዕስ ይፈልጉ"
 
 msgid "Select"
-msgstr ""
+msgstr "ይምረጡ"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "አገልጋይ PORT"
 
 msgid "Server Password"
-msgstr ""
+msgstr "የአገልጋይ ይለፍ ቃል"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "የአገልጋይ ጊዜ አልቋል"
 
 msgid "Server URL"
-msgstr ""
+msgstr "የአገልጋይ URL"
 
 msgid "Server Username"
-msgstr ""
+msgstr "የአገልጋይ ተጠቃሚ ስም"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "በቅንብር ውስጥ 'የቀጥታ ማጫወቻ ንቁ'ን ያቀናብሩ፡\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "ለቀጥታ ስርጭት 'አይ' አዘጋጅ\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "ለ MakerBouquet ስም አዘጋጅ"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "ቅንብሮች በተሳካ ሁኔታ ተቀምጠዋል!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "ሁሉንም ተከታታይ ክፍሎች ማውረድ ጀምር\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "የተመረጠውን ቻናል ያውርዱ ወይም ይቅዱ፡\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "በመውጣት ላይ ተጫዋች አቁም"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "ፊልሙ የለም!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "ያስገቡት ፒን ኮድ ስህተት ነው።"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "ማዘመን ለመጀመር ጊዜ:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "ጊዜው ያለፈበት አገልጋይ (ሰከንድ)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "ግንኙነቱ ጊዜው አልፎበታል።"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "ያልታወቀ"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "ዝማኔ ተቋርጧል!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "የዝማኔ ክፍተት (ሰዓታት)፦"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Vod አገልግሎቶች አይነት"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "በእርግጥ ማውረዱን ማቆም ይፈልጋሉ?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "ቆይ... ማውረድ በሂደት ላይ..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "በምትኩ የ.m3u ፋይል ሲከፍቱ፡\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "ቢጫ ቁልፍ፡\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "የውጤቱን አይነት ማዋቀር ያስፈልግዎታል\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "የአገልጋይ መግቢያ እና የውሂብ ግቤት"
 
 msgid "fixed time"
-msgstr ""
+msgstr "የተወሰነ ጊዜ"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "አስተናጋጅ\t(አስተናጋጅ ያለ http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "ክፍተት"
 
 msgid "not exist!"
-msgstr ""
+msgstr "የለም!"
 
 msgid "password\n"
-msgstr ""
+msgstr "የይለፍ ቃል\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "ወደብ\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "ተጠቃሚ\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "እባክህን ጠብቅ..."

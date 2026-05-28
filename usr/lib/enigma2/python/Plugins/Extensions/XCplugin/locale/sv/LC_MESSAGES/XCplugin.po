@@ -19,22 +19,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s INTE UPPTÄCKT!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(BLÅ KNAPP):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(GRÖN KNAPP):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(REC-KNAPP):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(STOPP-KNAPP):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(GUL KNAPP):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -43,652 +43,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Avbryter..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Obehörig åtkomst (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktiv automatisk bukettuppdatering"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Aktiv huvudskärm Stor"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Justera tidszon"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Justera tidszon (timme)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Ett oväntat fel inträffade. Försök igen senare."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Med ett intervall på timmar eller vid en bestämd tidpunkt"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Automatisk bukettuppdatering (schema):"
 
 msgid "Back"
-msgstr ""
+msgstr "Tillbaka"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Bukett"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Bukett stil"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Avboka"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Det går inte att ändra denna aktivitetsstatus"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Det går inte att pausa/återuppta detta objekt"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Det går inte att ta bort det här objektet"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Kolla favoritlistorna..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Välj katalog:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Välj katalog"
 
 msgid "Close"
-msgstr ""
+msgstr "Nära"
 
 msgid "Config"
-msgstr ""
+msgstr "Konfig"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Konfigurationsinställningar\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Konfigurera vid en fast tidpunkt"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Konfigurera varje timmes intervall från och med nu"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Konfigurera namnet på den exporterade buketten. Standard är myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigurera tjänstreferens Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigurera tjänstreferens Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Konfigurera typ av konvertering i favoritlistan"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Konfigurera för att placera buketterna i de konverterade listorna"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Konfigurera typ av nedladdningsfilm: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Konfigurera typen av ström som ska laddas ned genom konvertering"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "grattis! Du har redan den senaste versionen..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Ansluter till servern..."
 
 msgid "Console"
-msgstr ""
+msgstr "Trösta"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Konvertering %s pågår:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Konverteringstyp Utdata"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Konvertera spellista till: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Skapa XC Live/VOD-buketter\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "LADDA NER VIDEO?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "LADDA NED"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Dataserverkonfiguration:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Visa XCplugin i huvudmenyn"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Vill du konvertera %s till favorit .tv?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Vill du installera uppdateringen (%s) nu?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Vill du ta bort %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Vill du ta bort: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Vill du ta bort: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Ladda ner"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Nedladdningen misslyckades!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Nedladdningen är klar!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Ladda ner M3u-fil?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Ladda ner Picons?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Nedladdningstyp"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Ladda ner VOD vald kanal\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Ladda ner video \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Nedladdningen slutförd"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Nedladdningen har slutförts!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Nedladdningsfel: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Nedladdning misslyckades med returkod: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Nedladdning misslyckades:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Nedladdningen misslyckades"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Ladda ner i corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Nedladdningen startade om: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Nedladdningen startade: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Nedladdning stoppad: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Nedladdningsuppgiften har tagits bort"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Ladda ner: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Den nedladdade filen är för liten"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Den nedladdade filen hittades inte"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Ange lösenord"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Ange serverport t.ex.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Ange serverns URL utan 'http://' din_domin"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Ange användarnamn"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Ange pinkod"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "EPG-guide eller imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Felkod"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Fel vid kontroll av nedladdning: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Fel när filen skulle raderas:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Fel vid läsning eller bearbetning av %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Fel vid läsning eller bearbetning av filen: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Fel vid borttagning av uppgift: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Fel vid verifiering av nedladdning: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Utgång"
 
 msgid "Export"
-msgstr ""
+msgstr "Exportera"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Exportera filen m3u till Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "MISSLYCKADES"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Det gick inte att hämta uppdateringsinformation. Kontrollera din internetanslutning."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Det gick inte att analysera uppdateringsinformation. Försök igen senare."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Fil Okänd!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Filen hittades inte eller tom: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Filen hittades inte!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Filtrera dålig dag"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrera den här kategorin..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Välj först listan eller skriv in den i Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Mapp användarfil .xml"
 
 msgid "Format:\n"
 msgstr ""
 
 msgid "Free Space"
-msgstr ""
+msgstr "Ledigt utrymme"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "HJÄLPKNAPP:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "HEM"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Hjälp\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Göm/Visa"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Om spelaren är aktiv STOPPA spelarens riproduktion vid utgång"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Om du har en fil:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Om du har en fil\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Importera"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Importera server från /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Importera server från /tmp/xc.tx?"
 
 msgid "Info"
 msgstr ""
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Init Fortsätt spela\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Ogiltig URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Ogiltigt datumformat i uppdateringsinformation."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Ogiltigt filformat: inte tillräckligt med eller tomma rader i %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Ogiltigt format i %s. Kunde inte extrahera serverinformation."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Ogiltig eller ostödd jobbtyp"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Är katalog eller fil inte existerar"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Senaste kanaluppdatering: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Linje finns redan i spellistan"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Raden har lagts till i spellistan"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Länk i huvudmenyn"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Live Player aktiv i inställning: ställ in Nej för Record Live"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player för Stream .ts: ställ in Nej för Record Live"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Typ av livetjänster"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer aktiv"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u-lastare"
 
 msgid "Main"
 msgstr ""
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Huvudskärm XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Göra"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Mediamapp"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Saknade eller tom fil: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Film"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Filmmapp"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Filmen har raderats"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Namnbukettkonfiguration:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Namn Bukett Export"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Nätverksfel!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Ingen server konfigurerad för nedladdning!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Ingen video att ladda ner/spela in!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Ingen data eller spellista som inte är kompatibel med XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Ingen film har valts!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Ingen uppgift har valts!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Ingen uppdateringsinformation tillgänglig."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Endast serieavsnitt tillåtna!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Endast VOD-film tillåten!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Öppna filmmappen\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='ååååååååååååååå'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "PAUS"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Pausa/Fortsätt"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV buketter till"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Placera IPTV-buketter kl"
 
 msgid "Player"
-msgstr ""
+msgstr "Spelare"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Vänligen konfigurera serverinformationen först"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Ange pinkoden för föräldrakontrollen"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Förbereder nedladdningen..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Lägg .m3u-filer i mappen %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Lägg dina linjer till"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Stäng verkligen utan att spara inställningar?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Rec film"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Rec-serien"
 
 msgid "Reload"
-msgstr ""
+msgstr "Ladda om"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Ladda om listan\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Ladda om spellistor pågår..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Ta bort"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Ta bort spellistan från buketter?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Vill du ta bort nedladdningsuppgiften för {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Ta bort filen från listan\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Tar bort alla buketter som har varit\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Ändring av upplösning misslyckades"
 
 msgid "Restart"
-msgstr ""
+msgstr "Starta om"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Återgå till kanallistan\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Resursen hittades inte (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "VÄLJ DITT VAL"
 
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Nedladdning: %d%% - Hastighet: %.1f KB/s - Återstående tid: %d sek"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Schematyp:"
 
 msgid "Search"
-msgstr ""
+msgstr "Söka"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Sök live/film"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Sök efter en titel i listan"
 
 msgid "Select"
-msgstr ""
+msgstr "Välja"
 
 msgid "Server PORT"
 msgstr ""
 
 msgid "Server Password"
-msgstr ""
+msgstr "Serverlösenord"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Server timeout"
 
 msgid "Server URL"
 msgstr ""
 
 msgid "Server Username"
-msgstr ""
+msgstr "Server användarnamn"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Ställ in "Live Player aktiv" i Inställning:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Ställ in "Nej" för Record Live\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Ange namn för MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Inställningarna har sparats!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Börja ladda ner alla avsnitt serier\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Starta nedladdning eller spela in vald kanal:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Stoppa spelare vid utgång"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Filmen finns inte!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Pinkoden du angav är fel."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Dags att börja uppdatera:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Timeout-server (sek)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Anslutningen tog timeout"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "OKÄND"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Uppdatering avbröts!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Uppdateringsintervall (timmar):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Typ av Vod-tjänster"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Vill du verkligen stoppa nedladdningen?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Vänta... nedladdning pågår..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "När du öppnar en .m3u-fil istället:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "GUL KNAPP:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Du måste konfigurera typen av utdata\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Din serverinloggning och datainmatning"
 
 msgid "fixed time"
-msgstr ""
+msgstr "fast tid"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "värd\t(värd utan http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "intervall"
 
 msgid "not exist!"
-msgstr ""
+msgstr "finns inte!"
 
 msgid "password\n"
-msgstr ""
+msgstr "lösenord\n"
 
 msgid "port\n"
 msgstr ""
 
 msgid "user\n"
-msgstr ""
+msgstr "användare\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "vänta snälla..."

@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s MHUX SKOPTAT!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(BUTTONI BLUE):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(BUTTONA AĦDAR):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(BUTTONI REC):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(BUTTONI STOP):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(BUTTONI SAFAR):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,373 +42,373 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Abort..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Aċċess mhux awtorizzat (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aġġornament Attiv tal-Bukkett Awtomatiku"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Skrin Prinċipali Attiv Kbir"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Aġġusta Timezone"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Aġġusta Żona tal-Ħin (siegħa)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Sar żball mhux mistenni. Jekk jogħġbok erġa' pprova aktar tard."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "F'intervall ta 'sigħat jew f'ħin fiss"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Aġġornament awtomatiku tal-bukkett (skeda):"
 
 msgid "Back"
-msgstr ""
+msgstr "Lura"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Bukkett"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Stil bukkett"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ikkanċella"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Ma tistax timmodifika dan l-istatus tal-kompitu"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Ma tistax tieqaf/tkompli din l-oġġett"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Ma tistax tneħħi dan l-oġġett"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Iċċekkja fuq il-listi tal-favoriti..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Agħżel Direttorju:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Agħżel direttorju"
 
 msgid "Close"
-msgstr ""
+msgstr "Agħlaq"
 
 msgid "Config"
-msgstr ""
+msgstr "Konfigurazzjoni"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Għażliet ta' Setup tal-Konfigurazzjoni\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Ikkonfigura f'ħin fiss"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Ikkonfigura kull intervall ta 'sigħat minn issa"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Ikkonfigura l-isem tal-bukkett esportat. Default huwa myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Ikkonfigura s-servizz Referenza Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Ikkonfigura s-servizz Referenza Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Ikkonfigura t-tip ta 'konverżjoni fil-lista favorita"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Ikkonfigura biex tpoġġi l-bukketti tal-listi konvertiti"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Ikkonfigura t-tip ta' film tat-tniżżil: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Ikkonfigura t-tip ta 'nixxiegħa li għandha titniżżel permezz ta' konverżjoni"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Prosit! Diġà għandek l-aħħar verżjoni..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Konnessjoni mas-server..."
 
 msgid "Console"
 msgstr ""
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Konverżjoni %s għaddejja:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Tip ta' konverżjoni Output"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Ikkonverti Playlist għal: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Oħloq Bukketti XC Live/VOD\n"
 
 msgid "DOWNLOAD VIDEO?"
 msgstr ""
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "Tniżżil"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Konfigurazzjoni tas-Server tad-Data:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Uri XCplugin fil-Menu Prinċipali"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Trid tikkonverti %s għal .tv favorit?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Trid tinstalla l-aġġornament (%s) issa?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Trid tneħħi %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Trid tneħħi: %s?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Trid tneħħi: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Niżżel"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Niżżel fallut!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Niżżel Lest!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Niżżel il-Fajl M3u?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Niżżel Picons ?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Niżżel Tip"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Niżżel il-kanal magħżul VOD\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Niżżel il-Vidjo\n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Niżżel lest"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "It-tniżżil tlesta b'suċċess!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Żball tat-tniżżil: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "It-tniżżil falla bil-kodiċi tar-ritorn: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "It-tniżżil falla:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "It-tniżżil falla"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Niżżel in corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Niżżel mill-ġdid: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Niżżel beda: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "It-tniżżil waqaf: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Il-kompitu tat-tniżżil tneħħa"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Niżżel: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Il-fajl imniżżel huwa żgħir wisq"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Fajl imniżżel ma nstabx"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Daħħal il-Password"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Daħħal il-Port tas-Server Eż.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Daħħal Server Url mingħajr 'http://' your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Daħħal Username"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Daħħal il-kodiċi tal-pin"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Gwida Epg jew imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Kodiċi ta' żball"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Żball fil-kontroll tat-tniżżil: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Żball meta tħassar il-fajl:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Żball fil-qari jew l-ipproċessar ta' %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Żball fil-qari jew l-ipproċessar tal-fajl: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Żball fit-tneħħija tal-kompitu: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Żball fil-verifika tat-tniżżil: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ħruġ"
 
 msgid "Export"
-msgstr ""
+msgstr "Esportazzjoni"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Esportazzjoni tal-fajl m3u għal Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "FALLA"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Naqas milli jġib l-informazzjoni tal-aġġornament. Jekk jogħġbok iċċekkja l-konnessjoni tal-internet tiegħek."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Naqset milli tiġi analizzata l-informazzjoni tal-aġġornament. Jekk jogħġbok erġa' pprova aktar tard."
 
 msgid "File Unknow!!!"
 msgstr ""
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Fajl ma nstabx jew vojt: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Fajl ma nstabx!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Iffiltra Jum Ħażin"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Iffiltra din il-kategorija..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "L-ewwel Agħżel il-lista jew daħħalha fil-Konfigurazzjoni"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Fajl tal-utent tal-folder .xml"
 
 msgid "Format:\n"
 msgstr ""
 
 msgid "Free Space"
-msgstr ""
+msgstr "Spazju Ħieles"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "BUTTONI TA' GĦAJNUNA:\n"
 
 msgid "HOME"
 msgstr ""
 
 msgid "Help\n"
-msgstr ""
+msgstr "Għajnuna\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Aħbi/Uri"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Jekk il-plejer attiv Waqqaf ir-riproduzzjoni tal-plejer mal-ħruġ"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Jekk għandek fajl:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Jekk għandek fajl\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Importazzjoni"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Importa Server minn /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Importa Server minn /tmp/xc.tx?"
 
 msgid "Info"
 msgstr ""
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Init Kompli Play\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "URL invalidu!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Format tad-data mhux validu fl-informazzjoni tal-aġġornament."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Format tal-fajl mhux validu: mhux biżżejjed jew linji vojta f'%s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Format mhux validu f'%s. Ma setgħetx tiġbed id-dettalji tas-server."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Tip ta' xogħol invalidu jew mhux appoġġjat"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Id-Direttorju jew il-fajl ma jeżistux"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "L-aħħar aġġornament tal-kanal: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Linja diġà teżisti fil-playlist"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Linja mehmuża mal-playlist"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Link fil-Menu Prinċipali"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Live Player Attiv fl-Issettjar: issettja Le għal Rekord Live"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player għal Stream .ts: issettja Le għal Rekord Live"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Servizzi Live Tip"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer Attiv"
 
 msgid "M3u"
 msgstr ""
@@ -417,268 +417,268 @@ msgid "M3u Loader"
 msgstr ""
 
 msgid "Main"
-msgstr ""
+msgstr "Prinċipali"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Skrin Prinċipali XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Agħmel"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Folder tal-Midja"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Fajl nieqes jew vojt: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Film"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Folder tal-films"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Il-film tħassar b'suċċess"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Isem Bukkett Konfigurazzjoni:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Isem Bukkett Esportazzjoni"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Żball tan-netwerk!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Ebda Server Konfigurat biex Niżżel!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Ebda Video biex Niżżel/Record!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "L-ebda data jew playlist mhux kompatibbli ma 'XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Ebda film magħżul!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Ebda kompitu magħżul!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Ebda informazzjoni ta' aġġornament disponibbli."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Episodji Serje biss permessi!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Film VOD biss permess!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Iftaħ il-Folder tal-films\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='yyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "PAWŻA"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Waqfa/Ibda"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV bukketti biex"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Poġġi bukketti IPTV fuq"
 
 msgid "Player"
-msgstr ""
+msgstr "Plejer"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Jekk jogħġbok kkonfigura d-dettalji tas-server l-ewwel"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Jekk jogħġbok daħħal il-kodiċi tal-pin tal-kontroll tal-ġenituri"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Nipprepara t-tniżżil..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Poġġi .m3u Fajls fil-Folder %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Poġġi l-linji tiegħek għall-"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Tassew tagħlaq mingħajr ma tissejvja s-settings?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Film Rec"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Serje Rec"
 
 msgid "Reload"
 msgstr ""
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Reload Lista\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Reload Playlists għaddejjin..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Neħħi"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Neħħi Playlist minn Bukketti?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Neħħi l-kompitu tat-tniżżil għal {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Neħħi l-fajl mil-lista\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Tneħħi l-bukketti kollha li ġew\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Riżoluzzjoni Bidla falliet"
 
 msgid "Restart"
-msgstr ""
+msgstr "Ibda mill-ġdid"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Irritorna għal-Lista tal-Kanali\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Riżorsa mhux misjuba (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "AGĦŻEL L-GĦAŻLA TIEGĦEK"
 
 msgid "Save"
-msgstr ""
+msgstr "Ħlief"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Niżżel: %d%% - Veloċità: %.1f KB/s - Ħin li jifdal: %d sek"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Tip ta' Skeda:"
 
 msgid "Search"
-msgstr ""
+msgstr "Fittex"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Fittex LIVE/Film"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Fittex għal titolu fil-lista"
 
 msgid "Select"
-msgstr ""
+msgstr "Agħżel"
 
 msgid "Server PORT"
 msgstr ""
 
 msgid "Server Password"
-msgstr ""
+msgstr "Password tas-server"
 
 msgid "Server Timeout"
 msgstr ""
 
 msgid "Server URL"
-msgstr ""
+msgstr "URL tas-server"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Isem tal-Utent tas-Server"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Issettja 'Plejer Attiv' fl-Issettjar:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Issettja 'Le' għal Record Live\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Issettja l-Isem għal MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Settings salvati b'suċċess!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Ibda Niżżel is-Serje ta' Episodji Kollha\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Ibda Niżżel jew Irreġistra l-Kanal Magħżul:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Waqqaf il-Plejer mal-Ħruġ"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Il-film ma jeżistix!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Il-kodiċi tal-pin li daħħalt huwa żbaljat."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Ħin biex tibda l-aġġornament:"
 
 msgid "Timeout Server (sec)"
 msgstr ""
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Konnessjoni skaduta"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "MHUX MAGĦRUF"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Aġġornament Abortat!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Intervall tal-aġġornament (sigħat):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Tip ta' Servizzi Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Verament trid twaqqaf it-tniżżil?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Stenna... tniżżil għaddej..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Meta tiftaħ fajl .m3u minflok:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "BUTTONI SAFAR:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Trid tikkonfigura t-tip ta' output\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Login tiegħek Server u input tad-dejta"
 
 msgid "fixed time"
-msgstr ""
+msgstr "ħin fiss"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(host mingħajr http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "intervall"
 
 msgid "not exist!"
-msgstr ""
+msgstr "ma jeżistux!"
 
 msgid "password\n"
 msgstr ""
@@ -687,7 +687,7 @@ msgid "port\n"
 msgstr ""
 
 msgid "user\n"
-msgstr ""
+msgstr "utent\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "stenna jekk jogħġbok..."

@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s கண்டறியப்படவில்லை!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(நீல பொத்தான்):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(பச்சை பொத்தான்):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(REC பொத்தான்):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(நிறுத்து பொத்தான்):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(மஞ்சள் பொத்தான்):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,652 +42,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "கைவிடுகிறது..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "அங்கீகரிக்கப்படாத அணுகல் (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "செயலில் தானியங்கி பூச்செண்டு புதுப்பிப்பு"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "செயலில் உள்ள முதன்மைத் திரை பெரியது"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "நேர மண்டலத்தைச் சரிசெய்யவும்"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "நேர மண்டலத்தைச் சரிசெய்யவும் (மணி நேரம்)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "எதிர்பாராத பிழை ஏற்பட்டது. பிறகு முயற்சிக்கவும்."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "மணிநேர இடைவெளியில் அல்லது ஒரு குறிப்பிட்ட நேரத்தில்"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "தானியங்கி பூச்செண்டு புதுப்பிப்பு (அட்டவணை):"
 
 msgid "Back"
-msgstr ""
+msgstr "மீண்டும்"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "பூங்கொத்து"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "பூங்கொத்து பாணி"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ரத்து செய்"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "இந்த பணி நிலையை மாற்ற முடியாது"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "இந்த உருப்படியை இடைநிறுத்த/மீண்டும் தொடர முடியாது"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "இந்த உருப்படியை அகற்ற முடியாது"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "பிடித்தவை பட்டியல்களைப் பார்க்கவும்..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "கோப்பகத்தைத் தேர்வுசெய்க:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "கோப்பகத்தைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Close"
-msgstr ""
+msgstr "மூடு"
 
 msgid "Config"
-msgstr ""
+msgstr "கட்டமைப்பு"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "கட்டமைப்பு அமைவு விருப்பங்கள்\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "ஒரு குறிப்பிட்ட நேரத்தில் கட்டமைக்கவும்"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "இப்போதிலிருந்து ஒவ்வொரு மணிநேர இடைவெளியையும் உள்ளமைக்கவும்"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "ஏற்றுமதி செய்யப்பட்ட பூச்செடியின் பெயரை உள்ளமைக்கவும். இயல்புநிலை myBouquet ஆகும்"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "சேவை குறிப்பு Dvb-Iptv-Gstreamer-Exteplayer3 ஐ உள்ளமைக்கவும்"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "சேவை குறிப்பு Iptv-Gstreamer-Exteplayer3 ஐ உள்ளமைக்கவும்"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "பிடித்த பட்டியலில் மாற்றும் வகையை உள்ளமைக்கவும்"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "மாற்றப்பட்ட பட்டியல்களின் பூங்கொத்துகளை வைக்க கட்டமைக்கவும்"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "பதிவிறக்கத் திரைப்படத்தின் வகையை உள்ளமைக்கவும்: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "மாற்றத்தின் மூலம் பதிவிறக்கம் செய்யப்படும் ஸ்ட்ரீம் வகையை உள்ளமைக்கவும்"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "வாழ்த்துகள்! உங்களிடம் ஏற்கனவே சமீபத்திய பதிப்பு உள்ளது..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "சேவையகத்துடன் இணைக்கிறது..."
 
 msgid "Console"
-msgstr ""
+msgstr "பணியகம்"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "மாற்றம் %s செயலில் உள்ளது:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "மாற்று வகை வெளியீடு"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "பிளேலிஸ்ட்டை %s ஆக மாற்றவா?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "XC லைவ்/VOD பூங்கொத்துகளை உருவாக்கவும்\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "வீடியோவைப் பதிவிறக்கவா?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "பதிவிறக்கம்"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "தரவு சேவையக கட்டமைப்பு:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "முதன்மை மெனுவில் XCplugin ஐக் காண்பி"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "%s ஐ பிடித்த .tv ஆக மாற்ற விரும்புகிறீர்களா?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "புதுப்பிப்பை (%s) இப்போது நிறுவ விரும்புகிறீர்களா?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "%s ஐ அகற்ற விரும்புகிறீர்களா?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "நீங்கள் அகற்ற விரும்புகிறீர்களா: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "நீங்கள் அகற்ற விரும்புகிறீர்களா: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "பதிவிறக்கவும்"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "பதிவிறக்கம் தோல்வி!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "பதிவிறக்கம் முடிந்தது!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "M3u கோப்பைப் பதிவிறக்கவா?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Picons ஐப் பதிவிறக்கவா?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "பதிவிறக்க வகை"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட VOD சேனலைப் பதிவிறக்கவும்\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "வீடியோவைப் பதிவிறக்கவும் \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "பதிவிறக்கம் முடிந்தது"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "பதிவிறக்கம் வெற்றிகரமாக முடிந்தது!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "பதிவிறக்க பிழை: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "திரும்பக் குறியீட்டுடன் பதிவிறக்கம் தோல்வியடைந்தது: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "பதிவிறக்கம் தோல்வி:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "பதிவிறக்கம் தோல்வியடைந்தது"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "கோர்சோவில் பதிவிறக்கவும்"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "பதிவிறக்கம் மீண்டும் தொடங்கப்பட்டது: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "பதிவிறக்கம் தொடங்கியது: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "பதிவிறக்கம் நிறுத்தப்பட்டது: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "பதிவிறக்கப் பணி அகற்றப்பட்டது"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "பதிவிறக்கம்: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "பதிவிறக்கம் செய்யப்பட்ட கோப்பு மிகவும் சிறியதாக உள்ளது"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "பதிவிறக்கம் செய்யப்பட்ட கோப்பு கிடைக்கவில்லை"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "கடவுச்சொல்லை உள்ளிடவும்"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "சர்வர் போர்ட்டை உள்ளிடவும் எ.கா.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "'http://' your_domine இல்லாமல் சர்வர் Url ஐ உள்ளிடவும்"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "பயனர்பெயரை உள்ளிடவும்"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "பின் குறியீட்டை உள்ளிடவும்"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg வழிகாட்டி அல்லது imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "பிழை குறியீடு"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "பதிவிறக்கத்தைக் கட்டுப்படுத்துவதில் பிழை: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "கோப்பை நீக்குவதில் பிழை:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "%s ஐப் படிப்பதில் அல்லது செயலாக்குவதில் பிழை: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "கோப்பைப் படிப்பதில் அல்லது செயலாக்குவதில் பிழை: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "பணியை அகற்றுவதில் பிழை: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "பதிவிறக்கத்தை சரிபார்ப்பதில் பிழை: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "வெளியேறு"
 
 msgid "Export"
-msgstr ""
+msgstr "ஏற்றுமதி"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "பூச்செண்டு .tv\n க்கு m3u கோப்பை ஏற்றுமதி செய்யவும்"
 
 msgid "FAILED"
-msgstr ""
+msgstr "தோல்வியடைந்தது"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "புதுப்பிப்புத் தகவலைப் பெறுவதில் தோல்வி. உங்கள் இணைய இணைப்பைச் சரிபார்க்கவும்."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "புதுப்பிப்புத் தகவலை அலசுவதில் தோல்வி. பிறகு முயற்சிக்கவும்."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "கோப்பு தெரியவில்லை!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "கோப்பு கிடைக்கவில்லை அல்லது காலியாக உள்ளது: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "கோப்பு கிடைக்கவில்லை!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "மோசமான நாளை வடிகட்டவும்"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "இந்த வகையை வடிகட்டவும்..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "முதலில் பட்டியலைத் தேர்ந்தெடுக்கவும் அல்லது கட்டமைப்பில் உள்ளிடவும்"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "கோப்புறை பயனர் கோப்பு .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "வடிவம்:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "இலவச இடம்"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "உதவி பொத்தான்:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "வீடு"
 
 msgid "Help\n"
-msgstr ""
+msgstr "உதவி\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "மறை/காட்டு"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "பிளேயர் செயலில் இருந்தால், வெளியேறும்போது பிளேயர் ரிப்ரொடக்ஷனை நிறுத்தவும்"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "உங்களிடம் கோப்பு இருந்தால்:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "உங்களிடம் கோப்பு இருந்தால்\n"
 
 msgid "Import"
-msgstr ""
+msgstr "இறக்குமதி"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "/etc/enigma2/iptv.sh இலிருந்து சேவையகத்தை இறக்குமதி செய்யவா?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "/tmp/xc.tx இலிருந்து சேவையகத்தை இறக்குமதி செய்யவா?"
 
 msgid "Info"
-msgstr ""
+msgstr "தகவல்"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Init தொடரவும்\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "தவறான URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "புதுப்பிப்பு தகவலில் தவறான தேதி வடிவம்."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "தவறான கோப்பு வடிவம்: போதுமானதாக இல்லை அல்லது %s இல் கோடுகள் காலியாக உள்ளன"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "%s இல் தவறான வடிவம். சர்வர் விவரங்களைப் பிரித்தெடுக்க முடியவில்லை."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "தவறான அல்லது ஆதரிக்கப்படாத வேலை வகை"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "கோப்பகம் அல்லது கோப்பு இல்லை"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "கடைசி சேனல் புதுப்பிப்பு: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "பிளேலிஸ்ட்டில் ஏற்கனவே வரி உள்ளது"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "பிளேலிஸ்ட்டில் வரி இணைக்கப்பட்டது"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "முதன்மை மெனுவில் இணைப்பு"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "லைவ் பிளேயர் செட்டிங்கில் ஆக்டிவ்: ரெக்கார்ட் லைவ்க்கான எண் அமைக்கவும்"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "ஸ்ட்ரீமிற்கான லைவ் பிளேயர் .ts: பதிவு நேரலைக்கான எண் இல்லை"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "நேரடி சேவைகள் வகை"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "லைவ் பிளேயர் செயலில் உள்ளது"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u ஏற்றி"
 
 msgid "Main"
-msgstr ""
+msgstr "முக்கிய"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "முதன்மைத் திரை XL"
 
 msgid "Make"
-msgstr ""
+msgstr "செய்ய"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "மீடியா கோப்புறை"
 
 msgid "MediaPlayer\n"
-msgstr ""
+msgstr "மீடியா பிளேயர்\n"
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "கோப்பு விடுபட்டுள்ளது அல்லது காலியாக உள்ளது: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "திரைப்படம்"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "மூவி கோப்புறை"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "திரைப்படம் வெற்றிகரமாக நீக்கப்பட்டது"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "பெயர் பூங்கொத்து கட்டமைப்பு:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "பெயர் பூங்கொத்து ஏற்றுமதி"
 
 msgid "Network error!"
-msgstr ""
+msgstr "நெட்வொர்க் பிழை!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "பதிவிறக்கம் செய்ய சர்வர் எதுவும் கட்டமைக்கப்படவில்லை!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "பதிவிறக்க/பதிவு செய்ய வீடியோ இல்லை!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "XCplugin உடன் பொருந்தாத தரவு அல்லது பிளேலிஸ்ட் இல்லை."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "திரைப்படம் எதுவும் தேர்ந்தெடுக்கப்படவில்லை!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "பணி எதுவும் தேர்ந்தெடுக்கப்படவில்லை!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "புதுப்பிப்பு தகவல் இல்லை."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "தொடர் பாகங்கள் மட்டுமே அனுமதிக்கப்படும்!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "VOD திரைப்படத்திற்கு மட்டுமே அனுமதி!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "மூவி கோப்புறையைத் திறக்கவும்\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "கடவுச்சொல்='yyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "இடைநிறுத்தப்பட்டது"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "இடைநிறுத்தம்/மறுதொடக்கம்"
 
 msgid "Picons IPTV"
-msgstr ""
+msgstr "பிகான்ஸ் ஐபிடிவி"
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV பூங்கொத்துகள்"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "IPTV பூங்கொத்துகளை வைக்கவும்"
 
 msgid "Player"
-msgstr ""
+msgstr "வீரர்"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "முதலில் சர்வர் விவரங்களை உள்ளமைக்கவும்"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "பெற்றோர் கட்டுப்பாட்டு பின் குறியீட்டை உள்ளிடவும்"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "பதிவிறக்கம் தயாராகிறது..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr ".m3u கோப்புகளை %s கோப்புறையில் வைக்கவும்"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "உங்கள் வரிகளை இடுங்கள்"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "அமைப்புகளைச் சேமிக்காமல் உண்மையில் மூடவா?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "ரெக் திரைப்படம்"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "ரெக் தொடர்"
 
 msgid "Reload"
-msgstr ""
+msgstr "மீண்டும் ஏற்றவும்"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "பட்டியலை மீண்டும் ஏற்றவும்\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "பிளேலிஸ்ட்களை மீண்டும் ஏற்றுவது செயலில் உள்ளது..."
 
 msgid "Remove"
-msgstr ""
+msgstr "அகற்று"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "பூங்கொத்துகளில் இருந்து பிளேலிஸ்ட்டை அகற்றவா?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "{}க்கான பதிவிறக்கப் பணியை அகற்றவா?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "பட்டியலிலிருந்து கோப்பை அகற்று\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "இருந்த அனைத்து பூங்கொத்துகளையும் அகற்றும்\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "தெளிவுத்திறனை மாற்ற முடியவில்லை"
 
 msgid "Restart"
-msgstr ""
+msgstr "மறுதொடக்கம்"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "சேனல்கள் பட்டியலுக்குத் திரும்பு\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "ஆதாரம் கிடைக்கவில்லை (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "உங்கள் விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Save"
-msgstr ""
+msgstr "சேமிக்கவும்"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "பதிவிறக்கம்: %d%% - வேகம்: %.1f KB/s - மீதமுள்ள நேரம்: %d நொடி"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "அட்டவணை வகை:"
 
 msgid "Search"
-msgstr ""
+msgstr "தேடு"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "நேரலை/திரைப்படத்தைத் தேடுங்கள்"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "பட்டியலில் ஒரு தலைப்பைத் தேடவும்"
 
 msgid "Select"
-msgstr ""
+msgstr "தேர்ந்தெடு"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "சர்வர் போர்ட்"
 
 msgid "Server Password"
-msgstr ""
+msgstr "சேவையக கடவுச்சொல்"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "சர்வர் நேரம் முடிந்தது"
 
 msgid "Server URL"
-msgstr ""
+msgstr "சேவையக URL"
 
 msgid "Server Username"
-msgstr ""
+msgstr "சேவையக பயனர் பெயர்"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "அமைப்பில் 'லைவ் பிளேயர் ஆக்டிவ்' என்பதை அமைக்கவும்:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "நேரலையில் பதிவு செய்ய 'இல்லை' என்பதை அமைக்கவும்\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "MakerBouquet க்கான பெயரை அமைக்கவும்"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "அமைப்புகள் வெற்றிகரமாக சேமிக்கப்பட்டன!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "அனைத்து எபிசோட் தொடர்களையும் பதிவிறக்கத் தொடங்கவும்\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "பதிவிறக்கத்தைத் தொடங்கவும் அல்லது தேர்ந்தெடுக்கப்பட்ட சேனலைப் பதிவு செய்யவும்:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "வெளியேறும் போது பிளேயரை நிறுத்தவும்"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "திரைப்படம் இல்லை!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "நீங்கள் உள்ளிட்ட பின் குறியீடு தவறானது."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "புதுப்பிப்பைத் தொடங்குவதற்கான நேரம்:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "காலாவதி சேவையகம் (வினாடி)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "இணைப்பு நேரம் முடிந்தது"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "தெரியவில்லை"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "புதுப்பிப்பு நிறுத்தப்பட்டது!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "புதுப்பிப்பு இடைவெளி (மணிநேரம்):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Vod சேவைகள் வகை"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "நீங்கள் உண்மையில் பதிவிறக்கத்தை நிறுத்த விரும்புகிறீர்களா?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "காத்திருங்கள்... பதிவிறக்கம் செயலில் உள்ளது..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "அதற்குப் பதிலாக .m3u கோப்பைத் திறக்கும் போது:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "மஞ்சள் பொத்தான்:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "வெளியீட்டின் வகையை நீங்கள் உள்ளமைக்க வேண்டும்\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "உங்கள் சர்வர் உள்நுழைவு மற்றும் தரவு உள்ளீடு"
 
 msgid "fixed time"
-msgstr ""
+msgstr "நிலையான நேரம்"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "ஹோஸ்ட்\t(http:// இல்லாமல் ஹோஸ்ட்)\n"
 
 msgid "interval"
-msgstr ""
+msgstr "இடைவெளி"
 
 msgid "not exist!"
-msgstr ""
+msgstr "இல்லை!"
 
 msgid "password\n"
-msgstr ""
+msgstr "கடவுச்சொல்\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "துறைமுகம்\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "பயனர்\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "காத்திருங்கள்..."

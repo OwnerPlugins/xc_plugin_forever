@@ -19,22 +19,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s לא זוהה!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(כפתור כחול):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(לחצן ירוק):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(לחצן REC):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(לחצן עצירה):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(כפתור צהוב):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -43,652 +43,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "מבטל..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "גישה לא מורשית (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "עדכון זר אוטומטי אקטיבי"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "מסך ראשי פעיל גדול"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "התאם את אזור הזמן"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "התאם אזור זמן (שעה)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "אירעה שגיאה בלתי צפויה. אנא נסה שוב מאוחר יותר."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "במרווח של שעות או בשעה קבועה"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "עדכון זר אוטומטי (לוח זמנים):"
 
 msgid "Back"
-msgstr ""
+msgstr "בְּחֲזָרָה"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "זֵר"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "בסגנון זר פרחים"
 
 msgid "Cancel"
-msgstr ""
+msgstr "לְבַטֵל"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "לא ניתן לשנות את סטטוס המשימה הזו"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "לא ניתן להשהות/לחדש את הפריט הזה"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "לא ניתן להסיר פריט זה"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "בדוק ברשימות המועדפים..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "בחר ספרייה:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "בחר ספרייה"
 
 msgid "Close"
-msgstr ""
+msgstr "לִסְגוֹר"
 
 msgid "Config"
 msgstr ""
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "הגדרות הגדרות\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "הגדר בזמן קבוע"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "הגדר כל מרווח של שעות מעכשיו"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "הגדר את שם הזר המיוצא. ברירת המחדל היא myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "קבע את תצורת השירות הפניה Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "הגדר את שירות הפניה Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "הגדר את סוג ההמרה ברשימת המועדפים"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "הגדר כדי למקם את זרי הפרחים של הרשימות שהומרו"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "הגדר את סוג ההורדה של הסרט: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "הגדר את סוג הזרם להורדה על ידי המרה"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "מזל טוב! כבר יש לך את הגרסה העדכנית ביותר..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "מתחבר לשרת..."
 
 msgid "Console"
-msgstr ""
+msgstr "לְנַחֵם"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "המרה %s מתבצעת:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "סוג המרה פלט"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "להמיר רשימת השמעה ל: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "צור זרי XC Live/VOD\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "להוריד סרטון?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "הורדה"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "תצורת שרת נתונים:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "הצג את XCplugin בתפריט הראשי"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "האם ברצונך להמיר את %s ל-.tv המועדף?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "האם ברצונך להתקין עדכון (%s) כעת?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "האם אתה רוצה להסיר את %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "האם ברצונך להסיר: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "האם ברצונך להסיר: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "הורד"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "ההורדה נכשלה!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "ההורדה הסתיימה!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "להוריד קובץ M3u?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "להוריד Picons?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "סוג הורדה"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "הורד את הערוץ שנבחר ב-VOD\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "הורד סרטון \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "ההורדה הושלמה"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "ההורדה הושלמה בהצלחה!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "שגיאת הורדה: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "ההורדה נכשלה עם קוד החזרה: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "ההורדה נכשלה:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "ההורדה נכשלה"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "הורד בקורסו"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "ההורדה הופעלה מחדש: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "ההורדה החלה: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "ההורדה הופסקה: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "משימת ההורדה הוסרה"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "הורדה: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "הקובץ שהורד קטן מדי"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "הקובץ שהורד לא נמצא"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "הזן סיסמה"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "הזן יציאת שרת למשל: '8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "הזן את כתובת האתר של השרת ללא 'http://' your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "הזן שם משתמש"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "הזן קוד PIN"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "מדריך EPG או imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "קוד שגיאה"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "שגיאה בשליטה בהורדה: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "שגיאה במחיקת הקובץ:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "שגיאה בקריאה או עיבוד של %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "שגיאה בקריאה או עיבוד של הקובץ: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "שגיאה בהסרת משימה: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "שגיאה באימות הורדה: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "יְצִיאָה"
 
 msgid "Export"
-msgstr ""
+msgstr "יְצוּא"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "ייצא קובץ m3u ל-Buquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "נִכשָׁל"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "אחזור פרטי העדכון נכשל. אנא בדוק את חיבור האינטרנט שלך."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "ניתוח פרטי העדכון נכשל. אנא נסה שוב מאוחר יותר."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "קובץ לא ידוע!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "הקובץ לא נמצא או ריק: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "הקובץ לא נמצא!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "סינון יום רע"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "סנן את הקטגוריה הזו..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "ראשית בחר את הרשימה או הזן אותה בתצורה"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "קובץ משתמש של תיקיה .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "פורמט:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "מקום פנוי"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "כפתור עזרה:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "בַּיִת"
 
 msgid "Help\n"
-msgstr ""
+msgstr "עזרה\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "הסתר/הצג"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "אם שחקן פעיל עצור את הפקת הנגן ביציאה"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "אם יש לך קובץ:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "אם יש לך קובץ\n"
 
 msgid "Import"
-msgstr ""
+msgstr "יְבוּא"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "לייבא שרת מ-/etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "לייבא שרת מ-/tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "מידע"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "התחל המשך הפעלה\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "כתובת אתר לא חוקית!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "פורמט תאריך לא חוקי בפרטי העדכון."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "פורמט קובץ לא חוקי: אין מספיק שורות או שורות ריקות ב-%s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "פורמט לא חוקי ב-%s. לא ניתן היה לחלץ את פרטי השרת."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "סוג עבודה לא חוקי או לא נתמך"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "האם ספריה או קובץ אינם קיימים"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "עדכון ערוץ אחרון: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "שורה כבר קיימת ברשימת ההשמעה"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "שורה צורפה לרשימת ההשמעה"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "קישור בתפריט הראשי"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "נגן חי פעיל בהגדרה: הגדר No עבור Record Live"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "נגן חי עבור Stream .ts: הגדר No עבור Record Live"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "סוג שירותים חיים"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer פעיל"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "מטעין M3u"
 
 msgid "Main"
-msgstr ""
+msgstr "רָאשִׁי"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "מסך ראשי XL"
 
 msgid "Make"
-msgstr ""
+msgstr "לַעֲשׂוֹת"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "תיקיית מדיה"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "קובץ חסר או ריק: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "סֶרֶט"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "תיקיית סרטים"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "הסרט נמחק בהצלחה"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "תצורת שם זר:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "ייצוא זר שם"
 
 msgid "Network error!"
-msgstr ""
+msgstr "שגיאת רשת!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "לא הוגדר שרת להורדה!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "אין סרטון להורדה/הקלטה!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "אין נתונים או רשימת השמעה שאינם תואמים ל-XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "לא נבחר סרט!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "לא נבחרה משימה!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "אין מידע עדכון זמין."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "מותר רק פרקי סדרה!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "מותר רק סרט VOD!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "פתח את תיקיית הסרטים\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
 msgstr ""
 
 msgid "PAUSED"
-msgstr ""
+msgstr "מושהה"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "השהה / המשך"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons זרי IPTV ל"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "הניחו זרי IPTV ב"
 
 msgid "Player"
-msgstr ""
+msgstr "נַגָן"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "אנא הגדר את פרטי השרת תחילה"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "נא להזין את קוד ה-PIN של בקרת הורים"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "מכין את ההורדה..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "שים קבצי .m3u בתיקייה %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "שים את השורות שלך ל"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "באמת לסגור בלי לשמור הגדרות?"
 
 msgid "Rec Movie"
 msgstr ""
 
 msgid "Rec Series"
-msgstr ""
+msgstr "סדרת Rec"
 
 msgid "Reload"
-msgstr ""
+msgstr "לִטעוֹן מִחָדָשׁ"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "טען מחדש את הרשימה\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "טען מחדש רשימות השמעה בתהליך..."
 
 msgid "Remove"
-msgstr ""
+msgstr "לְהַסִיר"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "להסיר את רשימת ההשמעה מזרי פרחים?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "להסיר את משימת ההורדה עבור {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "הסר קובץ מהרשימה\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "מסיר את כל זרי הפרחים שהיו\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "שינוי הרזולוציה נכשל"
 
 msgid "Restart"
-msgstr ""
+msgstr "הפעל מחדש"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "חזור לרשימת הערוצים\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "משאב לא נמצא (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "בחר את הבחירה שלך"
 
 msgid "Save"
-msgstr ""
+msgstr "לְהַצִיל"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "הורדה: %d%% - מהירות: %.1f KB/s - זמן שנותר: %d שניות"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "סוג לוח זמנים:"
 
 msgid "Search"
-msgstr ""
+msgstr "לְחַפֵּשׂ"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "חפש בשידור חי/סרט"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "חפש כותרת ברשימה"
 
 msgid "Select"
-msgstr ""
+msgstr "לִבחוֹר"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "שרת PORT"
 
 msgid "Server Password"
-msgstr ""
+msgstr "סיסמת שרת"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "פסק זמן של שרת"
 
 msgid "Server URL"
-msgstr ""
+msgstr "כתובת האתר של השרת"
 
 msgid "Server Username"
-msgstr ""
+msgstr "שם משתמש בשרת"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "הגדר את 'שחקן חי פעיל' בהגדרה:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "הגדר 'לא' עבור Record Live\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "הגדר שם עבור MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "ההגדרות נשמרו בהצלחה!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "התחל להוריד את כל סדרות הפרקים\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "התחל הורדה או הקלט ערוץ נבחר:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "עצור את הנגן ביציאה"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "הסרט לא קיים!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "קוד ה-PIN שהזנת שגוי."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "זמן להתחיל לעדכן:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "שרת פסק זמן (שנייה)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "תם הזמן הקצוב לחיבור"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "לֹא יְדוּעַ"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "העדכון בוטל!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "מרווח עדכון (שעות):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "סוג שירותי Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "האם אתה באמת רוצה להפסיק את ההורדה?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "המתן... ההורדה מתבצעת..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "בעת פתיחת קובץ ‎.m3u במקום זאת:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "כפתור צהוב:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "עליך להגדיר את סוג הפלט\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "הכניסה לשרת שלך וקלט נתונים"
 
 msgid "fixed time"
-msgstr ""
+msgstr "זמן קבוע"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(מארח ללא http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "הַפסָקָה"
 
 msgid "not exist!"
-msgstr ""
+msgstr "לא קיים!"
 
 msgid "password\n"
-msgstr ""
+msgstr "סיסמה\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "יציאה\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "משתמש\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "חכה בבקשה..."

@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "未偵測到%s！"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "（藍色按鈕）：\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "（綠色按鈕）：\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "（錄製按鈕）：\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "（停止按鈕）：\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "（黃色按鈕）：\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,415 +42,415 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "正在中止..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "未經授權的存取 (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "主動自動花束更新"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "活動主螢幕大"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "調整時區"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "調整時區（小時）"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "發生意外錯誤。請稍後重試。"
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "每隔幾小時或在固定時間"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "自動花束更新（時間表）："
 
 msgid "Back"
-msgstr ""
+msgstr "後退"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "花束"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "花束款式"
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "無法修改此任務狀態"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "無法暫停/恢復此項目"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "無法刪除該項目"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "檢查收藏清單..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "選擇目錄："
 
 msgid "Choose directory"
-msgstr ""
+msgstr "選擇目錄"
 
 msgid "Close"
-msgstr ""
+msgstr "關閉"
 
 msgid "Config"
-msgstr ""
+msgstr "配置"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "配置設定選項\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "固定時間配置"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "從現在開始配置每個小時的間隔"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "配置導出花束的名稱。預設是我的花束"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "配置服務參考 Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "配置服務參考 Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "在收藏夾清單中配置轉換類型"
 
 msgid "Configure to place the bouquets of the converted lists"
 msgstr ""
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "配置下載電影的類型：JobManager/Direct。"
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "配置轉換下載的碼流類型"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "恭喜！您已經擁有最新版本..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "正在連接到伺服器..."
 
 msgid "Console"
-msgstr ""
+msgstr "安慰"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "轉換 %s 正在進行中："
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "轉換類型 輸出"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "將播放清單轉換為：%s ？"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "創建 XC Live/VOD 花束\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "下載影片？"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "下載中"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "數據伺服器配置："
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "在主選單中顯示 XCplugin"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
 msgstr ""
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "您想立即安裝更新 (%s) 嗎？"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "您想刪除 %s 嗎？"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "您要刪除：%s 嗎？"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "您想刪除：%s嗎？"
 
 msgid "Download"
-msgstr ""
+msgstr "下載"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "下載失敗！"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "下載完畢！"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "下載 M3u 檔案？"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "下載圖片？"
 
 msgid "Download Type"
-msgstr ""
+msgstr "下載類型"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "下載 VOD 所選頻道\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "下載影片\n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "下載完成"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "下載成功！"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "下載錯誤：%s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "下載失敗，回傳程式碼：{}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "下載失敗："
 
 msgid "Download fallito"
-msgstr ""
+msgstr "下載失敗"
 
 msgid "Download in corso"
 msgstr ""
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "重新啟動下載：{}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "下載開始：{}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "下載已停止：{}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "下載任務已刪除"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "下載：%d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "下載的檔案太小"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "找不到下載的文件"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "輸入密碼"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "輸入伺服器連接埠 例如：'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "輸入不含「http://」的伺服器 URL your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "輸入使用者名稱"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "輸入密碼"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "EPG 指南或 imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "錯誤代碼"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "控制下載時發生錯誤：{}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "刪除檔案時發生錯誤："
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "讀取或處理 %s 時發生錯誤：%s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "讀取或處理文件時發生錯誤：%s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "刪除任務時發生錯誤：{}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "驗證下載時發生錯誤：{}"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "Export"
-msgstr ""
+msgstr "出口"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "將檔案 m3u 匯出到 Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "失敗的"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "取得更新資訊失敗。請檢查您的網路連線。"
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "無法解析更新資訊。請稍後重試。"
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "文件未知！ ！ ！"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "文件未找到或為空：%s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "未找到文件！"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "過濾糟糕的一天"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "過濾此類別..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "首先選擇列表或在Config中輸入"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "資料夾用戶檔案.xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "格式：\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "自由空間"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "幫助按鈕：\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "家"
 
 msgid "Help\n"
-msgstr ""
+msgstr "幫助\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "隱藏/顯示"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "如果玩家處於活動狀態，退出時停止玩家複製"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "如果您有文件：\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "如果您有文件\n"
 
 msgid "Import"
-msgstr ""
+msgstr "進口"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "從 /etc/enigma2/iptv.sh 導入伺服器？"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "從 /tmp/xc.tx 導入伺服器？"
 
 msgid "Info"
-msgstr ""
+msgstr "資訊"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "初始化繼續播放\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "無效網址！"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "更新資訊中的日期格式無效。"
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "檔案格式無效：%s 中行數不足或為空白行"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "%s 中的格式無效。無法提取伺服器詳細資訊。"
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "作業類型無效或不受支援"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "目錄或檔案是否不存在"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "上次頻道更新：%s"
 
 msgid "Line already exists in playlist"
 msgstr ""
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "已追加到播放清單的行"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "主選單中的連結"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "即時播放器在設定中處於活動狀態：為“即時錄製”設定“否”"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Stream .ts 的即時播放器：為即時錄製設定“否”"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "直播服務類型"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer 活躍"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u裝載機"
 
 msgid "Main"
-msgstr ""
+msgstr "主要的"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "主螢幕加大號"
 
 msgid "Make"
-msgstr ""
+msgstr "製作"
 
 msgid "Media Folder"
 msgstr ""
 
 msgid "MediaPlayer\n"
-msgstr ""
+msgstr "媒體播放器\n"
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "文件遺失或為空：%s"
 
 msgid "Movie"
-msgstr ""
+msgstr "電影"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "電影資料夾"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "電影已成功刪除"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "名稱花束配置："
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "名稱花束導出"
 
 msgid "Network error!"
-msgstr ""
+msgstr "網路錯誤！"
 
 msgid "No Server Configured to Download!!!"
 msgstr ""
@@ -459,235 +459,235 @@ msgid "No Video to Download/Record!!"
 msgstr ""
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "沒有與 XCplugin 不相容的資料或播放清單。"
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "沒有選擇電影！"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "沒有選擇任務！"
 
 msgid "No update information available."
-msgstr ""
+msgstr "無可用更新資訊。"
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "只允許連續劇！ ！ ！"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "只允許點播電影！"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "打開電影資料夾\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "密碼='yyyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "暫停"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "暫停/恢復"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV 花束"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "將 IPTV 花束放在"
 
 msgid "Player"
-msgstr ""
+msgstr "玩家"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "請先配置伺服器詳細信息"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "請輸入家長監護密碼"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "正在準備下載..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "將 .m3u 檔案放入資料夾 %s 中"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "把你的線放到"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "真的關閉而不儲存設定嗎？"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "錄製影片"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "休閒系列"
 
 msgid "Reload"
-msgstr ""
+msgstr "重新載入"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "重新載入列表\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "正在重新載入播放清單..."
 
 msgid "Remove"
-msgstr ""
+msgstr "消除"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "從花束中刪除播放清單？"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "刪除 {} 的下載任務？"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "從清單中刪除檔案\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "刪除所有已經存在的花束\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "解析度變更失敗"
 
 msgid "Restart"
-msgstr ""
+msgstr "重新啟動"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "返回頻道清單\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "找不到資源 (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "選擇您的選擇"
 
 msgid "Save"
-msgstr ""
+msgstr "節省"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "下載：%d%% - 速度：%.1f KB/s - 剩餘時間：%d 秒"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "時間表類型："
 
 msgid "Search"
-msgstr ""
+msgstr "搜尋"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "搜尋直播/電影"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "在清單中搜尋標題"
 
 msgid "Select"
-msgstr ""
+msgstr "選擇"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "伺服器連接埠"
 
 msgid "Server Password"
-msgstr ""
+msgstr "伺服器密碼"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "伺服器逾時"
 
 msgid "Server URL"
-msgstr ""
+msgstr "伺服器位址"
 
 msgid "Server Username"
-msgstr ""
+msgstr "伺服器使用者名稱"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "在設定中設定「即時播放器處於活動狀態」:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "為即時錄製設定「否」\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "為 MakerBouquet 設定名稱"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "設定保存成功！"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "開始下載所有劇集系列\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "開始下載或錄製所選頻道:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "退出時停止播放器"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "這部電影不存在！"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "您輸入的 PIN 碼錯誤。"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "開始更新時間："
 
 msgid "Timeout Server (sec)"
 msgstr ""
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "連線逾時"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "未知"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
-msgstr ""
+msgstr "使用者名稱='xxxxxxxxxx'\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "更新中止！"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "更新間隔（小時）："
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "點播服務類型"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "您真的要停止下載嗎？"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "等待...正在下載..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "當開啟 .m3u 檔案時：\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "黃色按鈕：\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "您需要配置輸出類型\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "您的伺服器登入和資料輸入"
 
 msgid "fixed time"
-msgstr ""
+msgstr "固定時間"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "主機\t（不含 http:// 的主機）\n"
 
 msgid "interval"
-msgstr ""
+msgstr "間隔"
 
 msgid "not exist!"
-msgstr ""
+msgstr "不存在！"
 
 msgid "password\n"
-msgstr ""
+msgstr "密碼\n"
 
 msgid "port\n"
 msgstr ""
 
 msgid "user\n"
-msgstr ""
+msgstr "使用者\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "請稍等..."

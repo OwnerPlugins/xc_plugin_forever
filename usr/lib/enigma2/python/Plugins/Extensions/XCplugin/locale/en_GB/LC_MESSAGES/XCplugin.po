@@ -45,7 +45,7 @@ msgid "Aborting..."
 msgstr ""
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Unauthorized access (401)"
 
 msgid "Active Automatic Bouquet Update"
 msgstr ""
@@ -138,7 +138,7 @@ msgid "Congrats! You already have the latest version..."
 msgstr ""
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Connecting to the server..."
 
 msgid "Console"
 msgstr ""
@@ -207,10 +207,10 @@ msgid "Download Video \n"
 msgstr ""
 
 msgid "Download completato"
-msgstr ""
+msgstr "Download completed"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Download completed successfully!"
 
 msgid "Download error: %s"
 msgstr ""
@@ -222,7 +222,7 @@ msgid "Download failed:"
 msgstr ""
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Download failed"
 
 msgid "Download in corso"
 msgstr ""
@@ -315,7 +315,7 @@ msgid "File not found!"
 msgstr ""
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Filter Bad Day"
 
 msgid "Filter this category..."
 msgstr ""
@@ -507,7 +507,7 @@ msgid "Please enter the parental control pin code"
 msgstr ""
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Preparing the download..."
 
 msgid "Put .m3u Files in Folder %s"
 msgstr ""
@@ -558,7 +558,7 @@ msgid "Return to Channels List\n"
 msgstr ""
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Resource not found (404)"
 
 msgid "SELECT YOUR CHOICE"
 msgstr ""
@@ -567,7 +567,7 @@ msgid "Save"
 msgstr ""
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Download: %d%% - Speed: %.1f KB/s - Remaining time: %d sec"
 
 msgid "Schedule type:"
 msgstr ""
@@ -633,7 +633,7 @@ msgid "Timeout Server (sec)"
 msgstr ""
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Connection timed out"
 
 msgid "UNKNOWN"
 msgstr ""
@@ -651,7 +651,7 @@ msgid "Vod Services Type"
 msgstr ""
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Do you really want to stop the download?"
 
 msgid "Wait... downloading in progress ..."
 msgstr ""

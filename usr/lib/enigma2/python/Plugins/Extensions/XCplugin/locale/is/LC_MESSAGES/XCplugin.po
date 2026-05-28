@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s fannst EKKI!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(BLÁR HNAPPAR):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(GRÆN HNAPPUR):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(REC hnappur):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(STOPP HNAPPUR):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(GULUR HNAPPAR):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,652 +42,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Hættir..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Óleyfilegur aðgangur (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Virk sjálfvirk uppfærsla á vöndum"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Virkur aðalskjár Stór"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Stilla tímabelti"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Stilla tímabelti (klst.)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Óvænt villa kom upp. Vinsamlegast reyndu aftur síðar."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Með klukkutíma millibili eða á föstum tíma"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Sjálfvirk uppfærsla á vöndum (dagskrá):"
 
 msgid "Back"
-msgstr ""
+msgstr "Til baka"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Vöndur"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Vönd stíll"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hætta við"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Ekki er hægt að breyta þessari verkefnastöðu"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Ekki er hægt að gera hlé á/halda áfram með þetta atriði"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Ekki er hægt að fjarlægja þetta atriði"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Skoðaðu uppáhaldslistana..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Veldu möppu:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Veldu möppu"
 
 msgid "Close"
-msgstr ""
+msgstr "Loka"
 
 msgid "Config"
 msgstr ""
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Stillingar uppsetningarvalkostir\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Stilla á ákveðnum tíma"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Stilltu hvert klukkutímabil héðan í frá"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Stilla heiti útflutts vönds. Sjálfgefið er myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Stilla þjónustu Tilvísun Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Stilla þjónustu Tilvísun Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Stilltu tegund viðskipta í uppáhaldslistanum"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Stilltu til að setja kransa af breyttu listunum"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Stilla gerð niðurhalsmyndar: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Stilltu tegund straums til að hlaða niður með umbreytingu"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Til hamingju! Þú ert nú þegar með nýjustu útgáfuna..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Tengist þjóninum..."
 
 msgid "Console"
-msgstr ""
+msgstr "Stjórnborð"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Umbreyting %s í gangi:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Viðskiptategund Framleiðsla"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Umbreyta lagalista í: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Búðu til XC Live/VOD kransa\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "HAÐA MYNDBAND?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "NIÐUR"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Uppsetning gagnaþjóns:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Birta XCplugin í aðalvalmynd"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Viltu breyta %s í uppáhalds .tv?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Viltu setja upp uppfærslu (%s) núna?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Viltu fjarlægja %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Viltu fjarlægja: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Viltu fjarlægja: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Sækja"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Niðurhal mistókst!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Niðurhali lokið!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Sækja M3u skrá?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Sækja Picons?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Tegund niðurhals"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Sæktu VOD valda rás\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Sækja myndbandið \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Niðurhali lokið"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Niðurhali lokið með góðum árangri!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Niðurhalsvilla: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Niðurhal mistókst með skilakóða: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Niðurhal mistókst:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Niðurhal mistókst"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Sækja í corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Niðurhal endurræst: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Niðurhal hófst: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Niðurhali hætt: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Niðurhalsverkefni fjarlægt"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Niðurhal: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Sótt skrá er of lítil"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Sótt skrá fannst ekki"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Sláðu inn lykilorð"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Sláðu inn netþjónshöfn td.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Sláðu inn vefslóð netþjóns án 'http://' your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Sláðu inn notandanafn"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Sláðu inn PIN-númer"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg leiðarvísir eða imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Villukóði"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Villa við að stjórna niðurhali: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Villa við að eyða skránni:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Villa við lestur eða vinnslu %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Villa við að lesa eða vinna úr skránni: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Villa við að fjarlægja verkefni: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Villa við að staðfesta niðurhal: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Hætta"
 
 msgid "Export"
-msgstr ""
+msgstr "Útflutningur"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Flytja út skrá m3u í Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "MIKIÐ"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Mistókst að sækja uppfærsluupplýsingar. Athugaðu nettenginguna þína."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Mistókst að flokka uppfærsluupplýsingar. Vinsamlegast reyndu aftur síðar."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Skrá óþekkt!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Skrá fannst ekki eða tóm: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Skrá fannst ekki!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Sía slæmur dagur"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Sía þennan flokk..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Fyrst Veldu listann eða sláðu inn í Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Mappa notendaskrá .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Snið:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "Ókeypis pláss"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "HJÁLP HNAPPUR:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "HEIM"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Hjálp\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Fela/Sýna"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Ef leikmaður er virkur STÖÐU spilaraframleiðslu við brottför"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Ef þú ert með skrá:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Ef þú ert með skrá\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Innflutningur"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Flytja inn netþjón frá /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Flytja inn netþjón frá /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Upplýsingar"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Byrjaðu Halda áfram að spila\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Ógild vefslóð!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Ógilt dagsetningarsnið í uppfærsluupplýsingum."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Ógilt skráarsnið: ekki nægar eða tómar línur í %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Ógilt snið í %s. Ekki tókst að draga út netþjónsupplýsingar."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Ógild eða óstudd starfstegund"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Er Directory eða skrá ekki til"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Síðasta uppfærsla á rás: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Lína er þegar til á lagalista"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Lína bætt við lagalista"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Tengill í aðalvalmynd"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Live Player Virkur í stillingu: stilltu No fyrir Record Live"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Lifandi spilari fyrir Stream .ts: stilltu Nei fyrir Record Live"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Tegund lifandi þjónustu"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer Virkur"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u hleðslutæki"
 
 msgid "Main"
-msgstr ""
+msgstr "Aðal"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Aðalskjár XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Gerðu"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Media Mappa"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Skrá vantar eða tóm: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Kvikmynd"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Kvikmyndamöppu"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Kvikmynd hefur verið eytt"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Stilling nafnvönds:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Nafn Vönd Útflutningur"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Netvilla!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Enginn netþjónn stilltur til að hlaða niður!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Ekkert myndband til að hlaða niður / taka upp !!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Engin gögn eða spilunarlisti sem er ekki samhæfður XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Engin kvikmynd valin!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Ekkert verkefni valið!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Engar uppfærsluupplýsingar tiltækar."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Aðeins þáttaraðir leyfðir!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Aðeins VOD kvikmynd leyfð!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Opnaðu kvikmyndamöppuna\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
 msgstr ""
 
 msgid "PAUSED"
-msgstr ""
+msgstr "Hlé"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Gera hlé / halda áfram"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV kransa til"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Settu IPTV kransa kl"
 
 msgid "Player"
-msgstr ""
+msgstr "Leikmaður"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Vinsamlega stilltu upplýsingar um netþjóninn fyrst"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Vinsamlega sláðu inn PIN-númer foreldraeftirlitsins"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Undirbýr niðurhal..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Settu .m3u skrár í möppuna %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Settu línurnar þínar til"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Virkilega loka án þess að vista stillingar?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Upptöku kvikmynd"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Rec röð"
 
 msgid "Reload"
-msgstr ""
+msgstr "Endurhlaða"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Endurhlaða lista\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Endurhlaða spilunarlista í gangi..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Fjarlægja"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Fjarlægja lagalista af vöndum?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Fjarlægja niðurhalsverkefni fyrir {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Fjarlægðu skrá af lista\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Fjarlægir alla kransa sem hafa verið\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Breyting á upplausn mistókst"
 
 msgid "Restart"
-msgstr ""
+msgstr "Endurræstu"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Fara aftur í rásalista\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Tilfang fannst ekki (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "VELDU ÞITT VAL"
 
 msgid "Save"
-msgstr ""
+msgstr "Vista"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Niðurhal: %d%% - Hraði: %.1f KB/s - Tími sem eftir er: %d sek"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Dagskrá gerð:"
 
 msgid "Search"
-msgstr ""
+msgstr "Leita"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Leita í LIve/kvikmynd"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Leitaðu að titli á listanum"
 
 msgid "Select"
-msgstr ""
+msgstr "Veldu"
 
 msgid "Server PORT"
 msgstr ""
 
 msgid "Server Password"
-msgstr ""
+msgstr "Lykilorð miðlara"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Tímamörk þjóns"
 
 msgid "Server URL"
-msgstr ""
+msgstr "Vefslóð netþjóns"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Notandanafn netþjóns"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Stilltu 'Live Player Active' í Stilling:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Stilltu „Nei“ fyrir Record Live\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Stilltu nafn fyrir MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Stillingar vistaðar!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Byrjaðu að hlaða niður öllum þáttaröðum\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Byrjaðu á niðurhali eða taktu upp valda rás:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Stöðva spilara við brottför"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Myndin er ekki til!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "PIN-númerið sem þú slóst inn er rangt."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Tími til að hefja uppfærslu:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Timeout Server (sek)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Tengingin rann út"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "ÓÞEKKT"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Uppfærsla hætt!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Uppfærslubil (klst.):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Vod þjónustutegund"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Viltu virkilega stöðva niðurhalið?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Bíddu... í gangi er að hlaða niður..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Þegar .m3u skrá er opnuð í staðinn:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "GULL HNAPPUR:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Þú þarft að stilla gerð úttaks\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Innskráning netþjónsins og gagnainntak"
 
 msgid "fixed time"
-msgstr ""
+msgstr "fastan tíma"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "gestgjafi\t(gestgjafi án http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "millibili"
 
 msgid "not exist!"
-msgstr ""
+msgstr "ekki til!"
 
 msgid "password\n"
-msgstr ""
+msgstr "lykilorð\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "höfn\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "notandi\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "bíddu vinsamlega..."

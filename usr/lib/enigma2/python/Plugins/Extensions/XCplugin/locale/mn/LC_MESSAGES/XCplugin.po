@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s ИЛРЭЭГҮЙ!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(Цэнхэр товч):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(НОГООН ТОВЧЛОЛУУД):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(REC ТОВЧЛОЛУУД):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(ЗОГСООХ ТОВЧЛОЛУУД):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(ШАР ТОВЧЛОЛУУД):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,430 +42,430 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Цуцалж байна..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Зөвшөөрөлгүй хандалт (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Идэвхтэй автомат баглааг шинэчлэх"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Идэвхтэй үндсэн дэлгэц том"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Цагийн бүсийг тохируулах"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Цагийн бүсийг тохируулах (цаг)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Гэнэтийн алдаа гарлаа. Дараа дахин оролдоно уу."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Хэдэн цагийн зайтай эсвэл тодорхой хугацаанд"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Автомат баглааг шинэчлэх (хуваарь):"
 
 msgid "Back"
-msgstr ""
+msgstr "Буцах"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Баглаа"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Bouquet хэв маяг"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Цуцлах"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Энэ ажлын статусыг өөрчлөх боломжгүй"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Энэ зүйлийг түр зогсоох/үргэлжлүүлэх боломжгүй"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Энэ зүйлийг устгах боломжгүй"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Дуртай жагсаалтуудыг шалгана уу..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Лавлахыг сонгоно уу:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Лавлахыг сонгоно уу"
 
 msgid "Close"
-msgstr ""
+msgstr "Хаах"
 
 msgid "Config"
-msgstr ""
+msgstr "Тохиргоо"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Тохиргооны тохиргоо\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Тогтсон цагт тохируулна уу"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Одооноос хойш цагийн интервал бүрийг тохируулна уу"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Экспортолсон цэцгийн баглааны нэрийг тохируулна уу. Өгөгдмөл нь myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Dvb-Iptv-Gstreamer-Exteplayer3 лавлах үйлчилгээний тохиргоог хийнэ үү"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Iptv-Gstreamer-Exteplayer3 лавлах үйлчилгээний тохиргоог хийнэ үү"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Дуртай жагсаалтад хөрвүүлэх төрлийг тохируулна уу"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Хөрвүүлсэн жагсаалтуудын баглааг байрлуулахаар тохируулна уу"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Татаж авах киноны төрлийг тохируулах: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Хөрвүүлэлтээр татаж авах урсгалын төрлийг тохируулна уу"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Баяр хүргэе! Танд хамгийн сүүлийн хувилбар байгаа..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Сервертэй холбогдож байна..."
 
 msgid "Console"
-msgstr ""
+msgstr "Консол"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "%s хөрвүүлэлт хийгдэж байна:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Хөрвүүлэлтийн төрөл Гаралт"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Тоглуулах жагсаалтыг %s руу хөрвүүлэх үү?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "XC Live/VOD Bouquets үүсгэх\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "ВИДЕО ТАТАХ УУ?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "Татаж авч байна"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Өгөгдлийн серверийн тохиргоо:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "XCplugin-ийг үндсэн цэсэнд харуулах"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Та %s-г дуртай .tv руу хөрвүүлэхийг хүсэж байна уу?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Та одоо шинэчлэлтийг (%s) суулгахыг хүсэж байна уу?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Та %s-г устгахыг хүсэж байна уу?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Та устгахыг хүсэж байна уу: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Та устгахыг хүсэж байна уу: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Татаж авах"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Татаж чадсангүй!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Татаж дууслаа!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "M3u файлыг татаж авах уу?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Picons татаж авах уу?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Татаж авах төрөл"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "VOD сонгосон сувгийг татаж авах\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Видео татаж авах \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Татаж дууссан"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Татаж авч дууслаа!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Татаж авах алдаа: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Буцах кодоор татаж авч чадсангүй: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Татаж чадсангүй:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Татаж чадсангүй"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Corso дээр татаж авах"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Татаж авахыг дахин эхлүүлсэн: {}"
 
 msgid "Download started: {}"
 msgstr ""
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Татаж авахаа больсон: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Татаж авах ажлыг устгасан"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Татаж авах: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Татаж авсан файл хэтэрхий жижиг байна"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Татаж авсан файл олдсонгүй"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Нууц үгээ оруулна уу"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Сервер портыг оруулна уу. Жишээ нь:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Серверийн URL-г 'http://' өөрийн_домэйнгүйгээр оруулна уу"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Хэрэглэгчийн нэрийг оруулна уу"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Пин код оруулна уу"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg хөтөч эсвэл imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Алдааны код"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Татаж авахад алдаа гарлаа: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Файлыг устгахад алдаа гарлаа:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "%s унших эсвэл боловсруулахад алдаа гарлаа: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Файлыг унших эсвэл боловсруулахад алдаа гарлаа: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Даалгаврыг устгахад алдаа гарлаа: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Татаж авахад алдаа гарлаа: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Гарах"
 
 msgid "Export"
-msgstr ""
+msgstr "Экспорт"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "m3u файлыг Bouquet .tv руу экспортлох.\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "БҮТЭЭЛГҮЙ"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Шинэчлэлийн мэдээллийг авч чадсангүй. Интернэт холболтоо шалгана уу."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Шинэчлэлийн мэдээллийг задлан шинжилж чадсангүй. Дараа дахин оролдоно уу."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Мэдээгүй файл!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Файл олдсонгүй эсвэл хоосон байна: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Файл олдсонгүй!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Муу өдрийг шүүнэ"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Энэ ангиллыг шүүх..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Эхлээд жагсаалтаа сонгох эсвэл тохиргоонд оруулна уу"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Хэрэглэгчийн файл .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Формат:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "Чөлөөт орон зай"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "ТУСЛАМЖ ТОВЧЛОЛУУД:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "ГЭР"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Тусламж\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Нуух/Үзүүлэх"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Хэрэв тоглогч идэвхтэй байвал гарахад тоглогчийн ripproduction-ийг ЗОГСООХ"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Хэрэв танд файл байгаа бол:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Хэрэв танд файл байгаа бол\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Импорт"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "/etc/enigma2/iptv.sh-ээс сервер импортлох уу?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "/tmp/xc.tx-с сервер импортлох уу?"
 
 msgid "Info"
-msgstr ""
+msgstr "Мэдээлэл"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Үргэлжлүүлэн тоглуулахыг эхлүүлнэ үү\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Хүчингүй URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Шинэчлэлийн мэдээлэлд огнооны формат буруу байна."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Файлын формат буруу: %s дотор хангалттай мөр байхгүй эсвэл хоосон мөр байна"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "%s формат буруу байна. Серверийн дэлгэрэнгүй мэдээллийг задалж чадсангүй."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Буруу эсвэл дэмжигдээгүй ажлын төрөл"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Лавлах эсвэл файл байхгүй байна уу"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Сувгийн сүүлийн шинэчлэлт: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Тоглуулах жагсаалтад аль хэдийн мөр байна"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Тоглуулах жагсаалтад мөрийг хавсаргав"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Үндсэн цэс дэх холбоос"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Тохиргоонд идэвхтэй амьд тоглогч: Live Record-д Үгүй гэж тохируулна уу"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Stream .ts-д зориулсан Live Player: Record Live-д Үгүй гэж тохируулна уу"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Амьд үйлчилгээний төрөл"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer идэвхтэй"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u ачигч"
 
 msgid "Main"
-msgstr ""
+msgstr "Үндсэн"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Үндсэн дэлгэц XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Хийх"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Медиа хавтас"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Дутуу эсвэл хоосон файл: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Кино"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Киноны хавтас"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Кино амжилттай устгагдлаа"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Нэрийн баглааны тохиргоо:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Bouquet экспортын нэр"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Сүлжээний алдаа!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Татаж авахаар тохируулсан сервер байхгүй!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Татаж авах/Бичлэг хийх видео байхгүй!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "XCplugin-д тохирохгүй өгөгдөл эсвэл тоглуулах жагсаалт байхгүй."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Сонгосон кино алга!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Сонгосон ажил алга!"
 
 msgid "No update information available."
 msgstr ""
@@ -474,220 +474,220 @@ msgid "Only Series Episodes Allowed!!!"
 msgstr ""
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Зөвхөн VOD киног зөвшөөрдөг!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Киноны хавтас нээх\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='yyyyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "ЗУРАГССАН"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Түр зогсоох/Үргэлжлүүлэх"
 
 msgid "Picons IPTV"
-msgstr ""
+msgstr "Пиконууд IPTV"
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV баглааг to"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "IPTV баглааг хаягаар байрлуул"
 
 msgid "Player"
-msgstr ""
+msgstr "Тоглогч"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Эхлээд серверийн дэлгэрэнгүй мэдээллийг тохируулна уу"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Эцэг эхийн хяналтын пин кодыг оруулна уу"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Татаж авахыг бэлтгэж байна..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr ".m3u файлуудыг %s фолдерт оруулна уу"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Мөрүүдээ дараах руу оруулна уу"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Тохиргоог хадгалахгүйгээр үнэхээр хаах уу?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Рек кино"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Rec цуврал"
 
 msgid "Reload"
-msgstr ""
+msgstr "Дахин ачаалах"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Жагсаалтыг дахин ачаалах\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Тоглуулах жагсаалтыг дахин ачаалж байна..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Устгах"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Тоглуулах жагсаалтыг Bouquets-аас устгах уу?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "{}-н татах ажлыг устгах уу?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Жагсаалтаас файлыг устгана уу\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Байсан бүх баглааг арилгана\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Нарийвчлалыг өөрчилж чадсангүй"
 
 msgid "Restart"
-msgstr ""
+msgstr "Дахин эхлүүлэх"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Сувгийн жагсаалт руу буцах\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Нөөц олдсонгүй (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "СОНГОЛТОО СОНГООРОЙ"
 
 msgid "Save"
-msgstr ""
+msgstr "Хадгалах"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Татаж авах: %d%% - Хурд: %.1f KB/s - Үлдсэн хугацаа: %d сек"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Хуваарийн төрөл:"
 
 msgid "Search"
-msgstr ""
+msgstr "Хайх"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "LIVE/Кино хайх"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Жагсаалтаас гарчиг хайх"
 
 msgid "Select"
-msgstr ""
+msgstr "Сонго"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "Серверийн порт"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Серверийн нууц үг"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Серверийн хугацаа хэтэрсэн"
 
 msgid "Server URL"
-msgstr ""
+msgstr "Серверийн URL"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Серверийн хэрэглэгчийн нэр"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Тохиргоо дотроос "Шууд тоглуулагч идэвхтэй"-г тохируулна уу:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Live Record-д "Үгүй"-г тохируулна уу\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "MakerBouquet-ийн нэрийг тохируулна уу"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Тохиргоог амжилттай хадгаллаа!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Бүх ангиллын цувралыг татаж эхэлнэ үү\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Сонгосон сувгийг татаж авах эсвэл бичиж эхлэх:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Гарах үед тоглуулагчийг зогсоо"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Кино байхгүй!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Таны оруулсан пин код буруу байна."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Шинэчлэлтийг эхлүүлэх цаг:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Хугацаа дуусах сервер (сек)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Холболтын хугацаа дууссан"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "Мэдэхгүй"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Шинэчлэлтийг зогсоосон!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Шинэчлэх интервал (цаг):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Vod үйлчилгээний төрөл"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Та татаж авахаа зогсоохыг үнэхээр хүсч байна уу?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Хүлээгээрэй... татаж авч байна..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Оронд нь .m3u файл нээх үед:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "ШАР ТОВЧЛОЛУУД:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Та гаралтын төрлийг тохируулах хэрэгтэй\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Таны серверийн нэвтрэлт болон өгөгдөл оруулах"
 
 msgid "fixed time"
-msgstr ""
+msgstr "тогтсон цаг"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "хост\t(http://-гүй хост)\n"
 
 msgid "interval"
-msgstr ""
+msgstr "интервал"
 
 msgid "not exist!"
-msgstr ""
+msgstr "байхгүй!"
 
 msgid "password\n"
-msgstr ""
+msgstr "нууц үг\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "порт\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "хэрэглэгч\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "түр хүлээнэ үү..."

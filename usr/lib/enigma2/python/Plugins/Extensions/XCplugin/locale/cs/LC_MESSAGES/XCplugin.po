@@ -19,22 +19,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s NEZJIŠTĚNO!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(MODRÉ TLAČÍTKO):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(ZELENÉ TLAČÍTKO):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(TLAČÍTKO REC):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(TLAČÍTKO STOP):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(ŽLUTÉ TLAČÍTKO):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -43,652 +43,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Rušení..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Neoprávněný přístup (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktivní automatická aktualizace kytice"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Aktivní hlavní obrazovka velká"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Upravit časové pásmo"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Upravit časové pásmo (hodina)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Došlo k neočekávané chybě. Zkuste to znovu později."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "V intervalu hodin nebo v pevně stanovený čas"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Automatická aktualizace kytice (plán):"
 
 msgid "Back"
-msgstr ""
+msgstr "Zadní"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Kytice"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Styl kytice"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Stav tohoto úkolu nelze změnit"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Tuto položku nelze pozastavit/obnovit"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Tuto položku nelze odstranit"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Podívejte se na seznamy oblíbených..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Vyberte adresář:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Vyberte adresář"
 
 msgid "Close"
-msgstr ""
+msgstr "Blízko"
 
 msgid "Config"
-msgstr ""
+msgstr "Konfigurace"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Možnosti nastavení konfigurace\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Nakonfigurujte v pevně stanovený čas"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Od této chvíle konfigurujte každý interval hodin"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Nakonfigurujte název exportované kytice. Výchozí je myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigurace služby Reference Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigurace služby Reference Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Nakonfigurujte typ konverze v seznamu oblíbených"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Nakonfigurujte umístění kytic převedených seznamů"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Nakonfigurujte typ stahování filmu: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Nakonfigurujte typ streamu, který se má stáhnout konverzí"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "gratuluji! Už máte nejnovější verzi..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Připojování k serveru..."
 
 msgid "Console"
-msgstr ""
+msgstr "Utěšit"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Probíhá konverze %s:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Typ konverze Výstup"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Převést seznam skladeb na: %s?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Vytvořte XC Live/VOD Bouquets\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "STÁHNOUT VIDEO?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "STAHOVÁNÍ"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Konfigurace datového serveru:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Zobrazte XCplugin v hlavní nabídce"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Chcete převést %s na oblíbenou .tv?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Chcete nyní nainstalovat aktualizaci (%s)?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Chcete odebrat %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Chcete odstranit: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Chcete odstranit: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Stáhnout"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Stahování se nezdařilo!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Stahování dokončeno!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Stáhnout soubor M3u?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Stáhnout Picons?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Typ stahování"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Stáhnout vybraný kanál VOD\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Stáhnout video \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Stahování dokončeno"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Stahování bylo úspěšně dokončeno!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Chyba stahování: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Stažení se nezdařilo s návratovým kódem: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Stahování se nezdařilo:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Stahování se nezdařilo"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Ke stažení in corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Stahování restartováno: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Stahování zahájeno: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Stahování zastaveno: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Úloha stahování byla odstraněna"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Stáhnout: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Stažený soubor je příliš malý"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Stažený soubor nebyl nalezen"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Zadejte heslo"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Zadejte port serveru Např.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Zadejte URL serveru bez 'http://' your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Zadejte uživatelské jméno"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Zadejte kód PIN"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Průvodce EPG nebo imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Kód chyby"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Chyba ovládání stahování: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Chyba při mazání souboru:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Chyba při čtení nebo zpracování %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Chyba při čtení nebo zpracování souboru: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Chyba při odebírání úkolu: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Chyba při ověřování stahování: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Výstup"
 
 msgid "Export"
-msgstr ""
+msgstr "Vývozní"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Exportujte soubor m3u do Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "SELHLA"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Informace o aktualizaci se nepodařilo načíst. Zkontrolujte prosím své internetové připojení."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Nepodařilo se analyzovat informace o aktualizaci. Zkuste to znovu později."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Soubor neznámý!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Soubor nenalezen nebo prázdný: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Soubor nenalezen!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Filtrujte špatný den"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrovat tuto kategorii..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Nejprve vyberte seznam nebo jej zadejte do Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Složka uživatelský soubor .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Formát:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "Volný prostor"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "TLAČÍTKO NÁPOVĚDA:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "DOMOV"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Nápověda\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Skrýt/Zobrazit"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Pokud je hráč aktivní, ZASTAVTE při odchodu ripproduction hráče"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Pokud máte soubor:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Pokud máte soubor\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Importovat"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Importovat server z /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Importovat server z /tmp/xc.tx?"
 
 msgid "Info"
 msgstr ""
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Init Pokračovat ve hře\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Neplatná adresa URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Neplatný formát data v informacích o aktualizaci."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Neplatný formát souboru: nedostatek nebo prázdné řádky v %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Neplatný formát v %s. Podrobnosti serveru nelze extrahovat."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Neplatný nebo nepodporovaný typ úlohy"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Adresář nebo soubor neexistuje"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Poslední aktualizace kanálu: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Řádek již v seznamu skladeb existuje"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Řádek připojený k seznamu skladeb"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Odkaz v hlavní nabídce"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Live Player Active v Nastavení: nastavte No pro Record Live"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player for Stream .ts: nastavte Ne pro Record Live"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Typ živé služby"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer je aktivní"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "Zavaděč M3u"
 
 msgid "Main"
-msgstr ""
+msgstr "Hlavní"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Hlavní obrazovka XL"
 
 msgid "Make"
 msgstr ""
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Složka médií"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Chybějící nebo prázdný soubor: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Film"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Filmová složka"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Film byl úspěšně smazán"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Konfigurace názvu kytice:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Název Bouquet Export"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Chyba sítě!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Žádný server není konfigurován pro stahování!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Žádné video ke stažení/nahrání!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Žádná data nebo seznam skladeb nejsou kompatibilní s XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Není vybrán žádný film!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Není vybrán žádný úkol!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Nejsou k dispozici žádné informace o aktualizaci."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Povoleny pouze epizody seriálu!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Povolen pouze VOD film!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Otevřete složku filmu\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
 msgstr ""
 
 msgid "PAUSED"
-msgstr ""
+msgstr "PAUZOVÁNO"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Pozastavit/Obnovit"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV kytice do"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Umístěte IPTV kytice na"
 
 msgid "Player"
-msgstr ""
+msgstr "Hráč"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Nejprve nakonfigurujte podrobnosti o serveru"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Zadejte prosím PIN kód rodičovské kontroly"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Příprava stahování..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Umístěte soubory .m3u do složky %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Vložte své řádky do"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Opravdu zavřít bez uložení nastavení?"
 
 msgid "Rec Movie"
 msgstr ""
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Řada Rec"
 
 msgid "Reload"
-msgstr ""
+msgstr "Znovu načíst"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Znovu načíst seznam\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Probíhá opětovné načítání playlistů..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Odstranit"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Odebrat seznam skladeb z kytic?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Odebrat úlohu stahování pro {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Odebrat soubor ze seznamu\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Odstraní všechny kytice, které byly\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Změna rozlišení se nezdařila"
 
 msgid "Restart"
-msgstr ""
+msgstr "Restartujte"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Návrat na seznam kanálů\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Zdroj nenalezen (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "VYBERTE SI SVOU VOLBU"
 
 msgid "Save"
-msgstr ""
+msgstr "Uložit"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Stahování: %d%% - Rychlost: %.1f KB/s - Zbývající čas: %d sec"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Typ rozvrhu:"
 
 msgid "Search"
-msgstr ""
+msgstr "Vyhledávání"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Hledat ŽIVĚ/film"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Vyhledejte titul v seznamu"
 
 msgid "Select"
-msgstr ""
+msgstr "Vybrat"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "PORT serveru"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Heslo serveru"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Časový limit serveru"
 
 msgid "Server URL"
-msgstr ""
+msgstr "Adresa URL serveru"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Uživatelské jméno serveru"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "V Nastavení nastavte „Aktivní živý přehrávač“:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Nastavte 'Ne' pro Record Live\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Nastavte název pro MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Nastavení byla úspěšně uložena!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Začněte stahovat všechny série epizod\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Spusťte stahování nebo nahrávání vybraného kanálu:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Zastavit přehrávač při ukončení"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Film neexistuje!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Zadaný PIN kód je nesprávný."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Čas zahájit aktualizaci:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Časový limit serveru (s)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Vypršel časový limit připojení"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "NEZNÁMÝ"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Aktualizace zrušena!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Interval aktualizace (hodiny):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Typ služeb Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Opravdu chcete zastavit stahování?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Počkejte... probíhá stahování..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Když místo toho otevíráte soubor .m3u:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "ŽLUTÉ TLAČÍTKO:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Musíte nakonfigurovat typ výstupu\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Přihlášení k serveru a zadávání dat"
 
 msgid "fixed time"
-msgstr ""
+msgstr "pevný čas"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "hostitel\t(hostitel bez http:// )\n"
 
 msgid "interval"
 msgstr ""
 
 msgid "not exist!"
-msgstr ""
+msgstr "neexistují!"
 
 msgid "password\n"
-msgstr ""
+msgstr "heslo\n"
 
 msgid "port\n"
 msgstr ""
 
 msgid "user\n"
-msgstr ""
+msgstr "uživatel\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "počkej prosím..."

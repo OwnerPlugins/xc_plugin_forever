@@ -18,7 +18,7 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "HINDI NA-DETECTED ang %s!"
 
 msgid "(BLUE BUTTON):\n"
 msgstr ""
@@ -42,286 +42,286 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Ipinaabort..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Hindi awtorisadong pag-access (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktibong Awtomatikong Bouquet Update"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Aktibong Pangunahing Screen na Malaki"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Ayusin ang Timezone"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Ayusin ang Timezone (oras)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "May naganap na hindi inaasahang error. Pakisubukang muli mamaya."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Sa pagitan ng mga oras o sa isang nakapirming oras"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Awtomatikong pag-update ng bouquet (iskedyul):"
 
 msgid "Back"
-msgstr ""
+msgstr "Bumalik"
 
 msgid "Bouquet"
 msgstr ""
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Estilo ng bouquet"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselahin"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Hindi mabago ang katayuan ng gawaing ito"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Hindi ma-pause/maipagpatuloy ang item na ito"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Hindi maalis ang item na ito"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Tingnan ang mga listahan ng paborito..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Pumili ng Direktoryo:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Pumili ng direktoryo"
 
 msgid "Close"
-msgstr ""
+msgstr "Isara"
 
 msgid "Config"
 msgstr ""
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Mga Opsyon sa Pag-setup ng Config\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "I-configure sa isang nakapirming oras"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "I-configure ang bawat pagitan ng mga oras mula ngayon"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "I-configure ang pangalan ng na-export na bouquet. Default ay myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "I-configure ang serbisyong Reference Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "I-configure ang Reference ng serbisyo Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "I-configure ang uri ng conversion sa paboritong listahan"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "I-configure upang ilagay ang mga bouquet ng mga na-convert na listahan"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "I-configure ang uri ng pag-download ng pelikula: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "I-configure ang uri ng stream na mada-download sa pamamagitan ng conversion"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Congrats! Mayroon ka nang pinakabagong bersyon..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Kumokonekta sa server..."
 
 msgid "Console"
 msgstr ""
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Kasalukuyang isinasagawa ang conversion %s:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Uri ng conversion Output"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "I-convert ang Playlist sa: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Gumawa ng XC Live/VOD Bouquets\n"
 
 msgid "DOWNLOAD VIDEO?"
 msgstr ""
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "Nagda-download"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Configuration ng Data Server:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Ipakita ang XCplugin sa Main Menu"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Gusto mo bang I-convert ang %s sa paboritong .tv ?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Gusto mo bang i-install ang update (%s) ngayon?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Gusto mo bang tanggalin ang %s ?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Gusto mo bang tanggalin: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Gusto mo bang tanggalin ang: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "I-download"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Nabigo ang pag-download!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Tapos na ang pag-download!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "I-download ang M3u File?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "I-download ang Picons ?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Uri ng Pag-download"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "I-download ang napiling channel ng VOD\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "I-download ang Video \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Nakumpleto ang pag-download"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Matagumpay na nakumpleto ang pag-download!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Error sa pag-download: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Nabigo ang pag-download gamit ang return code: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Nabigo ang pag-download:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Nabigo ang pag-download"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "I-download sa corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Na-restart ang pag-download: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Nagsimula ang pag-download: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Huminto ang pag-download: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Inalis ang gawain sa pag-download"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "I-download: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Masyadong maliit ang na-download na file"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Hindi nahanap ang na-download na file"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Ipasok ang Password"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Ipasok ang Server Port Hal.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Ipasok ang Server Url nang walang 'http://' your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Ipasok ang Username"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Ilagay ang pin code"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Gabay sa epg o imdb/tmdb\n"
 
 msgid "Error code"
 msgstr ""
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Error sa pagkontrol sa pag-download: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Error sa pagtanggal ng file:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Error sa pagbabasa o pagproseso ng %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Error sa pagbabasa o pagproseso ng file: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Error sa pag-alis ng gawain: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Error sa pag-verify ng pag-download: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Lumabas"
 
 msgid "Export"
-msgstr ""
+msgstr "I-export"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "I-export ang file m3u sa Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "NABIGO"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Nabigong makuha ang impormasyon ng update. Pakisuri ang iyong koneksyon sa internet."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Nabigong i-parse ang impormasyon sa pag-update. Pakisubukang muli mamaya."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Hindi Alam ng File!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Hindi nakita o walang laman ang file: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Hindi nahanap ang file!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "I-filter ang Masamang Araw"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "I-filter ang kategoryang ito..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Una Piliin ang listahan o ilagay ito sa Config"
 
 msgid "Folder user file .xml"
 msgstr ""
@@ -330,85 +330,85 @@ msgid "Format:\n"
 msgstr ""
 
 msgid "Free Space"
-msgstr ""
+msgstr "Libreng Space"
 
 msgid "HELP BUTTON:\n"
 msgstr ""
 
 msgid "HOME"
-msgstr ""
+msgstr "BAHAY"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Tulong\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Itago/Ipakita"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Kung aktibong player STOP player riproduction sa exit"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Kung mayroon kang file:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Kung mayroon kang file\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Mag-import"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Mag-import ng Server mula sa /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Mag-import ng Server mula sa /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Impormasyon"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Magpatuloy sa Paglalaro\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Di-wastong URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Di-wastong format ng petsa sa impormasyon sa pag-update."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Di-wastong format ng file: hindi sapat o walang laman na mga linya sa %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Di-wastong format sa %s. Hindi ma-extract ang mga detalye ng server."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Di-wasto o hindi sinusuportahang uri ng trabaho"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Wala bang Direktoryo o file"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Huling pag-update ng channel: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Umiiral na ang linya sa playlist"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Ang linya ay idinagdag sa playlist"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Link sa Main Menu"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Live Player Aktibo sa Setting: itakda ang Hindi para sa Record Live"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player para sa Stream .ts: itakda ang Hindi para sa Record Live"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Uri ng Live na Serbisyo"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "Aktibo ang LivePlayer"
 
 msgid "M3u"
 msgstr ""
@@ -417,106 +417,106 @@ msgid "M3u Loader"
 msgstr ""
 
 msgid "Main"
-msgstr ""
+msgstr "Pangunahing"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Pangunahing Screen XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Gawin"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Folder ng Media"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Nawawala o walang laman na file: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Pelikula"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Folder ng Pelikula"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Matagumpay na natanggal ang pelikula"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Configuration ng Bouquet ng Pangalan:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Pangalan ng Bouquet Export"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Error sa network!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Walang Server na Na-configure para I-download!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Walang Video na Ida-download/Ire-record!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Walang data o playlist na hindi tugma sa XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Walang napiling pelikula!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Walang napiling gawain!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Walang magagamit na impormasyon sa pag-update."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Mga Series Episode lang ang pinapayagan!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "VOD Movie lang ang pinapayagan!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Buksan ang Folder ng Pelikula\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
 msgstr ""
 
 msgid "PAUSED"
-msgstr ""
+msgstr "Naka-pause"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "I-pause/Ipagpatuloy"
 
 msgid "Picons IPTV"
-msgstr ""
+msgstr "Picon IPTV"
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV bouquets sa"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Ilagay ang mga bouquet ng IPTV sa"
 
 msgid "Player"
-msgstr ""
+msgstr "Manlalaro"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Mangyaring i-configure muna ang mga detalye ng server"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Pakilagay ang parental control pin code"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Inihahanda ang pag-download..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Ilagay ang .m3u Files sa Folder %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Ilagay ang iyong mga linya sa"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Talagang malapit nang hindi nagse-save ng mga setting?"
 
 msgid "Rec Movie"
 msgstr ""
@@ -525,160 +525,160 @@ msgid "Rec Series"
 msgstr ""
 
 msgid "Reload"
-msgstr ""
+msgstr "I-reload"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "I-reload ang Listahan\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "I-reload ang mga kasalukuyang Playlist..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Alisin"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Alisin ang Playlist sa Bouquets?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Alisin ang gawain sa pag-download para sa {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Alisin ang file sa listahan\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Tinatanggal ang lahat ng mga bouquet na\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Nabigo ang Pagbabago sa Resolusyon"
 
 msgid "Restart"
-msgstr ""
+msgstr "I-restart"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Bumalik sa Listahan ng Mga Channel\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Hindi natagpuan ang mapagkukunan (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "PUMILI NG IYONG PAGPILI"
 
 msgid "Save"
-msgstr ""
+msgstr "I-save"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Download: %d%% - Bilis: %.1f KB/s - Natitirang oras: %d sec"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Uri ng iskedyul:"
 
 msgid "Search"
-msgstr ""
+msgstr "Maghanap"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Maghanap ng LIVE/Pelikula"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Maghanap ng pamagat sa listahan"
 
 msgid "Select"
-msgstr ""
+msgstr "Pumili"
 
 msgid "Server PORT"
 msgstr ""
 
 msgid "Server Password"
-msgstr ""
+msgstr "Password ng Server"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Timeout ng Server"
 
 msgid "Server URL"
-msgstr ""
+msgstr "URL ng server"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Username ng Server"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Itakda ang 'Live Player Active' sa Setting:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Itakda ang 'Hindi' para sa Record Live\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Itakda ang Pangalan para sa MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Matagumpay na na-save ang mga setting!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Simulan ang I-download ang Lahat ng Serye ng Episode\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Simulan ang Pag-download o I-record ang Napiling Channel:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Ihinto ang Manlalaro sa Paglabas"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Wala ang pelikula!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Mali ang pin code na iyong inilagay."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Oras para simulan ang pag-update:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Timeout Server (seg)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Nag-time out ang koneksyon"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "HINDI ALAM"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Na-abort ang Update!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "I-update ang pagitan (mga oras):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Uri ng Serbisyo ng Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Gusto mo ba talagang ihinto ang pag-download?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Maghintay... kasalukuyang nagda-download..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Kapag nagbubukas ng .m3u file sa halip:\n"
 
 msgid "YELLOW BUTTON:\n"
 msgstr ""
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Kailangan mong i-configure ang uri ng output\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Ang iyong Server Login at data input"
 
 msgid "fixed time"
-msgstr ""
+msgstr "takdang oras"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(host na walang http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "pagitan"
 
 msgid "not exist!"
-msgstr ""
+msgstr "wala!"
 
 msgid "password\n"
 msgstr ""

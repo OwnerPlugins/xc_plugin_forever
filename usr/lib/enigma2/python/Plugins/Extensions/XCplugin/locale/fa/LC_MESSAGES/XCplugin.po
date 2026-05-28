@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s شناسایی نشد!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(دکمه آبی):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(دکمه سبز):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(دکمه ضبط):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(دکمه توقف):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(دکمه زرد):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,370 +42,370 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "در حال سقط..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "دسترسی غیرمجاز (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "به روز رسانی خودکار دسته گل"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "صفحه اصلی فعال بزرگ"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "تنظیم منطقه زمانی"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "تنظیم منطقه زمانی (ساعت)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "یک خطای غیرمنتظره رخ داد. لطفاً بعداً دوباره امتحان کنید."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "در فاصله زمانی چند ساعته یا در یک زمان مشخص"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "به روز رسانی خودکار دسته گل (زمان بندی):"
 
 msgid "Back"
-msgstr ""
+msgstr "برگشت"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "دسته گل"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "سبک دسته گل"
 
 msgid "Cancel"
-msgstr ""
+msgstr "لغو کنید"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "نمی توان این وضعیت کار را تغییر داد"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "نمی توان این مورد را مکث/ازسرگیری کرد"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "نمی توان این مورد را حذف کرد"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "لیست علاقه مندی ها را بررسی کنید..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "دایرکتوری را انتخاب کنید:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "دایرکتوری را انتخاب کنید"
 
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 msgid "Config"
-msgstr ""
+msgstr "پیکربندی"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "تنظیمات تنظیمات پیکربندی\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "در یک زمان ثابت پیکربندی کنید"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "از هم اکنون هر بازه ساعتی را پیکربندی کنید"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "پیکربندی نام دسته گل صادر شده پیش فرض myBouquet است"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "پیکربندی سرویس مرجع Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "پیکربندی سرویس مرجع Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "نوع تبدیل را در لیست مورد علاقه پیکربندی کنید"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "پیکربندی را برای قرار دادن دسته های لیست های تبدیل شده انجام دهید"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "پیکربندی نوع دانلود فیلم: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "نوع جریان را برای دانلود با تبدیل پیکربندی کنید"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "تبریک میگم شما در حال حاضر آخرین نسخه را دارید ..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "در حال اتصال به سرور..."
 
 msgid "Console"
-msgstr ""
+msgstr "کنسول"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "تبدیل %s در حال انجام است:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "نوع تبدیل خروجی"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "تبدیل لیست پخش به: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "دسته‌های XC Live/VOD ایجاد کنید\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "دانلود ویدیو؟"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "در حال دانلود"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "پیکربندی سرور داده:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "نمایش XCplugin در منوی اصلی"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "آیا می خواهید %s را به .tv مورد علاقه تبدیل کنید؟"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "آیا می خواهید به روز رسانی (%s) را اکنون نصب کنید؟"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "آیا می خواهید %s را حذف کنید؟"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "آیا می خواهید: %s را حذف کنید؟"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "آیا می‌خواهید %s را حذف کنید؟"
 
 msgid "Download"
-msgstr ""
+msgstr "دانلود کنید"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "دانلود انجام نشد!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "دانلود تمام شد!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "دانلود فایل M3u؟"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "پیکنز را دانلود کنید؟"
 
 msgid "Download Type"
-msgstr ""
+msgstr "نوع دانلود"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "کانال انتخابی VOD را بارگیری کنید\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "دانلود ویدیو \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "دانلود کامل شد"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "دانلود با موفقیت انجام شد!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "خطای دانلود: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "دانلود با کد بازگشت انجام نشد: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "دانلود انجام نشد:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "دانلود انجام نشد"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "دانلود در کورسو"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "دانلود دوباره شروع شد: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "دانلود شروع شد: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "دانلود متوقف شد: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "وظیفه دانلود حذف شد"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "دانلود: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "فایل دانلود شده خیلی کوچک است"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "فایل دانلود شده یافت نشد"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "رمز عبور را وارد کنید"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "پورت سرور را وارد کنید به عنوان مثال:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "آدرس سرور را بدون «http://» your_domine وارد کنید"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "نام کاربری را وارد کنید"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "پین کد را وارد کنید"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "راهنمای EPG یا imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "کد خطا"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "خطا در کنترل دانلود: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "خطا در حذف فایل:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "خطا در خواندن یا پردازش %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "خطا در خواندن یا پردازش فایل: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "خطا در حذف کار: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "خطا در تأیید دانلود: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "خارج شوید"
 
 msgid "Export"
-msgstr ""
+msgstr "صادرات"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "فایل m3u را به Bouquet .tv\n صادر کنید"
 
 msgid "FAILED"
-msgstr ""
+msgstr "ناموفق"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "اطلاعات به‌روزرسانی دریافت نشد. لطفا اتصال اینترنت خود را بررسی کنید."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "اطلاعات به روز رسانی تجزیه نشد. لطفاً بعداً دوباره امتحان کنید."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "فایل ناشناس!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "فایل یافت نشد یا خالی: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "فایل پیدا نشد!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "روز بد را فیلتر کنید"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "فیلتر کردن این دسته..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "ابتدا لیست را انتخاب کنید یا آن را در Config وارد کنید"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "پوشه کاربر فایل xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "قالب:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "فضای آزاد"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "دکمه کمک:\n"
 
 msgid "HOME"
 msgstr ""
 
 msgid "Help\n"
-msgstr ""
+msgstr "راهنما\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "پنهان کردن/نمایش"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "در صورت فعال بودن پخش، توقف پخش پخش کننده در هنگام خروج"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "اگر فایلی دارید:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "اگر فایلی دارید\n"
 
 msgid "Import"
-msgstr ""
+msgstr "واردات"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "وارد کردن سرور از /etc/enigma2/iptv.sh؟"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "وارد کردن سرور از /tmp/xc.tx؟"
 
 msgid "Info"
-msgstr ""
+msgstr "اطلاعات"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "شروع به پخش ادامه دهید\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "URL نامعتبر است!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "قالب تاریخ در اطلاعات به‌روزرسانی نامعتبر است."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "فرمت فایل نامعتبر: خطوط کافی یا خالی در %s نیست"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "قالب در %s نامعتبر است. جزئیات سرور استخراج نشد."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "نوع شغل نامعتبر یا پشتیبانی نشده است"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "آیا دایرکتوری یا فایل وجود ندارد"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "آخرین به روز رسانی کانال: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "خط از قبل در لیست پخش وجود دارد"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "خط به لیست پخش اضافه شد"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "پیوند در منوی اصلی"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "پخش زنده فعال در تنظیمات: No را برای ضبط زنده تنظیم کنید"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "پخش زنده برای Stream.ts: تنظیم No برای ضبط زنده"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "نوع خدمات زنده"
 
 msgid "LivePlayer Active"
 msgstr ""
@@ -414,280 +414,280 @@ msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "لودر M3u"
 
 msgid "Main"
-msgstr ""
+msgstr "اصلی"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "صفحه اصلی XL"
 
 msgid "Make"
-msgstr ""
+msgstr "بسازید"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "پوشه رسانه"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "فایل موجود یا خالی: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "فیلم"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "پوشه فیلم"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "فیلم با موفقیت حذف شد"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "پیکربندی دسته گل نام:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "صادرات نام دسته گل"
 
 msgid "Network error!"
-msgstr ""
+msgstr "خطای شبکه!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "هیچ سروری برای دانلود پیکربندی نشده است!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "ویدیویی برای دانلود/ضبط وجود ندارد!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "هیچ داده یا لیست پخشی با XCplugin سازگار نیست."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "هیچ فیلمی انتخاب نشد!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "هیچ کاری انتخاب نشده است!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "اطلاعات به روز رسانی در دسترس نیست."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "فقط قسمت های سریال مجاز است!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "فقط فیلم VOD مجاز است!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "باز کردن پوشه فیلم\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='yyyyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "مکث شد"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "مکث/ازسرگیری"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons دسته های IPTV به"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "دسته های IPTV را در آن قرار دهید"
 
 msgid "Player"
-msgstr ""
+msgstr "بازیکن"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "لطفا ابتدا جزئیات سرور را پیکربندی کنید"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "لطفا کد پین کنترل والدین را وارد کنید"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "در حال آماده سازی دانلود..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "فایل‌های m3u را در پوشه %s قرار دهید"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "خطوط خود را به"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "آیا واقعاً بدون ذخیره تنظیمات بسته می شود؟"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "فیلم Rec"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "سری Rec"
 
 msgid "Reload"
-msgstr ""
+msgstr "بارگذاری مجدد"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "بارگیری مجدد فهرست\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "بارگیری مجدد لیست های پخش در حال انجام..."
 
 msgid "Remove"
-msgstr ""
+msgstr "حذف کنید"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "فهرست پخش از Bouquets حذف شود؟"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "وظیفه دانلود برای {} حذف شود؟"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "حذف فایل از لیست\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "همه دسته گل هایی که بوده اند را حذف می کند\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "تغییر رزولوشن انجام نشد"
 
 msgid "Restart"
-msgstr ""
+msgstr "راه اندازی مجدد"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "بازگشت به فهرست کانال ها\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "منبع یافت نشد (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "انتخاب خود را انتخاب کنید"
 
 msgid "Save"
-msgstr ""
+msgstr "ذخیره کنید"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "دانلود: %d%% - سرعت: %.1f KB/s - زمان باقیمانده: %d ثانیه"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "نوع برنامه:"
 
 msgid "Search"
-msgstr ""
+msgstr "جستجو کنید"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "جستجوی زنده/فیلم"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "یک عنوان را در لیست جستجو کنید"
 
 msgid "Select"
-msgstr ""
+msgstr "انتخاب کنید"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "پورت سرور"
 
 msgid "Server Password"
-msgstr ""
+msgstr "رمز عبور سرور"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "زمان پایان سرور"
 
 msgid "Server URL"
-msgstr ""
+msgstr "آدرس سرور"
 
 msgid "Server Username"
-msgstr ""
+msgstr "نام کاربری سرور"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "در Setting:\n "Live Player Active" را تنظیم کنید"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "«نه» را برای ضبط زنده تنظیم کنید\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "نام را برای MakerBouquet تنظیم کنید"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "تنظیمات با موفقیت ذخیره شد!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "دانلود مجموعه همه قسمت‌ها را شروع کنید\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "دانلود یا ضبط کانال انتخابی را شروع کنید:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "توقف پخش در هنگام خروج"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "فیلم وجود ندارد!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "پین کدی که وارد کردید اشتباه است."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "زمان شروع به روز رسانی:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "زمان پایان سرور (ثانیه)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "زمان اتصال تمام شد"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "ناشناخته"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "به روز رسانی لغو شد!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "فاصله زمانی به روز رسانی (ساعت):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "نوع خدمات Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "آیا واقعاً می خواهید دانلود را متوقف کنید؟"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "صبر کنید... دانلود در حال انجام است..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "هنگام باز کردن یک فایل .m3u در عوض:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "دکمه زرد:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "باید نوع خروجی را پیکربندی کنید\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "ورود به سرور و ورودی داده شما"
 
 msgid "fixed time"
-msgstr ""
+msgstr "زمان ثابت"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "میزبان\t(میزبان بدون http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "فاصله"
 
 msgid "not exist!"
-msgstr ""
+msgstr "وجود ندارد!"
 
 msgid "password\n"
-msgstr ""
+msgstr "رمز عبور\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "پورت\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "کاربر\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "صبر کن لطفا..."

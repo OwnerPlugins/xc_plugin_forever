@@ -38,13 +38,13 @@ msgstr "   (绿色按钮):\n"
 
 #, fuzzy
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "（錄製按鈕）：\n"
 "    (录制按钮):\n"
 "\n"
 
 #, fuzzy
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "（停止按鈕）：\n"
 "    (停止按钮):\n"
 "\n"
 
@@ -61,10 +61,10 @@ msgid "/tmp/xc.txt\n"
 msgstr "            /tmp/xc.txt\n"
 
 msgid "Aborting..."
-msgstr ""
+msgstr "正在中止..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "未經授權的存取 (401)"
 
 msgid "Active Automatic Bouquet Update"
 msgstr "启动动自动花束更新"
@@ -74,13 +74,13 @@ msgid "Active Main Screen Large"
 msgstr "活动屏幕主大"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "調整時區"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "調整時區（小時）"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "發生意外錯誤。請稍後重試。"
 
 msgid "At an interval of hours or at a fixed time"
 msgstr "每隔几小时或固定时间"
@@ -100,13 +100,13 @@ msgid "Bouquet style"
 msgstr "频道组类型 "
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "無法修改此任務狀態"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "無法暫停/恢復此項目"
 
 msgid "Cannot remove this item"
 msgstr ""
@@ -158,13 +158,13 @@ msgid "Configure type of stream to be downloaded by conversion"
 msgstr "配置要通过转换下载的流类型"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "恭喜！您已經擁有最新版本..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "正在連接到伺服器..."
 
 msgid "Console"
-msgstr ""
+msgstr "安慰"
 
 #, fuzzy
 msgid "Conversion %s in progress:"
@@ -183,13 +183,13 @@ msgstr "   创建 XC直播/点播分组列表\n"
 
 #, fuzzy
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "下載影片？"
 "下载视频?\n"
 "%s"
 
 #, fuzzy
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "下載中"
 "下载视频?\n"
 "%s"
 
@@ -221,7 +221,7 @@ msgstr "下载"
 
 #, fuzzy
 msgid "Download Failed!"
-msgstr ""
+msgstr "下載失敗！"
 "下载失败\n"
 "\n"
 
@@ -252,24 +252,24 @@ msgid "Download completato"
 msgstr "下载类型 "
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "下載成功！"
 
 #, fuzzy
 msgid "Download error: %s"
 msgstr "下载类型 "
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "下載失敗，回傳程式碼：{}"
 
 #, fuzzy
 msgid "Download failed:"
-msgstr ""
+msgstr "下載失敗："
 "下载失败\n"
 "\n"
 
 #, fuzzy
 msgid "Download fallito"
-msgstr ""
+msgstr "下載失敗"
 "下载失败\n"
 "\n"
 
@@ -279,25 +279,25 @@ msgstr "下载图标 ？"
 
 #, fuzzy
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "重新啟動下載：{}"
 "下载失败\n"
 "\n"
 
 #, fuzzy
 msgid "Download started: {}"
-msgstr ""
+msgstr "下載開始：{}"
 "下载失败\n"
 "\n"
 
 #, fuzzy
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "下載已停止：{}"
 "下载失败\n"
 "\n"
 
 #, fuzzy
 msgid "Download task removed"
-msgstr ""
+msgstr "下載任務已刪除"
 "下载失败\n"
 "\n"
 
@@ -334,25 +334,25 @@ msgid "Epg guide or imdb/tmdb\n"
 msgstr "            Epg 指南或 imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "錯誤代碼"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "控制下載時發生錯誤：{}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "刪除檔案時發生錯誤："
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "讀取或處理 %s 時發生錯誤：%s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "讀取或處理文件時發生錯誤：%s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "刪除任務時發生錯誤：{}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "驗證下載時發生錯誤：{}"
 
 msgid "Exit"
 msgstr "退出"
@@ -365,13 +365,13 @@ msgid "Export file m3u to Bouquet .tv\n"
 msgstr "            将文件 m3u 导出到Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "失敗的"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "取得更新資訊失敗。請檢查您的網路連線。"
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "無法解析更新資訊。請稍後重試。"
 
 msgid "File Unknow!!!"
 msgstr "文件未知!!"
@@ -397,7 +397,7 @@ msgid "Folder user file .xml"
 msgstr "文件夹用户文件.xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "格式：\n"
 
 msgid "Free Space"
 msgstr "剩余空间"
@@ -406,16 +406,16 @@ msgid "HELP BUTTON:\n"
 msgstr "帮助按钮\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "家"
 
 msgid "Help\n"
-msgstr ""
+msgstr "幫助\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "隱藏/顯示"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "如果玩家處於活動狀態，退出時停止玩家複製"
 
 #, fuzzy
 msgid "If you have a file:\n"
@@ -443,7 +443,7 @@ msgid "Init Continue Play\n"
 msgstr "            初始化继续播放\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "無效網址！"
 
 msgid "Invalid date format in update information."
 msgstr ""
@@ -452,7 +452,7 @@ msgid "Invalid file format: not enough or empty lines in %s"
 msgstr ""
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "%s 中的格式無效。无法提取服务器详细信息。"
 
 msgid "Invalid or unsupported job type"
 msgstr ""
@@ -523,7 +523,7 @@ msgstr "影片文件夹"
 
 #, fuzzy
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "電影已成功刪除"
 " 影片已成功删除\n"
 "等待时间刷新列表..."
 
@@ -534,7 +534,7 @@ msgid "Name Bouquet Export"
 msgstr "名称频道分组导出"
 
 msgid "Network error!"
-msgstr ""
+msgstr "網路錯誤！"
 
 msgid "No Server Configured to Download!!!"
 msgstr "没有配置为下载的服务器!!"
@@ -546,13 +546,13 @@ msgid "No data or playlist not compatible with XCplugin."
 msgstr "没有与XCplugin不兼容的数据或播放列表。"
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "沒有選擇電影！"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "沒有選擇任務！"
 
 msgid "No update information available."
-msgstr ""
+msgstr "無可用更新資訊。"
 
 msgid "Only Series Episodes Allowed!!!"
 msgstr "只允许连续剧剧集!!"
@@ -569,10 +569,10 @@ msgid "PASSWORD='yyyyyyyyy'\n"
 msgstr "            密码='yyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "暫停"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "暫停/恢復"
 
 #, fuzzy
 msgid "Picons IPTV"
@@ -590,19 +590,19 @@ msgid "Player"
 msgstr "播放"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "請先配置伺服器詳細信息"
 
 msgid "Please enter the parental control pin code"
 msgstr "请输入家长控制pin码"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "正在準備下載..."
 
 msgid "Put .m3u Files in Folder %s"
 msgstr "将.m3u文件放入文件夹%s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "把你的線放到"
 
 msgid "Really close without saving settings?"
 msgstr "真的关闭而不保存设置吗？"
@@ -630,7 +630,7 @@ msgid "Remove Playlist from Bouquets?"
 msgstr "从分组列表中删除播放列表？"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "刪除 {} 的下載任務？"
 
 #, fuzzy
 msgid "Remove file from list\n"
@@ -641,17 +641,17 @@ msgid "Removes all the bouquets that have been\n"
 msgstr "    移除所有已放置的花束\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "解析度變更失敗"
 
 msgid "Restart"
-msgstr ""
+msgstr "重新啟動"
 
 #, fuzzy
 msgid "Return to Channels List\n"
 msgstr "            返回频道列表\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "找不到資源 (404)"
 
 msgid "SELECT YOUR CHOICE"
 msgstr "选择您的选择"
@@ -660,7 +660,7 @@ msgid "Save"
 msgstr "保存"
 
 msgid "Scaricamento: %d%% - Velocità: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "下載：%d%% - 速度：%.1f KB/s - 剩餘時間：%d 秒"
 
 msgid "Schedule type:"
 msgstr "时间表类型："
@@ -717,7 +717,7 @@ msgid "Start Download or Record Selected Channel:\n"
 msgstr "            开始下载或录制所选频道:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "退出時停止播放器"
 
 #, fuzzy
 msgid "The movie does not exist!"
@@ -733,7 +733,7 @@ msgid "Timeout Server (sec)"
 msgstr "超时服务器（秒）"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "連線逾時"
 
 #, fuzzy
 msgid "UNKNOWN"
@@ -744,7 +744,7 @@ msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr "            用户名='xxxxxx'\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "更新中止！"
 
 msgid "Update interval (hours):"
 msgstr "更新间隔(小时):"
@@ -753,7 +753,7 @@ msgid "Vod Services Type"
 msgstr "点播服务类型"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "您真的要停止下載嗎？"
 
 msgid "Wait... downloading in progress ..."
 msgstr "等待...正在下载..."
@@ -795,7 +795,7 @@ msgid "port\n"
 msgstr "导入"
 
 msgid "user\n"
-msgstr ""
+msgstr "使用者\n"
 
 msgid "wait please..."
 msgstr "请稍等..."

@@ -19,22 +19,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s NAV KONSTATĒTS!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(ZILĀ POGA):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(ZAĻĀ POGA):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(IERAKSTĪŠANAS POGA):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(STOP POGA):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(DZELTENĀ POGA):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -43,652 +43,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Notiek pārtraukšana..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Nesankcionēta piekļuve (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktīvā automātiskā pušķu atjaunināšana"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Aktīvs galvenais ekrāns liels"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Pielāgojiet laika joslu"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Pielāgot laika joslu (stunda)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Radās neparedzēta kļūda. Lūdzu, vēlāk mēģiniet vēlreiz."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Stundu intervālā vai noteiktā laikā"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Automātiska pušķu atjaunināšana (grafiks):"
 
 msgid "Back"
-msgstr ""
+msgstr "Atpakaļ"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Pušķis"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Pušķu stils"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Atcelt"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Nevar mainīt šī uzdevuma statusu"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Nevar apturēt/atsākt šo vienumu"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Šo vienumu nevar noņemt"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Pārbaudiet izlases sarakstus..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Izvēlieties direktoriju:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Izvēlieties direktoriju"
 
 msgid "Close"
-msgstr ""
+msgstr "Aizvērt"
 
 msgid "Config"
-msgstr ""
+msgstr "Konfig"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Konfigurācijas iestatīšanas opcijas\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Konfigurējiet noteiktā laikā"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "No šī brīža konfigurējiet katru stundu intervālu"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Konfigurējiet eksportētā pušķa nosaukumu. Noklusējums ir myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigurēt pakalpojumu Atsauce Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigurēt pakalpojumu Atsauce Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Izlases sarakstā konfigurējiet reklāmguvuma veidu"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Konfigurējiet, lai novietotu konvertēto sarakstu pušķus"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Konfigurējiet lejupielādes filmas veidu: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Konfigurējiet lejupielādējamās straumes veidu, konvertējot"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Apsveicam! Jums jau ir jaunākā versija..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Notiek savienojuma izveide ar serveri..."
 
 msgid "Console"
-msgstr ""
+msgstr "Konsole"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Notiek konvertēšana %s:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Konversijas veids Izvade"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Pārvērst atskaņošanas sarakstu par: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Izveidojiet XC tiešraides/VOD pušķus\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "LEJUPIELĀDĒT VIDEO?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "LEJUPIELĀDE"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Datu servera konfigurācija:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Parādiet XCplugin galvenajā izvēlnē"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Vai vēlaties pārvērst %s par iecienītāko .tv?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Vai vēlaties instalēt atjauninājumu (%s) tūlīt?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Vai vēlaties noņemt %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Vai vēlaties noņemt: %s?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Vai vēlaties noņemt: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Lejupielādēt"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Lejupielāde neizdevās!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Lejupielāde pabeigta!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Lejupielādēt M3u failu?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Lejupielādēt Picons?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Lejupielādes veids"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Lejupielādēt VOD atlasīto kanālu\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Lejupielādēt video \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Lejupielāde pabeigta"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Lejupielāde ir veiksmīgi pabeigta!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Lejupielādes kļūda: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Lejupielāde neizdevās ar atgriešanas kodu: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Lejupielāde neizdevās:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Lejupielāde neizdevās"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Lejupielādēt in corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Lejupielāde restartēta: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Lejupielāde sākta: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Lejupielāde apturēta: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Lejupielādes uzdevums ir noņemts"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Lejupielādēt: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Lejupielādētais fails ir pārāk mazs"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Lejupielādētais fails nav atrasts"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Ievadiet paroli"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Ievadiet servera portu, piemēram:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Ievadiet servera URL bez “http://” your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Ievadiet lietotājvārdu"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Ievadiet PIN kodu"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg ceļvedis vai imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Kļūdas kods"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Kļūda, kontrolējot lejupielādi: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Kļūda, dzēšot failu:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Kļūda, lasot vai apstrādājot %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Kļūda, lasot vai apstrādājot failu: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Kļūda, noņemot uzdevumu: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Kļūda, verificējot lejupielādi: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Iziet"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksportēt"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Eksportējiet failu m3u uz Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "NEizdevās"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Neizdevās iegūt atjauninājuma informāciju. Lūdzu, pārbaudiet savu interneta savienojumu."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Neizdevās parsēt atjauninājumu informāciju. Lūdzu, vēlāk mēģiniet vēlreiz."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Fails Nezināms!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Fails nav atrasts vai tukšs: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Fails nav atrasts!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Filtrēt Bad Day"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrēt šo kategoriju..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Vispirms atlasiet sarakstu vai ievadiet to izvēlnē Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Mapes lietotāja fails .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Formāts:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "Brīva telpa"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "PALĪDZĪBAS POGA:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "MĀJAS"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Palīdzība\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Paslēpt/Rādīt"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Ja spēlētājs ir aktīvs, PĀRTRAUKT spēlētāja atskaņošanu izejot"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Ja jums ir fails:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Ja jums ir fails\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Importēt"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Vai importēt serveri no /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Vai importēt serveri no /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Informācija"
 
 msgid "Init Continue Play\n"
 msgstr ""
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Nederīgs URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Atjaunināšanas informācijā nav derīgs datuma formāts."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Nederīgs faila formāts: nepietiek vai ir tukšas rindas %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Nederīgs formāts %s. Nevarēja izvilkt servera informāciju."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Nederīgs vai neatbalstīts darba veids"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Vai direktorijs vai fails neeksistē"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Pēdējais kanāla atjauninājums: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Līnija jau pastāv atskaņošanas sarakstā"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Atskaņošanas sarakstam pievienota rindiņa"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Saite galvenajā izvēlnē"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Tiešraides atskaņotājs ir aktīvs iestatījumos: iestatiet Nē vienumam Record Live"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Tiešraides atskaņotājs straumei .ts: iestatiet Nē ierakstīšanai tiešraidē"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Tiešraides pakalpojumu veids"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer aktīvs"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u iekrāvējs"
 
 msgid "Main"
-msgstr ""
+msgstr "Galvenā"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Galvenais ekrāns XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Padarīt"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Multivides mape"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Trūkst vai tukšs fails: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Filma"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Filmu mape"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Filma ir veiksmīgi izdzēsta"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Nosaukuma pušķa konfigurācija:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Nosaukuma pušķu eksports"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Tīkla kļūda!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Lejupielādei nav konfigurēts serveris!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Nav video ko lejupielādēt/ierakstīt!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Nav datu vai atskaņošanas saraksta, kas nav saderīgs ar XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Nav atlasīta neviena filma!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Nav atlasīts neviens uzdevums!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Atjaunināšanas informācija nav pieejama."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Atļautas tikai seriālu sērijas!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Atļauta tikai VOD filma!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Atveriet filmu mapi\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='yyyyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "PAUZĒTS"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Pauzēt/Atsākt"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV pušķi uz"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Novietojiet IPTV pušķus plkst"
 
 msgid "Player"
-msgstr ""
+msgstr "Spēlētājs"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Lūdzu, vispirms konfigurējiet servera informāciju"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Lūdzu, ievadiet vecāku kontroles PIN kodu"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Notiek lejupielādes sagatavošana..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Ievietojiet .m3u failus mapē %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Novietojiet savas līnijas uz"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Vai tiešām aizvērt, nesaglabājot iestatījumus?"
 
 msgid "Rec Movie"
 msgstr ""
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Rec sērija"
 
 msgid "Reload"
-msgstr ""
+msgstr "Pārlādēt"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Pārlādēt sarakstu\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Notiek atskaņošanas sarakstu atkārtota ielāde..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Noņemt"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Vai noņemt atskaņošanas sarakstu no pušķiem?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Vai noņemt {} lejupielādes uzdevumu?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Noņemt failu no saraksta\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Noņem visus pušķus, kas ir bijuši\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Izšķirtspējas maiņa neizdevās"
 
 msgid "Restart"
-msgstr ""
+msgstr "Restartēt"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Atgriezties uz kanālu sarakstu\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Resurss nav atrasts (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "IZVĒLIES SAVU IZVĒLI"
 
 msgid "Save"
-msgstr ""
+msgstr "Saglabāt"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Lejupielāde: %d%% — Ātrums: %.1f KB/s — Atlikušais laiks: %d sek"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Grafika veids:"
 
 msgid "Search"
-msgstr ""
+msgstr "Meklēt"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Meklēt tiešraidē/filmā"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Sarakstā meklējiet nosaukumu"
 
 msgid "Select"
-msgstr ""
+msgstr "Izvēlieties"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "Servera PORTS"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Servera parole"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Servera taimauts"
 
 msgid "Server URL"
-msgstr ""
+msgstr "Servera URL"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Servera lietotājvārds"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Sadaļā Iestatījumi iestatiet “Tiešraides atskaņotājs aktīvs”:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Iestatiet “Nē” vienumam Record Live\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Iestatiet nosaukumu MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Iestatījumi ir veiksmīgi saglabāti!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Sāciet visu sēriju lejupielādi\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Sāciet lejupielādēt vai ierakstīt atlasīto kanālu:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Apturēt atskaņotāju izejot"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Filma neeksistē!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Ievadītais PIN kods ir nepareizs."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Laiks sākt atjaunināšanu:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Noildzes serveris (s)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Savienojuma noildze"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "NEZINĀMS"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
-msgstr ""
+msgstr "LIETOTĀJVĀRDS='xxxxxxxxxx'\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Atjaunināšana pārtraukta!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Atjaunināšanas intervāls (stundas):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Vod pakalpojumu veids"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Vai tiešām vēlaties apturēt lejupielādi?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Pagaidiet... notiek lejupielāde..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Tā vietā atverot .m3u failu:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "DZELTENĀ POGA:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Jums ir jākonfigurē izvades veids\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Jūsu servera pieteikšanās un datu ievade"
 
 msgid "fixed time"
-msgstr ""
+msgstr "fiksēts laiks"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "saimniekdators\t(resursdators bez http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "intervāls"
 
 msgid "not exist!"
-msgstr ""
+msgstr "neeksistē!"
 
 msgid "password\n"
-msgstr ""
+msgstr "parole\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "ports\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "lietotājs\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "pagaidi lūdzu..."

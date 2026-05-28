@@ -19,22 +19,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s EI TUNNISTETTU!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(SININEN PAINIKE):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(VIHREÄ PAINIKE):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(REC-PAINIKE):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(STOP-PAINIKE):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(KELTAINEN PAINIKE):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -43,373 +43,373 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Keskeytetään..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Luvaton käyttö (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktiivinen automaattinen kimpun päivitys"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Aktiivinen päänäyttö Suuri"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Säädä aikavyöhykettä"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Säädä aikavyöhykettä (tuntia)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Tapahtui odottamaton virhe. Yritä myöhemmin uudelleen."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Tuntien välein tai tiettyyn aikaan"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Automaattinen kimpun päivitys (aikataulu):"
 
 msgid "Back"
-msgstr ""
+msgstr "Takaisin"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Kukkakimppu"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Kukkakimppu tyyli"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Peruuttaa"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Tämän tehtävän tilaa ei voi muuttaa"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Tätä kohdetta ei voi keskeyttää/jatkaa"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Tätä kohdetta ei voi poistaa"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Tarkista suosikkilistat..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Valitse hakemisto:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Valitse hakemisto"
 
 msgid "Close"
-msgstr ""
+msgstr "Lähellä"
 
 msgid "Config"
-msgstr ""
+msgstr "Konfig"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Määritä Asetusasetukset\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Määritä tiettyyn aikaan"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Määritä jokainen tuntiväli tästä lähtien"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Määritä viedyn kimpun nimi. Oletus on myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Määritä palvelu Viite Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Määritä palvelu Viite Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Määritä muunnostyyppi suosikkiluettelossa"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Määritä sijoittamaan muunnettujen luetteloiden kimput"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Määritä ladattavan elokuvan tyyppi: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Määritä muunnolla ladattavan streamin tyyppi"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Onnittelut! Sinulla on jo uusin versio..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Yhdistetään palvelimeen..."
 
 msgid "Console"
-msgstr ""
+msgstr "Konsoli"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Muunnos %s käynnissä:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Muunnostyyppi Output"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Muunna soittolista muotoon: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Luo XC Live/VOD -kimppuja\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "LATAA VIDEO?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "LATAUS"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Datapalvelimen kokoonpano:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Näytä XCplugin päävalikossa"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Haluatko muuntaa %s suosikkitiedostoksi .tv?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Haluatko asentaa päivityksen (%s) nyt?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Haluatko poistaa %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Haluatko poistaa: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Haluatko poistaa: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Lataa"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Lataus epäonnistui!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Lataus valmis!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Lataa M3u-tiedosto?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Lataa Picons?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Latauksen tyyppi"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Lataa VOD valittu kanava\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Lataa video \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Lataus valmis"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Lataus suoritettu onnistuneesti!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Latausvirhe: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Lataus epäonnistui palautuskoodilla: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Lataus epäonnistui:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Lataus epäonnistui"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Lataa in corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Lataus aloitettu uudelleen: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Lataus aloitettu: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Lataus pysäytetty: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Lataustehtävä poistettu"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Lataa: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Ladattu tiedosto on liian pieni"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Ladattua tiedostoa ei löydy"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Anna salasana"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Anna palvelinportti esim.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Anna palvelimen URL-osoite ilman 'http://' your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Anna käyttäjätunnus"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Anna pin-koodi"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg-opas tai imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Virhekoodi"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Virhe latauksen hallinnassa: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Virhe poistettaessa tiedostoa:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Virhe lukemisessa tai käsittelyssä %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Virhe tiedoston lukemisessa tai käsittelyssä: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Virhe tehtävää poistettaessa: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Virhe latauksen vahvistamisessa: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Poistu"
 
 msgid "Export"
-msgstr ""
+msgstr "Viedä"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Vie tiedosto m3u Bouquet .tv -tiedostoon\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "Epäonnistunut"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Päivitystietojen nouto epäonnistui. Tarkista Internet-yhteytesi."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Päivitystietojen jäsentäminen epäonnistui. Yritä myöhemmin uudelleen."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Tiedosto Tuntematon!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Tiedostoa ei löydy tai se on tyhjä: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Tiedostoa ei löydy!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Suodata huono päivä"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Suodata tämä luokka..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Valitse ensin luettelo tai kirjoita se Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Kansion käyttäjätiedosto .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Muoto:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "Vapaa tila"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "APUPAINIKE:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "KOTIIN"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Ohje\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Piilota/Näytä"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Jos pelaaja on aktiivinen, PYSÄYTÄ pelaajan kopiointi poistuttaessa"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Jos sinulla on tiedosto:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Jos sinulla on tiedosto\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Tuoda"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Tuoko palvelin tiedostosta /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Tuoko palvelin tiedostosta /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Tiedot"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Aloita Jatka toistoa\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Virheellinen URL-osoite!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Virheellinen päivämäärämuoto päivitystiedoissa."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Virheellinen tiedostomuoto: ei tarpeeksi tai tyhjiä rivejä %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Virheellinen muoto %s. Palvelimen tietoja ei voitu purkaa."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Virheellinen tai tuettu työtyyppi"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Onko hakemistoa tai tiedostoa ei ole olemassa"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Kanavan viimeisin päivitys: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Rivi on jo soittolistassa"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Rivi liitetty soittolistaan"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Linkki päävalikossa"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Live Player Aktiivinen asetuksissa: aseta Ei nauhoittaa liveä"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player for Stream .ts: aseta Ei nauhoitusta varten"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Live-palvelujen tyyppi"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer aktiivinen"
 
 msgid "M3u"
 msgstr ""
@@ -421,274 +421,274 @@ msgid "Main"
 msgstr ""
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Päänäyttö XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Tehdä"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Mediakansio"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Puuttuva tai tyhjä tiedosto: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Elokuva"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Elokuvakansio"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Elokuva on poistettu onnistuneesti"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Nimikimpun kokoonpano:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Nimikimpun vienti"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Verkkovirhe!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Palvelinta ei ole määritetty lataamaan!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Ei ladattavaa/tallennettavaa videota!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Ei dataa tai soittolistaa, joka ei ole yhteensopiva XCpluginin kanssa."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Elokuvaa ei ole valittu!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Tehtävää ei ole valittu!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Päivitystietoja ei ole saatavilla."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Vain sarjan jaksot sallittu!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Vain VOD-elokuva sallittu!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Avaa elokuvakansio\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='yyyyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "KESKEYTETTY"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Keskeytä/Jatka"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV-kimppuja"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Sijoita IPTV-kimppuja osoitteessa"
 
 msgid "Player"
-msgstr ""
+msgstr "Pelaaja"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Määritä ensin palvelimen tiedot"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Anna lapsilukon PIN-koodi"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Valmistellaan latausta..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Laita .m3u-tiedostot kansioon %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Laita linjasi kohdalle"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Suljetko todella tallentamatta asetuksia?"
 
 msgid "Rec Movie"
 msgstr ""
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Rec-sarja"
 
 msgid "Reload"
-msgstr ""
+msgstr "Lataa uudelleen"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Lataa luettelo uudelleen\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Soittolistojen uudelleenlataus käynnissä..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Poistaa"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Poistetaanko soittolista Bouquetsista?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Poistetaanko lataustehtävä kohteelle {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Poista tiedosto luettelosta\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Poistaa kaikki kimput, jotka on ollut\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Resoluutiomuutos epäonnistui"
 
 msgid "Restart"
-msgstr ""
+msgstr "Käynnistä uudelleen"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Palaa kanavaluetteloon\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Resurssia ei löydy (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "VALITSE VALINTASI"
 
 msgid "Save"
-msgstr ""
+msgstr "Tallentaa"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Lataus: %d%% - Nopeus: %.1f KB/s - Jäljellä oleva aika: %d s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Aikataulun tyyppi:"
 
 msgid "Search"
-msgstr ""
+msgstr "Haku"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Hae suoraa/elokuvaa"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Etsi otsikko luettelosta"
 
 msgid "Select"
-msgstr ""
+msgstr "Valitse"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "Palvelimen PORTTI"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Palvelimen salasana"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Palvelimen aikakatkaisu"
 
 msgid "Server URL"
-msgstr ""
+msgstr "Palvelimen URL-osoite"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Palvelimen käyttäjätunnus"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Aseta "Live Player Active" -asetukseksi asetuksissa:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Aseta "Ei" Record Live -asetukselle\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Aseta nimi MakerBouquetille"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Asetukset tallennettu onnistuneesti!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Aloita kaikkien jaksojen lataus\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Aloita lataus tai tallenna valittu kanava:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Pysäytä soitin poistuttaessa"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Elokuvaa ei ole olemassa!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Antamasi pin-koodi on väärä."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Aika aloittaa päivitys:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Aikakatkaisupalvelin (s)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Yhteys aikakatkaistiin"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "TUNTEMATON"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
-msgstr ""
+msgstr "KÄYTTÄJÄNIMI='xxxxxxxxxxx'\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Päivitys keskeytetty!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Päivitysväli (tuntia):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Vod-palvelutyyppi"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Haluatko todella lopettaa latauksen?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Odota... lataus käynnissä..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Kun sen sijaan avataan .m3u-tiedosto:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "KELTAINEN PAINIKE:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Sinun on määritettävä tulosteen tyyppi\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Palvelimesi sisäänkirjautuminen ja tietojen syöttäminen"
 
 msgid "fixed time"
-msgstr ""
+msgstr "kiinteä aika"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "isäntä\t(isäntä ilman http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "intervalli"
 
 msgid "not exist!"
-msgstr ""
+msgstr "ei ole olemassa!"
 
 msgid "password\n"
-msgstr ""
+msgstr "salasana\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "portti\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "käyttäjä\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "odota kiitos..."

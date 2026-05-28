@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s کا پتہ نہیں چلا!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(بلیو بٹن):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(سبز بٹن):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(REC بٹن):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(اسٹاپ بٹن):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(پیلا بٹن):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,652 +42,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "ختم ہو رہا ہے..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "غیر مجاز رسائی (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "فعال خودکار بکی اپ ڈیٹ"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "ایکٹو مین اسکرین بڑی"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "ٹائم زون کو ایڈجسٹ کریں۔"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "ٹائم زون کو ایڈجسٹ کریں (گھنٹہ)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "ایک غیر متوقع خرابی پیش آگئی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔"
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "گھنٹوں کے وقفے سے یا ایک مقررہ وقت پر"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "خودکار بکی اپ ڈیٹ (شیڈول):"
 
 msgid "Back"
-msgstr ""
+msgstr "پیچھے"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "گلدستہ"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "گلدستے کا انداز"
 
 msgid "Cancel"
-msgstr ""
+msgstr "منسوخ کریں۔"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "اس کام کی حیثیت میں ترمیم نہیں کی جا سکتی"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "اس آئٹم کو موقوف/دوبارہ شروع نہیں کیا جا سکتا"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "اس آئٹم کو ہٹایا نہیں جا سکتا"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "پسندیدہ فہرستوں کو چیک کریں..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "ڈائرکٹری کا انتخاب کریں:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "ڈائریکٹری کا انتخاب کریں۔"
 
 msgid "Close"
-msgstr ""
+msgstr "بند"
 
 msgid "Config"
-msgstr ""
+msgstr "ترتیب"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "ترتیب سیٹ اپ کے اختیارات\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "ایک مقررہ وقت پر ترتیب دیں۔"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "اب سے گھنٹوں کے ہر وقفے کو ترتیب دیں۔"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "برآمد شدہ گلدستے کا نام ترتیب دیں۔ ڈیفالٹ myBuquet ہے۔"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "سروس کا حوالہ Dvb-Iptv-Gstreamer-Exteplayer3 ترتیب دیں۔"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "سروس کا حوالہ Iptv-Gstreamer-Exteplayer3 ترتیب دیں۔"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "پسندیدہ فہرست میں تبادلوں کی قسم کو ترتیب دیں۔"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "تبدیل شدہ فہرستوں کے گلدستے رکھنے کے لیے ترتیب دیں۔"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "ڈاؤن لوڈ فلم کی قسم ترتیب دیں: جاب مینجر/ڈائریکٹ۔"
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "تبادلوں کے ذریعے ڈاؤن لوڈ کیے جانے والے اسٹریم کی قسم کو ترتیب دیں۔"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "مبارک ہو! آپ کے پاس پہلے سے ہی تازہ ترین ورژن ہے..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "سرور سے منسلک ہو رہا ہے..."
 
 msgid "Console"
-msgstr ""
+msgstr "کنسول"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "تبدیلی %s جاری ہے:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "تبادلوں کی قسم آؤٹ پٹ"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "پلے لسٹ کو اس میں تبدیل کریں: %s؟"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "XC لائیو/VOD گلدستے بنائیں\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "ویڈیو ڈاؤن لوڈ کریں؟"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "ڈاؤن لوڈ ہو رہا ہے۔"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "ڈیٹا سرور کی ترتیب:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "مین مینو میں XCplugin دکھائیں۔"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "کیا آپ %s کو پسندیدہ .tv میں تبدیل کرنا چاہتے ہیں؟"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "کیا آپ ابھی اپ ڈیٹ (%s) انسٹال کرنا چاہتے ہیں؟"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "کیا آپ %s کو ہٹانا چاہتے ہیں؟"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "کیا آپ ہٹانا چاہتے ہیں: %s؟"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "کیا آپ ہٹانا چاہتے ہیں: %s؟"
 
 msgid "Download"
-msgstr ""
+msgstr "ڈاؤن لوڈ کریں۔"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "ڈاؤن لوڈ ناکام!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "ڈاؤن لوڈ مکمل!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "M3u فائل ڈاؤن لوڈ کریں؟"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Picons ڈاؤن لوڈ کریں؟"
 
 msgid "Download Type"
-msgstr ""
+msgstr "ڈاؤن لوڈ کی قسم"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "VOD منتخب چینل ڈاؤن لوڈ کریں\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "ویڈیو ڈاؤن لوڈ کریں \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "ڈاؤن لوڈ مکمل ہو گیا۔"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "ڈاؤن لوڈ کامیابی سے مکمل ہو گیا!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "ڈاؤن لوڈ کی خرابی: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "واپسی کوڈ کے ساتھ ڈاؤن لوڈ ناکام ہو گیا: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "ڈاؤن لوڈ ناکام:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "ڈاؤن لوڈ ناکام ہو گیا۔"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "کورسو میں ڈاؤن لوڈ کریں۔"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "ڈاؤن لوڈ دوبارہ شروع ہوا: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "ڈاؤن لوڈ شروع ہوا: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "ڈاؤن لوڈ رک گیا: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "ڈاؤن لوڈ ٹاسک ہٹا دیا گیا۔"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "ڈاؤن لوڈ کریں: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "ڈاؤن لوڈ کی گئی فائل بہت چھوٹی ہے۔"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "ڈاؤن لوڈ کی گئی فائل نہیں ملی"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "پاس ورڈ درج کریں۔"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "سرور پورٹ درج کریں مثال کے طور پر: '8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "'http://' your_dmine کے بغیر سرور یو آر ایل درج کریں۔"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "صارف نام درج کریں۔"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "پن کوڈ درج کریں۔"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg گائیڈ یا imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "ایرر کوڈ"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "ڈاؤن لوڈ کو کنٹرول کرنے میں خرابی: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "فائل کو حذف کرنے میں خرابی:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "%s کو پڑھنے یا اس پر کارروائی کرنے میں خرابی: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "فائل کو پڑھنے یا اس پر کارروائی کرنے میں خرابی: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "کام کو ہٹانے میں خرابی: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "ڈاؤن لوڈ کی تصدیق کرنے میں خرابی: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "باہر نکلیں۔"
 
 msgid "Export"
-msgstr ""
+msgstr "برآمد کریں۔"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "فائل m3u کو Bouquet .tv میں ایکسپورٹ کریں\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "ناکام"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "اپ ڈیٹ کی معلومات حاصل کرنے میں ناکام۔ براہ کرم اپنا انٹرنیٹ کنکشن چیک کریں۔"
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "اپ ڈیٹ کی معلومات کو پارس کرنے میں ناکام۔ براہ کرم بعد میں دوبارہ کوشش کریں۔"
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "فائل نامعلوم!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "فائل نہیں ملی یا خالی: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "فائل نہیں ملی!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "برے دن کو فلٹر کریں۔"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "اس زمرے کو فلٹر کریں..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "پہلے فہرست کو منتخب کریں یا اسے ترتیب میں درج کریں۔"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "فولڈر صارف فائل .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "فارمیٹ:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "خالی جگہ"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "ہیلپ بٹن:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "گھر"
 
 msgid "Help\n"
-msgstr ""
+msgstr "مدد\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "چھپائیں/دکھائیں۔"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "اگر کھلاڑی فعال ہے تو باہر نکلنے پر پلیئر کی پیداوار کو روک دیں۔"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "اگر آپ کے پاس فائل ہے:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "اگر آپ کے پاس فائل ہے\n"
 
 msgid "Import"
-msgstr ""
+msgstr "درآمد کریں۔"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "/etc/enigma2/iptv.sh سے سرور درآمد کریں؟"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "/tmp/xc.tx سے سرور درآمد کریں؟"
 
 msgid "Info"
-msgstr ""
+msgstr "معلومات"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "شروع کرنا جاری رکھیں\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "غلط URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "اپ ڈیٹ کی معلومات میں تاریخ کی غلط شکل۔"
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "غلط فائل فارمیٹ: کافی نہیں یا %s میں لائنیں خالی ہیں۔"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "%s میں غلط فارمیٹ۔ سرور کی تفصیلات نہیں نکالی جا سکیں۔"
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "غلط یا غیر تعاون یافتہ ملازمت کی قسم"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "کیا ڈائریکٹری یا فائل موجود نہیں ہے۔"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "آخری چینل اپ ڈیٹ: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "لائن پہلے سے ہی پلے لسٹ میں موجود ہے۔"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "لائن پلے لسٹ میں شامل کر دی گئی۔"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "مین مینو میں لنک"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "لائیو پلیئر سیٹنگ میں ایکٹو: ریکارڈ لائیو کے لیے نمبر سیٹ کریں۔"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "سٹریم .ts کے لیے لائیو پلیئر: ریکارڈ لائیو کے لیے نمبر سیٹ کریں۔"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "لائیو سروسز کی قسم"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer ایکٹو"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u لوڈر"
 
 msgid "Main"
-msgstr ""
+msgstr "مین"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "مین سکرین XL"
 
 msgid "Make"
-msgstr ""
+msgstr "بنائیں"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "میڈیا فولڈر"
 
 msgid "MediaPlayer\n"
-msgstr ""
+msgstr "میڈیا پلیئر\n"
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "غائب یا خالی فائل: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "فلم"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "مووی فولڈر"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "مووی کو کامیابی کے ساتھ حذف کر دیا گیا ہے۔"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "نام بکی کی ترتیب:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "نام بکی برآمد"
 
 msgid "Network error!"
-msgstr ""
+msgstr "نیٹ ورک کی خرابی!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "ڈاؤن لوڈ کرنے کے لیے کوئی سرور تشکیل نہیں دیا گیا!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "ڈاؤن لوڈ/ریکارڈ کرنے کے لیے کوئی ویڈیو نہیں!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "کوئی ڈیٹا یا پلے لسٹ XCplugin کے ساتھ مطابقت نہیں رکھتی۔"
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "کوئی فلم منتخب نہیں کی گئی!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "کوئی کام منتخب نہیں کیا گیا!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "کوئی اپ ڈیٹ کی معلومات دستیاب نہیں ہے۔"
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "صرف سیریز کے اقساط کی اجازت ہے!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "صرف VOD فلم کی اجازت ہے!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "مووی فولڈر کھولیں\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='yyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "روک دیا گیا"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "موقوف/دوبارہ شروع کریں۔"
 
 msgid "Picons IPTV"
-msgstr ""
+msgstr "پکنز آئی پی ٹی وی"
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV گلدستے"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "پر IPTV گلدستے رکھیں"
 
 msgid "Player"
-msgstr ""
+msgstr "کھلاڑی"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "براہ کرم پہلے سرور کی تفصیلات ترتیب دیں۔"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "براہ کرم پیرنٹل کنٹرول پن کوڈ درج کریں۔"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "ڈاؤن لوڈ کی تیاری کر رہا ہے..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr ".m3u فائلوں کو فولڈر %s میں ڈالیں۔"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "پر اپنی لائنیں لگائیں۔"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "سیٹنگز کو محفوظ کیے بغیر واقعی بند کریں؟"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "ریک مووی"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "ریک سیریز"
 
 msgid "Reload"
-msgstr ""
+msgstr "دوبارہ لوڈ کریں۔"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "فہرست دوبارہ لوڈ کریں\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "پلے لسٹس کو دوبارہ لوڈ کرنا جاری ہے..."
 
 msgid "Remove"
-msgstr ""
+msgstr "ہٹا دیں۔"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "گلدستے سے پلے لسٹ ہٹائیں؟"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "{} کے لیے ڈاؤن لوڈ کا کام ہٹائیں؟"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "فائل کو فہرست سے ہٹائیں\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "ان تمام گلدستوں کو ہٹاتا ہے جو\n رہے ہیں۔"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "ریزولوشن میں تبدیلی ناکام ہو گئی۔"
 
 msgid "Restart"
-msgstr ""
+msgstr "دوبارہ شروع کریں۔"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "چینلز کی فہرست پر واپس جائیں\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "وسیلہ نہیں ملا (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "اپنی پسند کا انتخاب کریں۔"
 
 msgid "Save"
-msgstr ""
+msgstr "محفوظ کریں۔"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "ڈاؤن لوڈ کریں: %d%% - رفتار: %.1f KB/s - باقی وقت: %d سیکنڈ"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "شیڈول کی قسم:"
 
 msgid "Search"
-msgstr ""
+msgstr "تلاش کریں۔"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "لائیو/مووی تلاش کریں۔"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "فہرست میں عنوان تلاش کریں۔"
 
 msgid "Select"
-msgstr ""
+msgstr "منتخب کریں۔"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "سرور پورٹ"
 
 msgid "Server Password"
-msgstr ""
+msgstr "سرور پاس ورڈ"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "سرور ٹائم آؤٹ"
 
 msgid "Server URL"
-msgstr ""
+msgstr "سرور URL"
 
 msgid "Server Username"
-msgstr ""
+msgstr "سرور کا صارف نام"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "سیٹنگ میں 'Live Player Active' سیٹ کریں:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "ریکارڈ لائیو کے لیے 'نہیں' سیٹ کریں\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "MakerBuquet کے لیے نام سیٹ کریں۔"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "ترتیبات کامیابی کے ساتھ محفوظ ہو گئیں!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "تمام ایپی سوڈز کی سیریز ڈاؤن لوڈ شروع کریں\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "ڈاؤن لوڈ شروع کریں یا منتخب کردہ چینل کو ریکارڈ کریں:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "باہر نکلنے پر پلیئر کو روکیں۔"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "فلم موجود نہیں ہے!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "آپ نے جو پن کوڈ درج کیا ہے وہ غلط ہے۔"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "اپ ڈیٹ شروع کرنے کا وقت:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "ٹائم آؤٹ سرور (سیکنڈ)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "کنکشن کا وقت ختم ہو گیا۔"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "نامعلوم"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "اپ ڈیٹ روک دیا گیا!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "اپ ڈیٹ کا وقفہ (گھنٹے):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "ووڈ سروسز کی قسم"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "کیا آپ واقعی ڈاؤن لوڈ کو روکنا چاہتے ہیں؟"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "انتظار کریں... ڈاؤن لوڈ ہو رہا ہے..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "اس کے بجائے .m3u فائل کھولتے وقت:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "پیلا بٹن:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "آپ کو آؤٹ پٹ کی قسم کو ترتیب دینے کی ضرورت ہے\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "آپ کا سرور لاگ ان اور ڈیٹا ان پٹ"
 
 msgid "fixed time"
-msgstr ""
+msgstr "مقررہ وقت"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(میزبان http:// کے بغیر)\n"
 
 msgid "interval"
-msgstr ""
+msgstr "وقفہ"
 
 msgid "not exist!"
-msgstr ""
+msgstr "موجود نہیں!"
 
 msgid "password\n"
-msgstr ""
+msgstr "پاس ورڈ\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "پورٹ\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "صارف\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "براہ مہربانی انتظار کریں..."

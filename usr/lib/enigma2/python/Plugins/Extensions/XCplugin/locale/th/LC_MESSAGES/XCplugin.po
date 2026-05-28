@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "ไม่พบ %s!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(ปุ่มสีน้ำเงิน):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(ปุ่มสีเขียว):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(ปุ่มบันทึก):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(ปุ่มหยุด):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(ปุ่มสีเหลือง):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,652 +42,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "กำลังยกเลิก..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "การเข้าถึงที่ไม่ได้รับอนุญาต (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "ใช้งานการอัปเดตช่อดอกไม้อัตโนมัติ"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "หน้าจอหลักที่ใช้งานอยู่ขนาดใหญ่"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "ปรับเขตเวลา"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "ปรับเขตเวลา (ชั่วโมง)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้งในภายหลัง"
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "ในช่วงเวลาเป็นชั่วโมงหรือตามเวลาที่กำหนด"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "อัพเดตช่อดอกไม้อัตโนมัติ (กำหนดการ):"
 
 msgid "Back"
-msgstr ""
+msgstr "กลับ"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "ช่อดอกไม้"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "สไตล์ช่อดอกไม้"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ยกเลิก"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "ไม่สามารถแก้ไขสถานะงานนี้ได้"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "ไม่สามารถหยุดชั่วคราว/เล่นรายการนี้ต่อได้"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "ไม่สามารถลบรายการนี้ได้"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "ตรวจสอบรายการโปรด..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "เลือกไดเรกทอรี:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "เลือกไดเรกทอรี"
 
 msgid "Close"
-msgstr ""
+msgstr "ปิด"
 
 msgid "Config"
-msgstr ""
+msgstr "การกำหนดค่า"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "กำหนดค่าตัวเลือกการตั้งค่า\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "กำหนดค่าในเวลาที่กำหนด"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "กำหนดค่าทุกช่วงเวลานับจากนี้"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "กำหนดชื่อช่อดอกไม้ที่ส่งออก ค่าเริ่มต้นคือ myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "กำหนดค่าบริการอ้างอิง Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "กำหนดค่าบริการอ้างอิง Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "กำหนดประเภทของการแปลงในรายการโปรด"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "กำหนดค่าเพื่อวางช่อดอกไม้ของรายการที่แปลงแล้ว"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "กำหนดประเภทการดาวน์โหลดภาพยนตร์: JobManager/Direct"
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "กำหนดค่าประเภทของสตรีมที่จะดาวน์โหลดตามการแปลง"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "ยินดีด้วย! คุณมีเวอร์ชันล่าสุดแล้ว..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "กำลังเชื่อมต่อกับเซิร์ฟเวอร์..."
 
 msgid "Console"
-msgstr ""
+msgstr "คอนโซล"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "การแปลง %s อยู่ระหว่างดำเนินการ:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "ประเภทการแปลงเอาท์พุท"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "แปลงเพลย์ลิสต์เป็น: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "สร้างช่อดอกไม้ XC Live/VOD\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "ดาวน์โหลดวิดีโอ?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "กำลังดาวน์โหลด"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "การกำหนดค่าเซิร์ฟเวอร์ข้อมูล:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "แสดง XCplugin ในเมนูหลัก"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "คุณต้องการแปลง %s เป็น .tv รายการโปรดหรือไม่"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "คุณต้องการติดตั้งการอัปเดต (%s) ตอนนี้หรือไม่?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "คุณต้องการลบ %s หรือไม่"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "คุณต้องการลบ: %s หรือไม่"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "คุณต้องการลบ: %s หรือไม่?"
 
 msgid "Download"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "ดาวน์โหลดล้มเหลว!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "ดาวน์โหลดเสร็จแล้ว!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "ดาวน์โหลดไฟล์ M3u?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "ดาวน์โหลด Picons ?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "ประเภทการดาวน์โหลด"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "ดาวน์โหลด VOD ช่องที่เลือก\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "ดาวน์โหลดวิดีโอ \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "ดาวน์โหลดเสร็จสมบูรณ์"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "ดาวน์โหลดสำเร็จแล้ว!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "ข้อผิดพลาดในการดาวน์โหลด: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "การดาวน์โหลดล้มเหลวโดยมีโค้ดส่งคืน: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "การดาวน์โหลดล้มเหลว:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "การดาวน์โหลดล้มเหลว"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "ดาวน์โหลดใน corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "เริ่มการดาวน์โหลดใหม่: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "เริ่มการดาวน์โหลด: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "การดาวน์โหลดหยุดลง: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "งานดาวน์โหลดถูกลบออก"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "ดาวน์โหลด: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "ไฟล์ที่ดาวน์โหลดมีขนาดเล็กเกินไป"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "ไม่พบไฟล์ที่ดาวน์โหลด"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "ใส่รหัสผ่าน"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "ป้อนพอร์ตเซิร์ฟเวอร์ เช่น:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "ป้อน URL ของเซิร์ฟเวอร์โดยไม่มี 'http://' your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "กรอกชื่อผู้ใช้"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "ป้อนรหัสพิน"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "คู่มือ Epg หรือ imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "รหัสข้อผิดพลาด"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการควบคุมการดาวน์โหลด: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการลบไฟล์:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการอ่านหรือประมวลผล %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการอ่านหรือประมวลผลไฟล์: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการลบงาน: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการตรวจสอบการดาวน์โหลด: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "ออก"
 
 msgid "Export"
-msgstr ""
+msgstr "ส่งออก"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "ส่งออกไฟล์ m3u ไปยัง Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "ล้มเหลว"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "ไม่สามารถเรียกข้อมูลอัปเดตได้ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ"
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "ไม่สามารถแยกวิเคราะห์ข้อมูลการอัปเดต โปรดลองอีกครั้งในภายหลัง"
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "ไม่รู้ไฟล์!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "ไม่พบไฟล์หรือว่างเปล่า: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "ไม่พบไฟล์!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "กรองวันแย่ๆ"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "กรองหมวดหมู่นี้..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "ขั้นแรก เลือกรายการหรือป้อนใน Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "ไฟล์ผู้ใช้โฟลเดอร์ .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "รูปแบบ:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "พื้นที่ว่าง"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "ปุ่มช่วยเหลือ:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "บ้าน"
 
 msgid "Help\n"
-msgstr ""
+msgstr "ช่วยเหลือ\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "ซ่อน/แสดง"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "หากผู้เล่นใช้งานอยู่ STOP ผู้เล่นจะทำซ้ำเมื่อออก"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "หากคุณมีไฟล์:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "หากคุณมีไฟล์\n"
 
 msgid "Import"
-msgstr ""
+msgstr "นำเข้า"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "นำเข้าเซิร์ฟเวอร์จาก /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "นำเข้าเซิร์ฟเวอร์จาก /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "ข้อมูล"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "เริ่มเล่นต่อ\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "URL ไม่ถูกต้อง!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "รูปแบบวันที่ไม่ถูกต้องในข้อมูลอัปเดต"
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "รูปแบบไฟล์ไม่ถูกต้อง: มีบรรทัดไม่เพียงพอหรือว่างเปล่าใน %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "รูปแบบไม่ถูกต้องใน %s ไม่สามารถแยกรายละเอียดเซิร์ฟเวอร์ได้"
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "ประเภทงานไม่ถูกต้องหรือไม่ได้รับการสนับสนุน"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "ไม่มีไดเรกทอรีหรือไฟล์อยู่"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "อัปเดตช่องล่าสุด: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "มีบรรทัดอยู่ในเพลย์ลิสต์แล้ว"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "บรรทัดต่อท้ายเพลย์ลิสต์"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "ลิงค์ในเมนูหลัก"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "ผู้เล่นถ่ายทอดสดใช้งานอยู่ในการตั้งค่า: ตั้งค่าไม่สำหรับบันทึกสด"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player สำหรับ Stream .ts: ตั้งค่า No สำหรับ Record Live"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "ประเภทบริการสด"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer ใช้งานอยู่"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "ตัวโหลด M3u"
 
 msgid "Main"
-msgstr ""
+msgstr "หลัก"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "หน้าจอหลัก XL"
 
 msgid "Make"
-msgstr ""
+msgstr "ทำ"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "โฟลเดอร์มีเดีย"
 
 msgid "MediaPlayer\n"
-msgstr ""
+msgstr "มีเดียเพลเยอร์\n"
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "ไฟล์หายไปหรือว่างเปล่า: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "ภาพยนตร์"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "โฟลเดอร์ภาพยนตร์"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "ลบภาพยนตร์เรียบร้อยแล้ว"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "ชื่อช่อดอกไม้การกำหนดค่า:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "ชื่อช่อดอกไม้ส่งออก"
 
 msgid "Network error!"
-msgstr ""
+msgstr "เครือข่ายผิดพลาด!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "ไม่มีเซิร์ฟเวอร์กำหนดค่าให้ดาวน์โหลด!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "ไม่มีวิดีโอให้ดาวน์โหลด/บันทึก!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "ไม่มีข้อมูลหรือเพลย์ลิสต์ที่เข้ากันไม่ได้กับ XCplugin"
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "ไม่ได้เลือกภาพยนตร์!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "ไม่ได้เลือกงาน!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "ไม่มีข้อมูลการอัพเดต"
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "อนุญาตเฉพาะตอนซีรีส์เท่านั้น!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "อนุญาตเฉพาะภาพยนตร์ VOD เท่านั้น!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "เปิดโฟลเดอร์ภาพยนตร์\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "รหัสผ่าน='yyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "หยุดชั่วคราว"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "หยุดชั่วคราว/ดำเนินการต่อ"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV ช่อดอกไม้ให้"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "วางช่อดอกไม้ IPTV ได้ที่"
 
 msgid "Player"
-msgstr ""
+msgstr "ผู้เล่น"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "โปรดกำหนดค่ารายละเอียดเซิร์ฟเวอร์ก่อน"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "โปรดป้อนรหัสพินการควบคุมโดยผู้ปกครอง"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "กำลังเตรียมการดาวน์โหลด..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "ใส่ไฟล์ .m3u ในโฟลเดอร์ %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "ใส่สายของคุณไปที่"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "ปิดโดยไม่บันทึกการตั้งค่าจริงหรือ"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "ภาพยนตร์เรค"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "ซีรี่ย์ Rec"
 
 msgid "Reload"
-msgstr ""
+msgstr "โหลดซ้ำ"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "โหลดรายการซ้ำ\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "กำลังโหลดเพลย์ลิสต์ซ้ำ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "ลบ"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "ลบเพลย์ลิสต์ออกจากช่อดอกไม้ใช่ไหม"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "ลบงานดาวน์โหลดสำหรับ {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "ลบไฟล์ออกจากรายการ\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "ลบช่อดอกไม้ทั้งหมดที่ได้รับ\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "การเปลี่ยนแปลงความละเอียดล้มเหลว"
 
 msgid "Restart"
-msgstr ""
+msgstr "รีสตาร์ท"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "กลับไปที่รายการช่อง\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "ไม่พบทรัพยากร (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "เลือกตัวเลือกของคุณ"
 
 msgid "Save"
-msgstr ""
+msgstr "บันทึก"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "ดาวน์โหลด: %d%% - ความเร็ว: %.1f KB/s - เวลาที่เหลืออยู่: %d วินาที"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "ประเภทกำหนดการ:"
 
 msgid "Search"
-msgstr ""
+msgstr "ค้นหา"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "ค้นหาสด/ภาพยนตร์"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "ค้นหาชื่อเรื่องในรายการ"
 
 msgid "Select"
-msgstr ""
+msgstr "เลือก"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "พอร์ตเซิร์ฟเวอร์"
 
 msgid "Server Password"
-msgstr ""
+msgstr "รหัสผ่านเซิร์ฟเวอร์"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "เซิร์ฟเวอร์หมดเวลา"
 
 msgid "Server URL"
-msgstr ""
+msgstr "URL ของเซิร์ฟเวอร์"
 
 msgid "Server Username"
-msgstr ""
+msgstr "ชื่อผู้ใช้เซิร์ฟเวอร์"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "ตั้งค่า 'Live Player Active' ในการตั้งค่า:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "ตั้งค่า 'ไม่' สำหรับการบันทึกสด\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "ตั้งชื่อให้กับ MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "บันทึกการตั้งค่าสำเร็จแล้ว !"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "เริ่มดาวน์โหลดซีรีส์ทุกตอน\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "เริ่มดาวน์โหลดหรือบันทึกช่องที่เลือก:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "หยุดผู้เล่นเมื่อออก"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "หนังเรื่องนี้ไม่มีอยู่จริง!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "รหัสพินที่คุณป้อนไม่ถูกต้อง"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "เวลาที่จะเริ่มอัปเดต:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "เซิร์ฟเวอร์หมดเวลา (วินาที)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "การเชื่อมต่อหมดเวลา"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "ไม่ทราบ"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
-msgstr ""
+msgstr "USERNAME='xxxxxxxxx'\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "การอัปเดตถูกยกเลิก!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "ช่วงเวลาการอัพเดต (ชั่วโมง):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "ประเภทบริการ Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "คุณต้องการหยุดการดาวน์โหลดจริงๆ หรือไม่?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "รอสักครู่... กำลังดาวน์โหลดอยู่ ..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "เมื่อเปิดไฟล์ .m3u แทน:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "ปุ่มสีเหลือง:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "คุณต้องกำหนดค่าประเภทของเอาต์พุต\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "การเข้าสู่ระบบเซิร์ฟเวอร์และการป้อนข้อมูลของคุณ"
 
 msgid "fixed time"
-msgstr ""
+msgstr "เวลาคงที่"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "โฮสต์\t(โฮสต์ที่ไม่มี http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "ช่วงเวลา"
 
 msgid "not exist!"
-msgstr ""
+msgstr "ไม่มีอยู่จริง!"
 
 msgid "password\n"
-msgstr ""
+msgstr "รหัสผ่าน\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "พอร์ต\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "ผู้ใช้\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "กรุณารอสักครู่..."

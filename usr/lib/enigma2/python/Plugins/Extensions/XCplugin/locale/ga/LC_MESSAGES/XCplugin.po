@@ -19,22 +19,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s NÍ BHAINEANN!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(Cnaipe GORM):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(Cnaipe glas):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(Cnaipe REC):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(Cnaipe STOP):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(Cnaipe BUÍ):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -43,373 +43,373 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Ag éirí as..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Rochtain neamhúdaraithe (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Nuashonrú Gníomhach Bouquet Uathoibríoch"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Príomhscáileán Gníomhach Mór"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Coigeartaigh Crios Ama"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Coigeartaigh Crios Ama (uair an chloig)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Tharla earráid gan choinne. Bain triail eile as ar ball."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Ag eatramh uaireanta nó ag am socraithe"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Nuashonrú bouquet uathoibríoch (sceideal):"
 
 msgid "Back"
-msgstr ""
+msgstr "Ar ais"
 
 msgid "Bouquet"
 msgstr ""
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Stíl bouquet"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cealaigh"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Ní féidir stádas an taisc seo a mhionathrú"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Ní féidir an mhír seo a chur ar sos/a atosú"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Ní féidir an mhír seo a bhaint"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Seiceáil ar liostaí ceanáin..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Roghnaigh Eolaire:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Roghnaigh eolaire"
 
 msgid "Close"
-msgstr ""
+msgstr "Dún"
 
 msgid "Config"
-msgstr ""
+msgstr "Cumraíocht"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Roghanna Socraithe Cumraíochta\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Cumraigh ag am socraithe"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Cumraigh gach eatramh uaireanta as seo amach"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Cumraigh ainm bouquet easpórtáilte. Is é myBouquet an réamhshocrú"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Cumraigh an tseirbhís Tagairt Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Cumraigh an tseirbhís Tagairt Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Cumraigh an cineál comhshó sa liosta is fearr leat"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Cumraigh chun bouquets na liostaí comhshó a chur"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Cumraigh cineál scannáin íoslódála: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Cumraigh an cineál srutha atá le híoslódáil trí chomhshó"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Comhghairdeachas! Tá an leagan is déanaí agat cheana féin..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Ag nascadh leis an bhfreastalaí..."
 
 msgid "Console"
-msgstr ""
+msgstr "Consól"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Tiontú %s ar siúl:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Aschur cineál comhshó"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Tiontaigh Seinmliosta go: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Cruthaigh Bouquets XC Live/VOD\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "Íoslódálann físeán?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "ÍOSCHUR"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Cumraíocht Freastalaí Sonraí:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Taispeáin XCplugin sa Phríomh-Roghchlár"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Ar mhaith leat %s a thiontú go .tv is fearr leat ?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "An bhfuil fonn ort nuashonrú (%s) a shuiteáil anois?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Ar mhaith leat %s a bhaint ?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Ar mhaith leat: %s a bhaint ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Ar mhaith leat: %s a bhaint?"
 
 msgid "Download"
-msgstr ""
+msgstr "Íosluchtaigh"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Theip ar Íoslódáil!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Íoslódáil Críochnaithe!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Íoslódáil an comhad m3u"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Íoslódáil Picons?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Cineál íoslódáil"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Íoslódáil an cainéal roghnaithe VOD\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Íosluchtaigh físeán n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Íoslódáil críochnaithe"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Íosluchtú críochnaithe go rathúil!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Earráid íosluchtaithe: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Theip ar an íoslódáil leis an gcód fillte: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Theip ar an íoslódáil:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Theip ar an íoslódáil"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Íoslódáil i corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Atosaithe an íoslódáil: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Thosaigh an íoslódáil: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Stopadh an íoslódáil: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Íoslódáil an tasc a bhaint"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Íoslódáil: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Tá an comhad íosluchtaithe ró-bheag"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Níor aimsíodh an comhad íosluchtaithe"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Iontráil Pasfhocal"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Iontráil Port Freastalaí m.sh.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Cuir isteach URL an Fhreastalaí gan 'http://' your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Cuir isteach Ainm Úsáideora"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Cuir isteach cód pin"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Treoir epg nó imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Cód earráide"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Earráid agus íosluchtú á rialú: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Earráid agus an comhad á scriosadh:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Earráid agus %s á léamh nó á phróiseáil: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Earráid agus an comhad á léamh nó á phróiseáil: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Earráid agus an tasc á bhaint: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Earráid agus íoslódáil á fhíorú: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Scoir"
 
 msgid "Export"
-msgstr ""
+msgstr "Easpórtáil"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Easpórtáil comhad m3u go Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "FAILTE"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Theip ar fhaisnéis nuashonraithe a fháil. Seiceáil do nasc idirlín."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Theip ar fhaisnéis nuashonraithe a pharsáil. Bain triail eile as ar ball."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Comhad Anaithnid!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Comhad gan aimsiú nó folamh: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Comhad gan aimsiú!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Scag Lá Droch"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Scag an chatagóir seo..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "An Chéad Roghnaigh an liosta nó cuir isteach é i Cumraíocht"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Comhad úsáideora fillteán .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Formáid:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "Spás saor in aisce"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "Cnaipe Cabhrach:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "BAILE"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Cabhair\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Folaigh/Taispeáin"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Má tá an t-imreoir gníomhach STOP atáirgeadh an imreora ar an imeacht amach"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Má tá comhad agat:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Má tá comhad agat\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Iompórtáil"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Iompórtáil Freastalaí ó /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Iompórtáil Freastalaí ó /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Eolas"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Tosaigh ag Seinn\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "URL neamhbhailí!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Formáid dáta neamhbhailí san fhaisnéis nuashonraithe."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Formáid chomhaid neamhbhailí: níl dóthain línte ann nó folamh i %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Formáid neamhbhailí i %s. Níorbh fhéidir sonraí an fhreastalaí a bhaint as."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Cineál poist neamhbhailí nó gan tacaíocht"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Nach bhfuil Eolaire nó comhad ann"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Nuashonrú cainéal is déanaí: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Tá an líne sa seinnliosta cheana féin"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Líne ceangailte leis an seinmliosta"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Nasc sa Phríomh-Roghchlár"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Imreoir Beo Gníomhach sa Socrú: socraigh Uimh do Taifead Beo"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Imreoir Beo do Sruth .ts: leagtar Uimh do Taifead Beo"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Cineál Seirbhísí Beo"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer Gníomhach"
 
 msgid "M3u"
 msgstr ""
@@ -418,277 +418,277 @@ msgid "M3u Loader"
 msgstr ""
 
 msgid "Main"
-msgstr ""
+msgstr "Príomh-"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Príomhscáileán XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Déan"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Fillteán Meán"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Comhad ar iarraidh nó folamh: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Scannán"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Fillteán Scannán"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Scriosadh an scannán go rathúil"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Cumraíocht Bouquet Ainm:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Ainmnigh Easpórtáil Bouquet"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Earráid líonra!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Níl aon fhreastalaí cumraithe le híoslódáil!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Níl físeán le híoslódáil / le taifeadadh!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Níl aon sonraí nó seinnliosta nach bhfuil comhoiriúnach le XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Níl aon scannán roghnaithe!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Níor roghnaíodh aon tasc!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Níl aon eolas nuashonraithe ar fáil."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Eipeasóid Shraith Amháin Ceadaithe!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Níl ach Scannán VOD ceadaithe!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Oscail Fillteán Scannán\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD= 'bbyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "AR sos"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Cuir ar sos/atosú"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV bouquets a"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Cuir bouquets IPTV ag"
 
 msgid "Player"
-msgstr ""
+msgstr "Imreoir"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Cumraigh sonraí an fhreastalaí ar dtús"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Cuir isteach an cód bioráin um rialú tuismitheoirí"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Íoslódáil an clár a ullmhú. ."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Cuir Comhaid .m3u i bhFillteán %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Cuir do línte chuig an"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Dún i ndáiríre gan socruithe a shábháil?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Scannán Rec"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Sraith Rec"
 
 msgid "Reload"
-msgstr ""
+msgstr "Athlódáil"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Athlódáil an Liosta\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Athlódáil Seinmliostaí atá ar siúl..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Bain"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "An bhfuil fonn ort Seinmliosta a bhaint as Bouquets?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Bain tasc íoslódála le haghaidh {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Bain an comhad ón liosta\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Bain na bouquets go léir a bhí\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Theip ar Athrú Taifeach"
 
 msgid "Restart"
-msgstr ""
+msgstr "Atosaigh"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Fill ar an Liosta Cainéil\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Acmhainn gan aimsiú (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ROGHNAIGH DO ROGHA"
 
 msgid "Save"
-msgstr ""
+msgstr "Sábháil"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Íoslódáil: %d%% - Luas: %.1f KB/s - Am fágtha: %d soicind"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Cineál sceidil:"
 
 msgid "Search"
-msgstr ""
+msgstr "Cuardach"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Cuardach Beo/Scannán"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Cuardaigh teideal sa liosta"
 
 msgid "Select"
-msgstr ""
+msgstr "Roghnaigh"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "PORT Freastalaí"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Pasfhocal Freastalaí"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Teorainn Am Freastalaí"
 
 msgid "Server URL"
-msgstr ""
+msgstr "URL an fhreastalaí"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Ainm Úsáideora Freastalaí"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Socraigh 'Live Player Active' sa Socrú:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Socraigh 'Níl' le haghaidh Taifead Beo\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Socraigh Ainm do MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Sábháladh na socruithe !"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Íoslódáil gach eipeasóid den tsraith tús."
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Tosaigh Íoslódáil nó Taifead Cainéal Roghnaithe:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Stop an tImreoir ar Scoir"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Níl an scannán ann!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Tá an cód bioráin a d'iontráil tú mícheart."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Tá sé in am chun nuashonrú a thosú:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Freastalaí Teorainn Ama (soic)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Ceangal thar am"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "ANNIS"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Tobscoireadh an Nuashonrú!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Eatramh nuashonraithe (uaireanta):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Cineál Seirbhísí Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "An bhfuil tú i ndáiríre ag iarraidh stop a chur leis an íoslódáil?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Fan ... á íoslódáil ar siúl ..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Agus comhad .m3u á oscailt ina ionad sin:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "Cnaipe BUÍ:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Ní mór duit an cineál aschuir a chumrú\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Do Logáil isteach Freastalaí agus ionchur sonraí"
 
 msgid "fixed time"
-msgstr ""
+msgstr "am seasta"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "óstach \ t (óstach gan http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "eatramh"
 
 msgid "not exist!"
-msgstr ""
+msgstr "níl ann!"
 
 msgid "password\n"
-msgstr ""
+msgstr "pasfhocal\n"
 
 msgid "port\n"
 msgstr ""
 
 msgid "user\n"
-msgstr ""
+msgstr "úsáideoir\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "fan le do thoil..."

@@ -19,22 +19,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s NU S-A DETECAT!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(BUTON ALBASTRU):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(BUTON VERDE):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(BUTON REC):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(BUTON STOP):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(BUTON GALBEN):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -43,652 +43,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Se anulează..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Acces neautorizat (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Actualizare automată activă a buchetului"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Ecran principal activ mare"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Ajustați fusul orar"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Ajustați fusul orar (oră)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "A apărut o eroare neașteptată. Vă rugăm să încercați din nou mai târziu."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "La un interval de ore sau la o oră fixă"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Actualizare automată a buchetului (program):"
 
 msgid "Back"
-msgstr ""
+msgstr "Spate"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Buchet"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Stilul buchet"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Anula"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Nu se poate modifica starea acestei sarcini"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Nu se poate întrerupe/relua acest articol"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Nu se poate elimina acest articol"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Verificați listele de favorite..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Alegeți directorul:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Alegeți directorul"
 
 msgid "Close"
-msgstr ""
+msgstr "Aproape"
 
 msgid "Config"
 msgstr ""
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Opțiuni de configurare\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Configurați la o oră fixă"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Configurați fiecare interval de ore de acum încolo"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Configurați numele buchetului exportat. Implicit este myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Configurați serviciul Referință Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Configurați serviciul Referință Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Configurați tipul de conversie în lista de favorite"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Configurați pentru a plasa buchetele listelor convertite"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Configurați tipul de descărcare a filmului: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Configurați tipul de flux care urmează să fie descărcat prin conversie"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Felicitari! Ai deja cea mai recentă versiune..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Se conectează la server..."
 
 msgid "Console"
-msgstr ""
+msgstr "Consolă"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Conversia %s în curs:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Tip de conversie Ieșire"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Convertiți lista de redare în: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Creați buchete XC Live/VOD\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "DESCARCĂ VIDEO?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "DESCARCARE"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Configurare server de date:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Afișați XCplugin în meniul principal"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Doriți să convertiți %s în .tv preferat?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Doriți să instalați actualizarea (%s) acum?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Doriți să eliminați %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Doriți să eliminați: %s?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Doriți să eliminați: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Descărcați"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Descărcarea eșuată!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Descărcarea s-a terminat!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Descărcați fișierul M3u?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Descărcați picoane?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Tip de descărcare"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Descărcați canalul selectat VOD\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Descărcați videoclipul \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Descărcarea finalizată"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Descărcarea a fost finalizată cu succes!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Eroare de descărcare: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Descărcarea a eșuat cu codul de returnare: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Descărcarea a eșuat:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Descărcarea a eșuat"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Descărcați în corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Descărcarea repornită: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Descărcarea a început: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Descărcarea oprită: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Sarcina de descărcare a fost eliminată"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Descărcați: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Fișierul descărcat este prea mic"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Fișierul descărcat nu a fost găsit"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Introduceți parola"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Introduceți portul serverului De exemplu: „8080”"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Introduceți adresa URL a serverului fără „http://” your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Introduceți numele de utilizator"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Introdu codul PIN"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Ghid Epg sau imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Cod de eroare"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Eroare la controlul descărcării: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Eroare la ștergerea fișierului:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Eroare la citirea sau procesarea %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Eroare la citirea sau procesarea fișierului: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Eroare la eliminarea sarcinii: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Eroare la verificarea descărcării: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ieșire"
 
 msgid "Export"
 msgstr ""
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Exportați fișierul m3u în Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "A ESCUT"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Nu s-au putut prelua informațiile de actualizare. Vă rugăm să vă verificați conexiunea la internet."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Nu s-au putut analiza informațiile de actualizare. Vă rugăm să încercați din nou mai târziu."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Fișier necunoscut!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Fișierul nu a fost găsit sau este gol: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Fișierul nu a fost găsit!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Filtrați Ziua Proastă"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrați această categorie..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Mai întâi Selectați lista sau introduceți-o în Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Folder fișier utilizator .xml"
 
 msgid "Format:\n"
 msgstr ""
 
 msgid "Free Space"
-msgstr ""
+msgstr "Spațiu liber"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "BUTON AJUTOR:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "ACASĂ"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Ajutor\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Ascunde/Afișează"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Dacă jucătorul este activ, STOP reproducerea jucătorului la ieșire"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Dacă aveți un fișier:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Dacă aveți un fișier\n"
 
 msgid "Import"
 msgstr ""
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Import server din /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Import server din /tmp/xc.tx?"
 
 msgid "Info"
 msgstr ""
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Porniți Continuați redarea\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Adresă URL nevalidă!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Format de dată nevalid în informațiile de actualizare."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Format de fișier nevalid: linii insuficiente sau goale în %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Format nevalid în %s. Nu s-au putut extrage detaliile serverului."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Tip de muncă nevalid sau neacceptat"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Directorul sau fișierul nu există"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Ultima actualizare a canalului: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Linia există deja în lista de redare"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Linie atașată listei de redare"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Link în meniul principal"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Live Player activ în setare: setați Nu pentru Record Live"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player pentru Stream .ts: setați Nu pentru Record Live"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Tip servicii live"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer activ"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "Încărcător M3u"
 
 msgid "Main"
-msgstr ""
+msgstr "Principal"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Ecran principal XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Face"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Folder media"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Fișier lipsă sau gol: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Film"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Folder film"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Filmul a fost șters cu succes"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Configurație buchet de nume:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Nume Buchet Export"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Eroare de rețea!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Niciun server configurat pentru descărcare!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Niciun videoclip de descărcat/înregistrat!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Fără date sau playlist nu este compatibil cu XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Niciun film selectat!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Nicio sarcină selectată!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Nu există informații de actualizare disponibile."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Sunt permise doar episoadele din seriale!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Este permis doar filmul VOD!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Deschideți folderul film\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PAROLA='yyyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "PAUZĂ"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Pauză/Reluare"
 
 msgid "Picons IPTV"
-msgstr ""
+msgstr "Piconi IPTV"
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV buchete la"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Așezați buchete IPTV la"
 
 msgid "Player"
 msgstr ""
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Vă rugăm să configurați mai întâi detaliile serverului"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Vă rugăm să introduceți codul PIN de control parental"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Se pregătește descărcarea..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Puneți fișierele .m3u în folderul %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Pune-ți liniile la"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Chiar se închide fără a salva setările?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Filmul Rec"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Seria Rec"
 
 msgid "Reload"
-msgstr ""
+msgstr "Reîncărcați"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Reîncărcați lista\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Reîncărcați listele de redare în curs..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Elimina"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Eliminați lista de redare din Buchete?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Eliminați sarcina de descărcare pentru {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Eliminați fișierul din listă\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Îndepărtează toate buchetele care au fost\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Schimbarea rezoluției a eșuat"
 
 msgid "Restart"
-msgstr ""
+msgstr "Repornire"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Reveniți la Lista de canale\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Resursa nu a fost găsită (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "SELECTAȚI ALEGEREA DVS"
 
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Descărcare: %d%% - Viteză: %.1f KB/s - Timp rămas: %d sec"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Tip de program:"
 
 msgid "Search"
-msgstr ""
+msgstr "Căutare"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Căutați în direct/film"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Căutați un titlu în listă"
 
 msgid "Select"
-msgstr ""
+msgstr "Selecta"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "PORT pentru server"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Parola serverului"
 
 msgid "Server Timeout"
 msgstr ""
 
 msgid "Server URL"
-msgstr ""
+msgstr "Adresa URL a serverului"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Nume de utilizator server"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Setați „Live Player Active” în Setare:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Setați „Nu” pentru înregistrarea live\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Setați numele pentru MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Setările au fost salvate cu succes!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Începeți să descărcați toate serialele de episoade\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Începeți descărcarea sau înregistrarea canalului selectat:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Opriți jucătorul la ieșire"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Filmul nu exista!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Codul PIN introdus este greșit."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Timpul pentru a începe actualizarea:"
 
 msgid "Timeout Server (sec)"
 msgstr ""
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Conexiunea a expirat"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "NECUNOSCUT"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Actualizare a fost anulată!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Interval de actualizare (ore):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Tip Servicii Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Chiar vrei să oprești descărcarea?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Așteptați... descărcare în curs..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Când deschideți în schimb un fișier .m3u:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "BUTON GALBEN:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Trebuie să configurați tipul de ieșire\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Conectarea la server și introducerea datelor"
 
 msgid "fixed time"
-msgstr ""
+msgstr "timp fix"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "gazdă\t(gazdă fără http:// )\n"
 
 msgid "interval"
 msgstr ""
 
 msgid "not exist!"
-msgstr ""
+msgstr "nu exista!"
 
 msgid "password\n"
-msgstr ""
+msgstr "parola\n"
 
 msgid "port\n"
 msgstr ""
 
 msgid "user\n"
-msgstr ""
+msgstr "utilizator\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "asteptati va rog..."

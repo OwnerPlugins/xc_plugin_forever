@@ -15,25 +15,25 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%s"
-msgstr ""
+msgstr "%S"
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s TIDAK TERDETEKSI!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(TOMBOL BIRU):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(TOMBOL HIJAU):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(TOMBOL REKAM):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(TOMBOL BERHENTI):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(TOMBOL KUNING):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,652 +42,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Membatalkan..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Akses tidak sah (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Pembaruan Buket Otomatis Aktif"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Layar Utama Aktif Besar"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Sesuaikan Zona Waktu"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Sesuaikan Zona Waktu (jam)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Terjadi kesalahan yang tidak terduga. Silakan coba lagi nanti."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Pada selang waktu beberapa jam atau pada waktu yang tetap"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Pembaruan buket otomatis (jadwal):"
 
 msgid "Back"
-msgstr ""
+msgstr "Kembali"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Buket"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Gaya karangan bunga"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Membatalkan"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Tidak dapat mengubah status tugas ini"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Tidak dapat menjeda/melanjutkan item ini"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Tidak dapat menghapus item ini"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Periksa daftar favorit..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Pilih Direktori:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Pilih direktori"
 
 msgid "Close"
-msgstr ""
+msgstr "Menutup"
 
 msgid "Config"
-msgstr ""
+msgstr "Konfigurasi"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Opsi Pengaturan Konfigurasi\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Konfigurasikan pada waktu yang tetap"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Konfigurasikan setiap interval jam dari sekarang"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Konfigurasikan nama buket yang diekspor. Standarnya adalah Bouquet saya"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigurasikan layanan Referensi Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigurasikan layanan Referensi Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Konfigurasikan jenis konversi dalam daftar favorit"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Konfigurasikan untuk menempatkan karangan bunga dari daftar yang dikonversi"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Konfigurasikan jenis film unduhan: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Konfigurasikan jenis aliran yang akan diunduh berdasarkan konversi"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Selamat! Anda sudah memiliki versi terbaru..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Menghubungkan ke server..."
 
 msgid "Console"
-msgstr ""
+msgstr "Menghibur"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Konversi %s sedang berlangsung:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Jenis konversi Keluaran"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Ubah Daftar Putar menjadi: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Buat Karangan Bunga XC Live/VOD\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "UNDUH VIDEO?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "MENGUNDUH"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Konfigurasi Server Data:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Tampilkan XCplugin di Menu Utama"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Apakah Anda ingin Mengonversi %s menjadi .tv favorit?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Apakah Anda ingin menginstal pembaruan (%s) sekarang?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Apakah Anda ingin menghapus %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Apakah Anda ingin menghapus: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Apakah Anda ingin menghapus: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Unduh"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Pengunduhan Gagal!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Unduhan Selesai!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Unduh File M3u?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Unduh Pikon?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Jenis Unduhan"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Unduh VOD saluran yang dipilih\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Unduh Video \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Pengunduhan selesai"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Pengunduhan berhasil diselesaikan!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Kesalahan pengunduhan: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Pengunduhan gagal dengan kode pengembalian: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Pengunduhan gagal:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Pengunduhan gagal"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Unduh di Corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Pengunduhan dimulai ulang: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Pengunduhan dimulai: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Pengunduhan terhenti: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Tugas pengunduhan dihapus"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Unduh: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "File yang diunduh terlalu kecil"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "File yang diunduh tidak ditemukan"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Masukkan Kata Sandi"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Masukkan Port Server Misalnya:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Masukkan Url Server tanpa 'http://' your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Masukkan Nama Pengguna"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Masukkan kode pin"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Panduan Epg atau imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Kode kesalahan"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Terjadi kesalahan saat mengontrol unduhan: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Kesalahan saat menghapus file:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Kesalahan membaca atau memproses %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Kesalahan membaca atau memproses file: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Terjadi kesalahan saat menghapus tugas: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Kesalahan saat memverifikasi unduhan: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "KELUAR"
 
 msgid "Export"
-msgstr ""
+msgstr "Ekspor"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Ekspor file m3u ke Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "GAGAL"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Gagal mengambil informasi pembaruan. Silakan periksa koneksi internet Anda."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Gagal mengurai informasi pembaruan. Silakan coba lagi nanti."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "File Tidak Diketahui!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "File tidak ditemukan atau kosong: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Berkas tidak ditemukan!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Filter Hari Buruk"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filter kategori ini..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Pertama Pilih daftar atau masukkan di Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "File pengguna folder .xml"
 
 msgid "Format:\n"
 msgstr ""
 
 msgid "Free Space"
-msgstr ""
+msgstr "Ruang Bebas"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "TOMBOL BANTUAN:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "RUMAH"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Bantuan\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Sembunyikan/Tampilkan"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Jika pemain aktif, HENTIKAN produksi pemain saat keluar"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Jika Anda memiliki file:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Jika Anda memiliki file\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Impor"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Impor Server dari /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Impor Server dari /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Informasi"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Init Lanjutkan Putar\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "URL tidak valid!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Format tanggal tidak valid dalam informasi pembaruan."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Format file tidak valid: baris tidak cukup atau kosong di %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Format tidak valid dalam %s. Tidak dapat mengekstrak detail server."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Jenis pekerjaan tidak valid atau tidak didukung"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Apakah Direktori atau file tidak ada"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Pembaruan saluran terakhir: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Line sudah ada di playlist"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Baris ditambahkan ke daftar putar"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Tautan di Menu Utama"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Pemutar Langsung Aktif dalam Pengaturan: atur No untuk Rekam Langsung"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Pemutar Langsung untuk Streaming .ts: setel No untuk Rekam Langsung"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Jenis Layanan Langsung"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer Aktif"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "Pemuat M3u"
 
 msgid "Main"
-msgstr ""
+msgstr "Utama"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Layar Utama XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Membuat"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Folder Media"
 
 msgid "MediaPlayer\n"
-msgstr ""
+msgstr "Pemutar Media\n"
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "File hilang atau kosong: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Film"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Folder Film"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Film telah berhasil dihapus"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Konfigurasi Karangan Nama:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Ekspor Buket Nama"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Kesalahan jaringan!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Tidak Ada Server yang Dikonfigurasi untuk Mengunduh!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Tidak Ada Video untuk Diunduh/Rekam!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Tidak ada data atau daftar putar yang tidak kompatibel dengan XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Tidak ada film yang dipilih!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Tidak ada tugas yang dipilih!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Tidak ada informasi pembaruan yang tersedia."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Hanya Episode Seri yang Diizinkan!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Hanya Film VOD yang diperbolehkan!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Buka Folder Film\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "SANDI='yyyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "DIJEDA"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Jeda/Lanjutkan"
 
 msgid "Picons IPTV"
-msgstr ""
+msgstr "Pikon IPTV"
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Karangan bunga Picons IPTV ke"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Tempatkan karangan bunga IPTV di"
 
 msgid "Player"
-msgstr ""
+msgstr "Pemain"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Harap konfigurasikan detail server terlebih dahulu"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Silakan masukkan kode pin kontrol orang tua"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Mempersiapkan pengunduhan..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Masukkan File .m3u ke dalam Folder %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Letakkan garis Anda ke"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Benar-benar dekat tanpa menyimpan pengaturan?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Film Rekam"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Seri Rek"
 
 msgid "Reload"
-msgstr ""
+msgstr "Muat ulang"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Muat Ulang Daftar\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Muat ulang Daftar Putar sedang berlangsung..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Menghapus"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Hapus Daftar Putar dari Karangan Bunga?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Hapus tugas pengunduhan untuk {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Hapus file dari daftar\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Menghapus semua karangan bunga yang telah\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Perubahan Resolusi Gagal"
 
 msgid "Restart"
-msgstr ""
+msgstr "Mulai ulang"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Kembali ke Daftar Saluran\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Sumber daya tidak ditemukan (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "PILIH PILIHAN ANDA"
 
 msgid "Save"
-msgstr ""
+msgstr "Menyimpan"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Unduh: %d%% - Kecepatan: %.1f KB/s - Sisa waktu: %d detik"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Jenis jadwal:"
 
 msgid "Search"
-msgstr ""
+msgstr "Mencari"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Cari LANGSUNG/Film"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Cari judul dalam daftar"
 
 msgid "Select"
-msgstr ""
+msgstr "Memilih"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "PELABUHAN Server"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Kata Sandi Server"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Batas Waktu Server Habis"
 
 msgid "Server URL"
-msgstr ""
+msgstr "URL server"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Nama Pengguna Server"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Setel 'Pemutar Langsung Aktif' di Setelan:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Setel 'Tidak' untuk Rekam Langsung\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Tetapkan Nama untuk MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Pengaturan berhasil disimpan!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Mulai Unduh Semua Episode Seri\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Mulai Mengunduh atau Rekam Saluran yang Dipilih:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Hentikan Pemain saat Keluar"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Filmnya tidak ada!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Kode pin yang Anda masukkan salah."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Saatnya memulai pembaruan:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Server Waktu Habis (dtk)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Waktu koneksi habis"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "TIDAK DIKENAL"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
-msgstr ""
+msgstr "NAMA PENGGUNA='xxxxxxxxxx'\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Pembaruan Dibatalkan!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Interval pembaruan (jam):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Jenis Layanan Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Apakah Anda benar-benar ingin menghentikan pengunduhan?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Tunggu... pengunduhan sedang berlangsung..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Saat membuka file .m3u:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "TOMBOL KUNING:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Anda perlu mengonfigurasi jenis keluaran\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Login Server Anda dan input data"
 
 msgid "fixed time"
-msgstr ""
+msgstr "waktu tetap"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(host tanpa http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "selang"
 
 msgid "not exist!"
-msgstr ""
+msgstr "tidak ada!"
 
 msgid "password\n"
-msgstr ""
+msgstr "kata sandi\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "pelabuhan\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "pengguna\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "tolong tunggu..."

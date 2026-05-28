@@ -19,22 +19,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s NEPATEIKTA!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(MĖLYNAS MYGTUKAS):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(ŽALIAS MYGTUKAS):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(ĮRAŠYMO MYGTUKAS):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(STOP MYGTUKAS):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(GELTONAS MYGTUKAS):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -43,652 +43,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Nutraukiama..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Neteisėta prieiga (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktyvus automatinis puokštės atnaujinimas"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Aktyvus pagrindinis ekranas didelis"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Koreguokite laiko juostą"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Koreguoti laiko juostą (valanda)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Įvyko netikėta klaida. Bandykite dar kartą vėliau."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Valandų intervalu arba nustatytu laiku"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Automatinis puokštės atnaujinimas (grafikas):"
 
 msgid "Back"
-msgstr ""
+msgstr "Atgal"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Puokštė"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Puokštės stilius"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Atšaukti"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Negalima keisti šios užduoties būsenos"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Negalima pristabdyti / atnaujinti šio elemento"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Nepavyko pašalinti šio elemento"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Patikrinkite mėgstamiausių sąrašus..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Pasirinkite katalogą:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Pasirinkite katalogą"
 
 msgid "Close"
-msgstr ""
+msgstr "Uždaryti"
 
 msgid "Config"
-msgstr ""
+msgstr "konfig"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Konfigūruoti sąrankos parinktis\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Konfigūruoti nustatytu laiku"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Konfigūruokite kiekvieną valandų intervalą nuo dabar"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Konfigūruokite eksportuotos puokštės pavadinimą. Numatytasis yra myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigūruoti paslaugą Nuoroda Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigūruoti paslaugą Nuoroda Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Parankinių sąraše sukonfigūruokite konversijos tipą"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Sukonfigūruokite, kad būtų išdėstytos konvertuotų sąrašų puokštės"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Konfigūruokite atsisiuntimo filmo tipą: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Konfigūruokite srauto, kuris bus atsisiunčiamas konvertuojant, tipą"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Sveikiname! Jau turite naujausią versiją..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Prisijungiama prie serverio..."
 
 msgid "Console"
-msgstr ""
+msgstr "konsolė"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Vykdoma konversija %s:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Konversijos tipas Išvestis"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Konvertuoti grojaraštį į: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Sukurkite XC Live / VOD puokštes\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "ATSISIŲSTI VAIZDO ĮRAŠĄ?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "ATSISIUNTIMAS"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Duomenų serverio konfigūracija:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Parodykite XCplugin pagrindiniame meniu"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Ar norite konvertuoti %s į mėgstamiausią .tv?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Ar norite įdiegti naujinimą (%s) dabar?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Ar norite pašalinti %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Ar norite pašalinti: %s?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Ar norite pašalinti: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Atsisiųsti"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Atsisiųsti nepavyko!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Atsisiuntimas baigtas!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Parsisiųsti M3u failą?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Parsisiųsti Picons?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Atsisiuntimo tipas"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Atsisiųskite VOD pasirinktą kanalą\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Atsisiųsti vaizdo įrašą \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Atsisiuntimas baigtas"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Atsisiuntimas sėkmingai baigtas!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Atsisiuntimo klaida: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Nepavyko atsisiųsti naudojant grąžinimo kodą: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Atsisiuntimas nepavyko:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Atsisiųsti nepavyko"
 
 msgid "Download in corso"
 msgstr ""
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Atsisiuntimas paleistas iš naujo: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Atsisiuntimas pradėtas: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Atsisiuntimas sustabdytas: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Atsisiuntimo užduotis pašalinta"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Atsisiuntimas: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Atsisiųstas failas per mažas"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Atsisiųstas failas nerastas"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Įveskite slaptažodį"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Įveskite serverio prievadą pvz.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Įveskite serverio URL be „http://“ your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Įveskite vartotojo vardą"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Įveskite PIN kodą"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg vadovas arba imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Klaidos kodas"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Klaida valdant atsisiuntimą: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Klaida ištrinant failą:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Klaida skaitant arba apdorojant %s: %s"
 
 msgid "Error reading or processing the file: %s"
 msgstr ""
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Klaida šalinant užduotį: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Klaida tikrinant atsisiuntimą: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Išeiti"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksportuoti"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Eksportuokite failą m3u į Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "NEPASIEKĖ"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Nepavyko gauti atnaujinimo informacijos. Patikrinkite interneto ryšį."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Nepavyko išanalizuoti atnaujinimo informacijos. Bandykite dar kartą vėliau."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Failas nežinomas!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Failas nerastas arba tuščias: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Failas nerastas!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Filtruoti blogą dieną"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtruoti šią kategoriją..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Pirmiausia pasirinkite sąrašą arba įveskite jį į Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Aplanko vartotojo failas .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Formatas:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "Laisva erdvė"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "PAGALBOS MYGTUKAS:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "NAMAI"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Pagalba\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Slėpti/Rodyti"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Jei žaidėjas aktyvus, SUSTABDYKITE grotuvo įrašymą išeinant"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Jei turite failą:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Jei turite failą\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Importuoti"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Importuoti serverį iš /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Importuoti serverį iš /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Informacija"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Pradėti Tęsti žaisti\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Netinkamas URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Neteisingas datos formatas atnaujinimo informacijoje."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Neteisingas failo formatas: nepakanka arba tuščių eilučių %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Netinkamas formatas %s. Nepavyko išgauti serverio informacijos."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Neteisingas arba nepalaikomas darbo tipas"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Katalogo arba failo nėra"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Paskutinis kanalo atnaujinimas: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Eilutė jau yra grojaraštyje"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Prie grojaraščio pridėta eilutė"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Nuoroda pagrindiniame meniu"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Tiesioginis grotuvas Aktyvus nustatymuose: nustatykite Ne, jei norite įrašyti tiesiogiai"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Tiesioginis grotuvas, skirtas srautui .ts: nustatykite Ne, jei norite įrašyti tiesiogiai"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Tiesioginių paslaugų tipas"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "„LivePlayer“ aktyvus"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u krautuvas"
 
 msgid "Main"
-msgstr ""
+msgstr "Pagrindinis"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Pagrindinis ekranas XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Padaryti"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Medijos aplankas"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Trūksta arba tuščias failas: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Filmas"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Filmų aplankas"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Filmas sėkmingai ištrintas"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Vardinės puokštės konfigūracija:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Vardų puokštės eksportas"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Tinklo klaida!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Nėra serverio sukonfigūruotas atsisiųsti!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Nėra vaizdo įrašo, kurį būtų galima atsisiųsti / įrašyti!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Nėra duomenų ar grojaraščio, nesuderinamo su XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Nepasirinktas nė vienas filmas!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Jokia užduotis nepasirinkta!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Nėra atnaujinimo informacijos."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Leidžiami tik serialų epizodai!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Leidžiamas tik VOD filmas!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Atidarykite filmų aplanką\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='yyyyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "PRISTABDYTA"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Pristabdyti / tęsti"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV puokštės į"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Padėkite IPTV puokštes adresu"
 
 msgid "Player"
-msgstr ""
+msgstr "Žaidėjas"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Pirmiausia sukonfigūruokite serverio informaciją"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Įveskite tėvų kontrolės PIN kodą"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Paruošiamas atsisiuntimas..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Įdėkite .m3u failus į aplanką %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Sudėkite savo eilutes į"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Tikrai uždaryti neišsaugoję nustatymų?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Rec Filmas"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Rec serija"
 
 msgid "Reload"
-msgstr ""
+msgstr "Įkelti iš naujo"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Iš naujo įkelti sąrašą\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Vyksta iš naujo įkelti grojaraščius..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Pašalinti"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Pašalinti grojaraštį iš „Bouquets“?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Pašalinti {} atsisiuntimo užduotį?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Pašalinti failą iš sąrašo\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Pašalina visas puokštes, kurios buvo\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Rezoliucijos pakeitimas nepavyko"
 
 msgid "Restart"
-msgstr ""
+msgstr "Paleisti iš naujo"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Grįžti į kanalų sąrašą\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Išteklius nerastas (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "PASIRINKITE SAVO PASIRINKIMĄ"
 
 msgid "Save"
-msgstr ""
+msgstr "Išsaugoti"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Atsisiuntimas: %d%% – Greitis: %.1f KB/s – Likęs laikas: %d sek"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Tvarkaraščio tipas:"
 
 msgid "Search"
-msgstr ""
+msgstr "Ieškoti"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Ieškoti tiesiogiai / filme"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Sąraše ieškokite pavadinimo"
 
 msgid "Select"
-msgstr ""
+msgstr "Pasirinkite"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "Serverio prievadas"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Serverio slaptažodis"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Serverio laikas"
 
 msgid "Server URL"
-msgstr ""
+msgstr "Serverio URL"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Serverio vartotojo vardas"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Nustatymuose nustatykite „Live Player Active“:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Nustatykite „Ne“ įrašymui tiesiogiai\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Nustatykite „MakerBouquet“ pavadinimą"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Nustatymai sėkmingai išsaugoti!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Pradėkite atsisiųsti visų serijų seriją\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Pradėkite atsisiųsti arba įrašyti pasirinktą kanalą:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Sustabdykite grotuvą išėjus"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Filmas neegzistuoja!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Įvestas PIN kodas neteisingas."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Laikas pradėti naujinimą:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Serverio skirtasis laikas (sek.)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Baigėsi ryšio laikas"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "NEŽINOMA"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
-msgstr ""
+msgstr "USERNAME='xxxxxxxxxxx'\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Atnaujinimas nutrauktas!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Atnaujinimo intervalas (valandos):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Vod paslaugų tipas"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Ar tikrai norite sustabdyti atsisiuntimą?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Palaukite... atsisiunčiama..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Vietoj to atidarant .m3u failą:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "GELTONAS MYGTUKAS:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Turite sukonfigūruoti išvesties tipą\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Jūsų serverio prisijungimas ir duomenų įvestis"
 
 msgid "fixed time"
-msgstr ""
+msgstr "fiksuotas laikas"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(priegloba be http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "intervalas"
 
 msgid "not exist!"
-msgstr ""
+msgstr "neegzistuoja!"
 
 msgid "password\n"
-msgstr ""
+msgstr "slaptažodis\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "prievadas\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "naudotojas\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "palauk prašau..."

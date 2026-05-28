@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s HEB EI GAFOD!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(BOTWM GLAS):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(BOTWM GWYRDD):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(BOTWM REC): \ n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(BOTWM STOP):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(BOTWM MELYN):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,370 +42,370 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Yn erthylu..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Mynediad heb awdurdod (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Diweddariad Bouquet Awtomatig Actif"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Prif Sgrin Actif Fawr"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Addasu Cylchfa Amser"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Addasu Cylchfa Amser (awr)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Digwyddodd gwall annisgwyl. Ceisiwch eto yn nes ymlaen."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Ar ysbaid o oriau neu ar amser penodol"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Diweddariad tusw awtomatig (amserlen):"
 
 msgid "Back"
-msgstr ""
+msgstr "Yn ol"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Tusw"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Arddull tusw"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Canslo"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Methu addasu statws y dasg hon"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Methu seibio/ailddechrau'r eitem hon"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Methu tynnu'r eitem hon"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Gwiriwch ar restrau ffefrynnau..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Dewiswch Cyfeiriadur:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Dewiswch gyfeiriadur"
 
 msgid "Close"
-msgstr ""
+msgstr "Cau"
 
 msgid "Config"
 msgstr ""
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Ffurfweddu Opsiynau Gosod\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Ffurfweddu ar amser penodol"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Ffurfweddwch bob cyfwng o oriau o nawr"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Ffurfweddu enw'r tusw wedi'i allforio. MyBouquet yw'r diofyn"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Ffurfweddu gwasanaeth Cyfeirnod Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Ffurfweddu gwasanaeth Cyfeirnod Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Ffurfweddu'r math o drosi yn y rhestr hoff"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Ffurfweddwch i osod tuswau'r rhestrau wedi'u trosi"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Ffurfweddu math o ffilm llwytho i lawr: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Ffurfweddu math o ffrwd i'w lawrlwytho trwy drosi"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Llongyfarchiadau! Mae gennych y fersiwn diweddaraf yn barod..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Wrthi'n cysylltu â'r gweinydd..."
 
 msgid "Console"
-msgstr ""
+msgstr "Consol"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Trosi %s ar y gweill:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Math trosi Allbwn"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Trosi Rhestr Chwarae i: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Creu Tuswau XC Live/VOD\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "LAWRLWYTHO FIDEO?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "LLWYTHO"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Ffurfweddiad Gweinydd Data:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Arddangos XCplugin yn y Brif Ddewislen"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Ydych chi eisiau Trosi %s i hoff .tv ?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Ydych chi am osod diweddariad (%s) nawr?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Ydych chi am ddileu %s ?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Ydych chi am ddileu: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Ydych chi am ddileu: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Lawrlwythwch"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Lawrlwytho Wedi Methu!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Lawrlwytho Wedi Gorffen!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Lawrlwytho Ffeil M3u?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Lawrlwytho Picons?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Math o Lawrlwytho"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Lawrlwythwch sianel ddewisol VOD\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Lawrlwytho Fideo \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Lawrlwytho wedi'i gwblhau"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Cwblhawyd y lawrlwythiad yn llwyddiannus!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Gwall llwytho i lawr: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Wedi methu llwytho i lawr gyda'r cod dychwelyd: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Wedi methu llwytho i lawr:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Wedi methu llwytho i lawr"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Lawrlwythwch mewn corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Wedi ailgychwyn y lawrlwythiad: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Dechreuwyd llwytho i lawr: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Wedi stopio lawrlwytho: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Tasg lawrlwytho wedi'i thynnu"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Lawrlwytho: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Mae'r ffeil a lawrlwythwyd yn rhy fach"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Ni chanfuwyd y ffeil a lawrlwythwyd"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Rhowch Gyfrinair"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Mewnbynnu Porth Gweinydd E.e.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Rhowch Url Gweinyddwr heb 'http://' your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Rhowch Enw Defnyddiwr"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Rhowch god pin"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Canllaw epg neu imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Cod gwall"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Gwall wrth reoli llwytho i lawr: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Gwall wrth ddileu'r ffeil:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Gwall wrth ddarllen neu brosesu %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Gwall wrth ddarllen neu brosesu'r ffeil: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Gwall wrth ddileu tasg: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Gwall wrth wirio llwytho i lawr: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ymadael"
 
 msgid "Export"
-msgstr ""
+msgstr "Allforio"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Allforio ffeil m3u i Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "METHU"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Wedi methu â nôl gwybodaeth diweddaru. Gwiriwch eich cysylltiad rhyngrwyd."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Wedi methu dosrannu gwybodaeth diweddaru. Ceisiwch eto yn nes ymlaen."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Ffeil Anhysbys!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Ffeil heb ei chanfod neu yn wag: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Ffeil heb ei chanfod!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Hidlo Diwrnod Drwg"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Hidlo'r categori hwn..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Yn gyntaf Dewiswch y rhestr neu rhowch hi yn Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Ffeil defnyddiwr ffolder .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Fformat:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "Gofod Rhydd"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "BOTWM CYMORTH:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "CARTREF"
 
 msgid "Help\n"
 msgstr ""
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Cuddio/Dangos"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Os yw'r chwaraewr yn weithredol STOPiwch atgynhyrchu'r chwaraewr wrth ymadael"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Os oes gennych ffeil:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Os oes gennych ffeil\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Mewnforio"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Mewnforio Gweinydd o /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Mewnforio Gweinydd o /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Gwybodaeth"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Init Parhau i Chwarae\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "URL annilys!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Fformat dyddiad annilys mewn gwybodaeth diweddaru."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Fformat ffeil annilys: dim digon neu llinellau gwag yn %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Fformat annilys yn %s. Methu echdynnu manylion gweinydd."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Math o swydd annilys neu heb ei gefnogi"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "A yw Cyfeiriadur neu ffeil ddim yn bodoli"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Diweddariad sianel diwethaf: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Llinell yn bodoli eisoes yn y rhestr chwarae"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Llinell wedi'i hatodi i'r rhestr chwarae"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Dolen yn y Brif Ddewislen"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Chwaraewr Byw yn Actif yn y Gosodiad: gosodwch Na ar gyfer Record Live"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Chwaraewr Live ar gyfer Stream .ts: set No for Record Live"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Math o Wasanaethau Byw"
 
 msgid "LivePlayer Active"
 msgstr ""
@@ -414,280 +414,280 @@ msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "Llwythwr M3u"
 
 msgid "Main"
-msgstr ""
+msgstr "Prif"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Prif Sgrin XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Gwneud"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Ffolder Cyfryngau"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Ffeil ar goll neu'n wag: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Ffilm"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Ffolder Ffilm"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Mae'r ffilm wedi'i dileu'n llwyddiannus"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Ffurfweddiad Bouquet Enw:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Enw Allforio Bouquet"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Gwall rhwydwaith!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Dim Gweinydd wedi'i Ffurfweddu i'w Lawrlwytho!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Dim Fideo i'w Lawrlwytho / Recordio!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Dim data na rhestr chwarae ddim yn gydnaws â XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Dim ffilm wedi'i dewis!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Dim tasg wedi'i dewis!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Dim gwybodaeth diweddaru ar gael."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Dim ond Penodau Cyfres a Ganiateir!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Dim ond VOD Movie a ganiateir!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Agor Ffolder Ffilm\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='bbyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "OEDI"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Oediad/Ailgychwyn"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV tuswau i"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Gosod tuswau IPTV yn"
 
 msgid "Player"
-msgstr ""
+msgstr "Chwaraewr"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Ffurfweddwch fanylion y gweinydd yn gyntaf"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Rhowch y cod pin rheolaeth rhieni"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Wrthi'n paratoi'r lawrlwythiad..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Rhowch Ffeiliau .m3u yn Ffolder %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Rhowch eich llinellau i'r"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Cau iawn heb gadw gosodiadau?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Ffilm Rec"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Cyfres Rec"
 
 msgid "Reload"
-msgstr ""
+msgstr "Ail-lwytho"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Ail-lwytho'r Rhestr\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Ail-lwytho Rhestri Chwarae ar y gweill..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Dileu"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Tynnu Rhestr Chwarae o Tuswau?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Dileu tasg lawrlwytho ar gyfer {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Tynnu ffeil o'r rhestr\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Yn tynnu'r holl duswau sydd wedi'u\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Methodd Newid Datrysiad"
 
 msgid "Restart"
-msgstr ""
+msgstr "Ailgychwyn"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Dychwelyd i'r Rhestr Sianeli\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Adnodd heb ei ddarganfod (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "DEWISWCH EICH DEWIS"
 
 msgid "Save"
-msgstr ""
+msgstr "Arbed"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Lawrlwytho: %d%% - Cyflymder: %.1f KB/s - Amser sy'n weddill: %d eiliad"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Math o amserlen:"
 
 msgid "Search"
-msgstr ""
+msgstr "Chwiliwch"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Chwilio'n Fyw/Ffilm"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Chwiliwch am deitl yn y rhestr"
 
 msgid "Select"
-msgstr ""
+msgstr "Dewiswch"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "PORT Gweinydd"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Cyfrinair Gweinydd"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Goramser Gweinydd"
 
 msgid "Server URL"
-msgstr ""
+msgstr "URL gweinydd"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Enw Defnyddiwr Gweinydd"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Gosodwch 'Live Player Active' yn y Gosodiad:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Gosodwch 'Na' ar gyfer Record Live\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Gosod Enw ar gyfer MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Gosodiadau wedi'u cadw'n llwyddiannus !"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Dechrau Lawrlwytho Cyfres Pob Pennod\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Dechreuwch Lawrlwytho neu Recordio Sianel a Ddewiswyd:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Stopiwch y Chwaraewr ar Ymadael"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Nid yw'r ffilm yn bodoli!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Mae'r cod pin a roesoch yn anghywir."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Amser i ddechrau diweddaru:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Gweinydd Goramser (eiliad)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Cysylltiad wedi dod i ben"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "ANHYSBYS"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Diweddariad wedi'i Erthylu!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Cyfnod diweddaru (oriau):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Math o Wasanaethau Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Ydych chi wir eisiau atal y llwytho i lawr?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Arhoswch... wrthi'n llwytho i lawr ..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Wrth agor ffeil .m3u yn lle hynny:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "BOTWM MELYN:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Mae angen i chi ffurfweddu'r math o allbwn\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Eich Mewngofnodi Gweinydd a mewnbwn data"
 
 msgid "fixed time"
-msgstr ""
+msgstr "amser sefydlog"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "gwesteiwr \ t (gwesteiwr heb http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "cyfwng"
 
 msgid "not exist!"
-msgstr ""
+msgstr "ddim yn bodoli!"
 
 msgid "password\n"
-msgstr ""
+msgstr "cyfrinair\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "porthladd\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "defnyddiwr\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "aros os gwelwch yn dda..."

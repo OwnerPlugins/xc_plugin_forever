@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s NIJE DETEKTIVAN!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(PLAVO DUGME):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(ZELENO DUGME):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(DUGME REC):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(DUGME ZA STOP):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(ŽUTO DUGME):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,34 +42,34 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Prekidanje..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Neovlašteni pristup (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktivno automatsko ažuriranje buketa"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Aktivan glavni ekran Veliki"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Podesite vremensku zonu"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Podesite vremensku zonu (sat)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Došlo je do neočekivane greške. Molimo pokušajte ponovo kasnije."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "U intervalu od nekoliko sati ili u određeno vrijeme"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Automatsko ažuriranje buketa (raspored):"
 
 msgid "Back"
-msgstr ""
+msgstr "Nazad"
 
 msgid "Bouquet"
 msgstr ""
@@ -78,121 +78,121 @@ msgid "Bouquet style"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Otkaži"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Nije moguće promijeniti status ovog zadatka"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Nije moguće pauzirati/nastaviti ovu stavku"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Nije moguće ukloniti ovu stavku"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Provjerite liste favorita..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Odaberite imenik:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Odaberite imenik"
 
 msgid "Close"
-msgstr ""
+msgstr "Zatvori"
 
 msgid "Config"
 msgstr ""
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Opcije podešavanja konfiguracije\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Konfigurirajte u određeno vrijeme"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Konfigurirajte svaki interval od sada"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Konfigurirajte naziv izvezenog buketa. Zadana vrijednost je myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfiguracija usluge Reference Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfiguracija usluge Reference Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Konfigurišite vrstu konverzije na listi favorita"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Konfigurirajte za postavljanje buketa konvertiranih lista"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Konfigurirajte vrstu preuzimanja filma: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Konfigurirajte vrstu toka koji će se preuzeti konverzijom"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Congrats! Već imate najnoviju verziju..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Povezivanje na server..."
 
 msgid "Console"
-msgstr ""
+msgstr "Konzola"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Konverzija %s u toku:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Tip konverzije Izlaz"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Pretvoriti plejlistu u: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Kreirajte XC Live/VOD bukete\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "PREUZMITE VIDEO?"
 
 msgid "DOWNLOADING"
 msgstr ""
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Konfiguracija servera podataka:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Prikaži XCplugin u glavnom meniju"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Želite li pretvoriti %s u omiljeni .tv?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Želite li sada instalirati ažuriranje (%s)?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Želite li ukloniti %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Želite li ukloniti: %s?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Želite li ukloniti: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Preuzmi"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Preuzimanje nije uspjelo!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Preuzimanje je završeno!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Preuzmite M3u datoteku?"
 
 msgid "Download Picons ?"
 msgstr ""
@@ -201,130 +201,130 @@ msgid "Download Type"
 msgstr ""
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Preuzmite VOD odabrani kanal\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Preuzmi video \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Preuzimanje je završeno"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Preuzimanje je uspješno završeno!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Greška pri preuzimanju: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Preuzimanje nije uspjelo s povratnim kodom: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Preuzimanje nije uspjelo:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Preuzimanje nije uspjelo"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Preuzmite u corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Preuzimanje ponovo pokrenuto: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Preuzimanje je počelo: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Preuzimanje zaustavljeno: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Zadatak preuzimanja je uklonjen"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Preuzimanje: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Preuzeta datoteka je premala"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Preuzeta datoteka nije pronađena"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Unesite lozinku"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Unesite port servera npr.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Unesite URL servera bez 'http://' your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Unesite korisničko ime"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Unesite pin kod"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg vodič ili imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Kôd greške"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Greška u kontroli preuzimanja: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Greška prilikom brisanja fajla:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Greška čitanja ili obrade %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Greška pri čitanju ili obradi datoteke: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Greška pri uklanjanju zadatka: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Greška prilikom provjere preuzimanja: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Izađi"
 
 msgid "Export"
-msgstr ""
+msgstr "Izvoz"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Izvezite datoteku m3u u Bouquet .tv\n"
 
 msgid "FAILED"
 msgstr ""
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Dohvaćanje informacija o ažuriranju nije uspjelo. Provjerite svoju internetsku vezu."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Nije uspjelo raščlanjivanje informacija o ažuriranju. Molimo pokušajte ponovo kasnije."
 
 msgid "File Unknow!!!"
 msgstr ""
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Fajl nije pronađen ili je prazan: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Fajl nije pronađen!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Filtrirajte loš dan"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtriraj ovu kategoriju..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Prvo odaberite listu ili je unesite u Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Korisnički fajl foldera .xml"
 
 msgid "Format:\n"
 msgstr ""
@@ -333,76 +333,76 @@ msgid "Free Space"
 msgstr ""
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "DUGME POMOĆ:\n"
 
 msgid "HOME"
 msgstr ""
 
 msgid "Help\n"
-msgstr ""
+msgstr "Pomoć\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Sakrij/Prikaži"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Ako je igrač aktivan ZAUSTAVITI riprodukciju igrača na izlasku"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Ako imate fajl:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Ako imate fajl\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Uvoz"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Uvoz servera iz /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Uvesti server iz /tmp/xc.tx?"
 
 msgid "Info"
 msgstr ""
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Pokreni Nastavi reprodukciju\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Nevažeći URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Nevažeći format datuma u informacijama o ažuriranju."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Nevažeći format datoteke: nema dovoljno ili prazni redovi u %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Nevažeći format u %s. Nije moguće izdvojiti detalje servera."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Nevažeći ili nepodržani tip posla"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Da li direktorij ili datoteka ne postoji"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Posljednje ažuriranje kanala: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Linija već postoji na plejlisti"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Linija je dodana plejlisti"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Link u glavnom meniju"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Live Player aktivan u podešavanjima: postavite Ne za snimanje uživo"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player za Stream .ts: postavite Ne za Rekord uživo"
 
 msgid "Live Services Type"
 msgstr ""
@@ -420,7 +420,7 @@ msgid "Main"
 msgstr ""
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Glavni ekran XL"
 
 msgid "Make"
 msgstr ""
@@ -432,52 +432,52 @@ msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Fajl nedostaje ili je prazan: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Film"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Filmska fascikla"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Film je uspješno obrisan"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Konfiguracija buketa imena:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Naziv Bouquet Export"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Mrežna greška!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Nijedan server nije konfigurisan za preuzimanje!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Nema videa za preuzimanje/snimanje!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Nema podataka ili liste za reprodukciju koja nije kompatibilna sa XCplugin-om."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Nije odabran nijedan film!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Nije odabran nijedan zadatak!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Nema dostupnih informacija o ažuriranju."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Dozvoljene samo epizode serijala!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Dozvoljen samo VOD film!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Otvorite folder filma\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
 msgstr ""
@@ -486,37 +486,37 @@ msgid "PAUSED"
 msgstr ""
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Pauza/nastavak"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV buketi do"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Postavite IPTV bukete na"
 
 msgid "Player"
 msgstr ""
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Prvo konfigurišite detalje servera"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Unesite PIN kod roditeljske kontrole"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Priprema za preuzimanje..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Stavite .m3u fajlove u fasciklu %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Stavite svoje linije na"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Stvarno zatvoriti bez spremanja postavki?"
 
 msgid "Rec Movie"
 msgstr ""
@@ -525,169 +525,169 @@ msgid "Rec Series"
 msgstr ""
 
 msgid "Reload"
-msgstr ""
+msgstr "Ponovo učitaj"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Ponovno učitaj listu\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Ponovno učitavanje plejliste u toku..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Ukloni"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Ukloniti plejlistu iz buketa?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Ukloniti zadatak preuzimanja za {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Ukloni fajl sa liste\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Uklanja sve bukete koji su bili\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Promjena rezolucije nije uspjela"
 
 msgid "Restart"
-msgstr ""
+msgstr "Ponovo pokreni"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Povratak na listu kanala\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Resurs nije pronađen (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ODABERITE SVOJ IZBOR"
 
 msgid "Save"
-msgstr ""
+msgstr "Sačuvaj"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Preuzimanje: %d%% - Brzina: %.1f KB/s - Preostalo vrijeme: %d sek"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Vrsta rasporeda:"
 
 msgid "Search"
-msgstr ""
+msgstr "Traži"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Traži UŽIVO/Film"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Potražite naslov na listi"
 
 msgid "Select"
-msgstr ""
+msgstr "Odaberite"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "PORT servera"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Lozinka servera"
 
 msgid "Server Timeout"
 msgstr ""
 
 msgid "Server URL"
-msgstr ""
+msgstr "URL servera"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Korisničko ime servera"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Postavite 'Live Player Active' u Postavkama:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Postavite 'Ne' za snimanje uživo\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Postavite naziv za MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Postavke su uspješno sačuvane!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Započni preuzimanje serije svih epizoda\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Započni preuzimanje ili snimanje odabranog kanala:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Zaustavite Player na izlazu"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Film ne postoji!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "PIN kod koji ste unijeli je pogrešan."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Vrijeme je za početak ažuriranja:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Istekanje servera (sek.)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Veza je istekla"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "NEPOZNATO"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Ažuriranje je prekinuto!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Interval ažuriranja (sati):"
 
 msgid "Vod Services Type"
 msgstr ""
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Da li zaista želite da zaustavite preuzimanje?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Sačekajte... preuzimanje u toku..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Prilikom otvaranja .m3u datoteke umjesto toga:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "ŽUTO DUGME:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Morate konfigurirati tip izlaza\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Prijava na vaš server i unos podataka"
 
 msgid "fixed time"
-msgstr ""
+msgstr "fiksno vrijeme"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(host bez http:// )\n"
 
 msgid "interval"
 msgstr ""
 
 msgid "not exist!"
-msgstr ""
+msgstr "ne postoji!"
 
 msgid "password\n"
-msgstr ""
+msgstr "lozinka\n"
 
 msgid "port\n"
 msgstr ""
 
 msgid "user\n"
-msgstr ""
+msgstr "korisnik\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "sacekaj molim te..."

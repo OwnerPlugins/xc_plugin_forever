@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s NATÎŞANDIN!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(BÛÇKÊ ŞÎN):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(BÛÇKÊ KESK):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(BIŞTKÊ RÊKÊ):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(BÛKTOKÊ RAWESTANDIN):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(BÛÇKÊ ZER):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,370 +42,370 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Betalkirin..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Gihîştina bêdestûr (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Nûvekirina Bûkê Otomatîk a Çalak"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Ekrana Sereke ya Çalak Mezin"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Demjimêr eyar bikin"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Demjimêr eyar bikin (saet)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Çewtiyeke neçaverêkirî derket. Ji kerema xwe paşê dîsa biceribîne."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Di navberek demjimêran de an di demek diyarkirî de"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Nûvekirina bûkê ya otomatîkî (bername):"
 
 msgid "Back"
-msgstr ""
+msgstr "Paş"
 
 msgid "Bouquet"
 msgstr ""
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Şêweya bûkê"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Bişûndekirin"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Nikare rewşa vê peywirê biguherîne"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Nikare vê babetê bisekine/ji nû ve bide destpêkirin"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Nikare vê babetê rake"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Lîsteyên bijare kontrol bikin..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Peldanka hilbijêrin:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Peldanka hilbijêre"
 
 msgid "Close"
-msgstr ""
+msgstr "Nêzîkî"
 
 msgid "Config"
 msgstr ""
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Vebijêrkên Sazkirina Vesazkirinê\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Di demek diyarkirî de mîheng bike"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Ji niha û pê ve her navberek demjimêran mîheng bike"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Navê bûkek îxrackirî mîheng bikin. Default myBouquet e"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Karûbarê Referansa Dvb-Iptv-Gstreamer-Exteplayer3 mîheng bikin"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Servîsa karûbarê mîheng bikin Çavkanî Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Di navnîşa bijare de celebê veguherînê mîheng bikin"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Mîheng bikin da ku bûkên navnîşên guhertî bi cîh bikin"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Cureya dakêşana fîlimê mîheng bikin: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Cureya herikînê mîheng bikin ku ji hêla veguheztinê ve were dakêşandin"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Pîroz be! Berê te guhertoya herî dawî heye..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Têkilî bi serverê re..."
 
 msgid "Console"
-msgstr ""
+msgstr "Konsolê"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Guhertin %s li pêş:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Cureyê Veguherînê Derketin"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Lîsteya lîstikê biguherîne: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "XC Live/VOD Bouquets\n ava bikin"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "VÎDEO DAXISTIN?"
 
 msgid "DOWNLOADING"
 msgstr ""
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Veavakirina Pêşkêşkara Daneyê:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "XCplugin di menuya sereke de nîşan bidin"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Ma tu dixwazî ​​%s biguherînî .tv ?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Tu dixwazî ​​nûvekirina (%s) niha saz bikî?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Ma tu dixwazî ​​%s jê bikî?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Tu dixwazî ​​jê bikî: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Ma hûn dixwazin jêbirin: %s?"
 
 msgid "Download"
 msgstr ""
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Daxistin Biserneket!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Daxistin Qediya!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Pelê M3u dakêşin?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Picons dakêşin?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Type Download"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Kanala hilbijartî VOD dakêşin\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Vîdyoyê dakêşin \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Daxistin qediya"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Daxistin bi serkeftî qediya!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Çewtiya dakêşandinê: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Daxistin bi koda vegerê bi ser neket: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Daxistin bi ser neket:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Daxistin bi ser neket"
 
 msgid "Download in corso"
 msgstr ""
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Daxistin ji nû ve dest pê kir: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Daxistin dest pê kir: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Daxistin rawestiya: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Karê dakêşanê hate rakirin"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Daxistin: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Pelê dakêşandî pir piçûk e"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Pelê dakêşandî nehat dîtin"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Şifreyê têke"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Porta Pêşkêşkarê têke Mînak:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Server Url bêyî 'http://' your_domine bikeve"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Navê bikarhêner binivîse"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Pîn kodê binivîse"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg rêber an imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Koda çewtiyê"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Çewtiya kontrolkirina dakêşanê: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Di jêbirina pelê de çewtî:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Xeletî di xwendin an hilberandina %s de: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Di xwendin an pêvajokirina pelê de çewtî: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Di rakirina peywirê de çewtî: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Di verastkirina dakêşanê de çewtî: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Derî"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksport"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Pelê m3u ji Bouquet .tv\n derxe"
 
 msgid "FAILED"
-msgstr ""
+msgstr "FILED"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Agahdariya nûvekirinê nehat wergirtin. Ji kerema xwe pêwendiya xweya înternetê kontrol bikin."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Parçekirina agahdariya nûvekirinê bi ser neket. Ji kerema xwe paşê dîsa biceribîne."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "File Nezan!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Pelê nehat dîtin an vala: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Pelê nehat dîtin!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Parzûna Roja Bad"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Vê kategoriyê fîlter bike..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Pêşî navnîşê Hilbijêre an têxe Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Peldanka bikarhêner peldanka .xml"
 
 msgid "Format:\n"
 msgstr ""
 
 msgid "Free Space"
-msgstr ""
+msgstr "Cihê Azad"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "BIÇKÊ ALÎKARÎ:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "XANE"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Alîkarî\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Veşêre / Nîşan bide"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Ger player çalak STOP riproduction player li ser derketinê"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Ger pelek we hebe:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Ger pelek we hebe\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Anîn"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Pêşkêşkarê ji /etc/enigma2/iptv.sh têxe?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Pêşkêşkar ji /tmp/xc.tx tê import kirin?"
 
 msgid "Info"
 msgstr ""
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Destpêk Bide Play\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "URL nederbasdar!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Forma tarîxa nederbasdar di agahdariya nûvekirinê de."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Forma pelê nederbasdar: di %s de xetên têr nakin an vala ne"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Forma nederbasdar di %s de. Nekarî hûrguliyên serverê derxe."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Cureyê karê nederbasdar an ne piştgirî"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Derhêner an pel tune ye"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Nûvekirina kanala dawî: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Xet jixwe di lîsteya lîstikê de heye"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Xet li lîsteya lîstikê hat pêvekirin"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Girêdana di menuya sereke de"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Lîstikvanê Zindî Di Mîhengê de Çalak: Ji bo Tomarkirina Zindî Na saz bikin"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Lîstikvanê Zindî ji bo Stream .ts: Ji bo Record Live No set"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Tîpa Xizmetên Zindî"
 
 msgid "LivePlayer Active"
 msgstr ""
@@ -417,106 +417,106 @@ msgid "M3u Loader"
 msgstr ""
 
 msgid "Main"
-msgstr ""
+msgstr "Ser"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Ekrana sereke XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Kirin"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Peldanka Medyayê"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Pelê wenda an vala: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Fîlm"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Peldanka Fîlmê"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Fîlm bi serkeftî hat jêbirin"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Veavakirina Bouquet Name:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Navê Bouquet Export"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Çewtiya torê!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "No Server Ji bo Dakêşanêی Veavakirin!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Vîdyo tune ku dakêşin / tomar bikin!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Ti data an lîsteya lîstikê bi XCplugin re ne hevaheng e."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Fîlm nehat hilbijartin!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Ti karek nehat hilbijartin!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Agahiya nûvekirinê tune."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Tenê Beşên Rêzefîlmê Destûr in!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Tenê Fîlma VOD destûr dide!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Peldanka Fîlmê\n veke"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='yyyyyyyyyy'\n"
 
 msgid "PAUSED"
 msgstr ""
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Rawestandin/Dîvekirin"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons bouquets IPTV to"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Bûkên IPTV li wir bi cih bikin"
 
 msgid "Player"
-msgstr ""
+msgstr "Lîstikvan"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Ji kerema xwe pêşî hûrguliyên serverê mîheng bikin"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Ji kerema xwe koda Pînê ya kontrola dêûbav binivîse"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Amadekirina daxistinê..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Pelên .m3u têxe Peldanka %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Rêzên xwe deynin ser"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Bi rastî bêyî tomarkirina mîhengan bigire?"
 
 msgid "Rec Movie"
 msgstr ""
@@ -525,70 +525,70 @@ msgid "Rec Series"
 msgstr ""
 
 msgid "Reload"
-msgstr ""
+msgstr "Ji nû ve barkirin"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Lîsteya ji nû ve barkirin\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Lîsteyên lîstikê ji nû ve dakêşin…"
 
 msgid "Remove"
-msgstr ""
+msgstr "Dûrxistin"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Lîsteya lîstikê ji Bouquets rakin?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Karê dakêşandinê ji bo {} jê bibe?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Pelê ji lîsteyê rake\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Hemî bûkên ku bûne\n jê dike"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Guhertina Resolution Failed"
 
 msgid "Restart"
 msgstr ""
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Vegere Lîsteya Kanalan\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Çavkanî nehat dîtin (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "HILBIJARTINA XWE HILBIJARTIN"
 
 msgid "Save"
-msgstr ""
+msgstr "Rizgarkirin"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Daxistin: %d%% - Lez: %.1f KB/s - Dema mayî: %d çirk"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Cureya bernameyê:"
 
 msgid "Search"
-msgstr ""
+msgstr "Gerr"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Li Zindî/Fîlm bigerin"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Di navnîşê de sernavek bigerin"
 
 msgid "Select"
-msgstr ""
+msgstr "Neqandin"
 
 msgid "Server PORT"
 msgstr ""
 
 msgid "Server Password"
-msgstr ""
+msgstr "Şîfreya Server"
 
 msgid "Server Timeout"
 msgstr ""
@@ -597,97 +597,97 @@ msgid "Server URL"
 msgstr ""
 
 msgid "Server Username"
-msgstr ""
+msgstr "Navê bikarhêner server"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Di Mîhengê de 'Lîstikvana Zindî' bicîh bikin:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Ji bo Record Live 'Na' saz bike\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Navê ji bo MakerBouquet saz bikin"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Mîheng bi serkeftî hatin tomarkirin!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Dest bi Daxistina Hemû Episodan Rêze\n bikin"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Dest bi Daxistin an Qenalê Hilbijartî Tomar bike:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Stop Player li ser Derketinê"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Fîlm tune ye!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Pîn-kodê ku we têxe xelet e."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Dema destpêkirina nûvekirinê:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Pêşkêşkara Demjimêr (çirk)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Têkilî demborî"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "NENAS"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Nûvekirin hate betal kirin!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Navbera nûvekirinê (saet):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Type Services Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Ma hûn bi rastî dixwazin dakêşandinê rawestînin?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Bisekine... dakêşandin berdewam e..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Dema ku pelek .m3u vedike:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "BIÇÛKÊ ZER:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Pêdivî ye ku hûn celebê derketinê mîheng bikin\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Têketina Servera we û têketina daneyê"
 
 msgid "fixed time"
-msgstr ""
+msgstr "dema sabît"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(mêvandar bêyî http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "navber"
 
 msgid "not exist!"
-msgstr ""
+msgstr "tune!"
 
 msgid "password\n"
-msgstr ""
+msgstr "şîfre\n"
 
 msgid "port\n"
 msgstr ""
 
 msgid "user\n"
-msgstr ""
+msgstr "bikarhêner\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "bisekine ji kerema xwe..."

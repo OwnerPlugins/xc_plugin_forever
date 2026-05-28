@@ -28,25 +28,25 @@ msgstr ""
 "X-Poedit-SearchPath-11: xcTask.py\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%S"
 
 msgid "%s NOT DETECTED!"
 msgstr "%s NON RILEVATO!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(TASTO BLU):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(TASTO VERDE):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(TASTO REGISTRAZIONE):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(TASTO STOP):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(TASTO GIALLO):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -85,13 +85,13 @@ msgid "Back"
 msgstr "Indietro"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Mazzo"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Stile del mazzo"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancellare"
 
 msgid "Cannot modify this task status"
 msgstr "Impossibile modificare lo stato di questa attività"
@@ -118,7 +118,7 @@ msgid "Config"
 msgstr "Configura"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Opzioni di impostazione configurazione\n"
 
 msgid "Configure at a fixed time"
 msgstr "Configura ad un orario fisso"
@@ -154,25 +154,25 @@ msgid "Connessione al server..."
 msgstr ""
 
 msgid "Console"
-msgstr ""
+msgstr "Consolle"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Conversione %s in corso:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Tipo di conversione Uscita"
 
 msgid "Convert Playlist to: %s ?"
 msgstr "Converto Playlist a: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Crea bouquet XC Live/VOD\n"
 
 msgid "DOWNLOAD VIDEO?"
 msgstr "DOWNLOAD VIDEO?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "SCARICAMENTO"
 
 msgid "Data Server Configuration:"
 msgstr "Configurazione del server di dati:"
@@ -211,13 +211,13 @@ msgid "Download Picons ?"
 msgstr "Scaricare Picons?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Scarica tipo"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Scarica il canale selezionato VOD\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Scarica video\n"
 
 msgid "Download completato"
 msgstr ""
@@ -232,31 +232,31 @@ msgid "Download failed with return code: {}"
 msgstr "Download non riuscito con codice di ritorno: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Download non riuscito:"
 
 msgid "Download fallito"
 msgstr ""
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Scarica in corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Download riavviato: {}"
 
 msgid "Download started: {}"
 msgstr "Download avviato: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Download interrotto: {}"
 
 msgid "Download task removed"
 msgstr "Attività di download rimossa"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Scarica: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Il file scaricato è troppo piccolo"
 
 msgid "Downloaded file not found"
 msgstr "File scaricato non trovato"
@@ -277,16 +277,16 @@ msgid "Enter pin code"
 msgstr "Inserire codice pin"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Guida Epg o imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Codice errore"
 
 msgid "Error controlling download: {}"
 msgstr "Errore durante il controllo del download: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Errore durante l'eliminazione del file:"
 
 msgid "Error reading or processing %s: %s"
 msgstr "Errore durante la lettura o l'elaborazione di %s: %s"
@@ -307,10 +307,10 @@ msgid "Export"
 msgstr "Esportare"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Esporta il file m3u in Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "FALLITO"
 
 msgid "Failed to fetch update information. Please check your internet connection."
 msgstr "Impossibile recuperare le informazioni di aggiornamento. Controlla la tua connessione Internet."
@@ -340,31 +340,31 @@ msgid "Folder user file .xml"
 msgstr "Cartella Utente  file .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Formato:\n"
 
 msgid "Free Space"
 msgstr "Spazio libero"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "PULSANTE AIUTO:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "CASA"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Aiuto\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Nascondi/Mostra"
 
 msgid "If player active STOP player riproduction on exit"
 msgstr "Se il Player è attivo si fermera all'uscita dal plugin"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Se hai un file:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Se hai un file\n"
 
 msgid "Import"
 msgstr "Importa"
@@ -376,13 +376,13 @@ msgid "Import Server from /tmp/xc.tx?"
 msgstr "Importare Server da /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Informazioni"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Inizia Continua a giocare\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "URL non valido!"
 
 msgid "Invalid date format in update information."
 msgstr "Formato data non valido nelle informazioni di aggiornamento."
@@ -409,7 +409,7 @@ msgid "Line appended to playlist"
 msgstr "Riga aggiunta alla playlist"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Collegamento nel menu principale"
 
 msgid "Live Player Active in Setting: set No for Record Live"
 msgstr "Live Player Attivo in Setting: imposta No per Registrare i Live"
@@ -421,7 +421,7 @@ msgid "Live Services Type"
 msgstr "LIVE Service Ref"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "Giocatore live attivo"
 
 msgid "M3u"
 msgstr ""
@@ -439,10 +439,10 @@ msgid "Make"
 msgstr "Crea"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Cartella multimediale"
 
 msgid "MediaPlayer\n"
-msgstr ""
+msgstr "Lettore multimediale\n"
 
 msgid "Missing or empty file: %s"
 msgstr "File mancante o vuoto: %s"
@@ -463,7 +463,7 @@ msgid "Name Bouquet Export"
 msgstr "Nome Bouquet esportato"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Errore di rete!"
 
 msgid "No Server Configured to Download!!!"
 msgstr "Nessun server configurato per il download !!!"
@@ -490,13 +490,13 @@ msgid "Only VOD Movie allowed!!!"
 msgstr "È consentito solo il film VOD !!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Apri la cartella dei filmati\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
 msgstr ""
 
 msgid "PAUSED"
-msgstr ""
+msgstr "IN PAUSA"
 
 msgid "Pause/Resume"
 msgstr "Pausa/Riprendi"
@@ -505,10 +505,10 @@ msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons mazzi IPTV a"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Posiziona i mazzi IPTV su"
 
 msgid "Player"
 msgstr "Lettore"
@@ -526,7 +526,7 @@ msgid "Put .m3u Files in Folder %s"
 msgstr "Metti i file .m3u nella cartella %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Metti le tue battute su"
 
 msgid "Really close without saving settings?"
 msgstr "Chiudere senza salvare ?"
@@ -541,7 +541,7 @@ msgid "Reload"
 msgstr "Ricarica"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Ricarica elenco\n"
 
 msgid "Reload Playlists in progress..."
 msgstr "Ricarica playlist in corso ..."
@@ -556,19 +556,19 @@ msgid "Remove download task for {}?"
 msgstr "Rimuovere l'attività di download per {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Rimuovi il file dall'elenco\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Rimuove tutti i mazzi di fiori che sono stati\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Modifica della risoluzione non riuscita"
 
 msgid "Restart"
-msgstr ""
+msgstr "Ricomincia"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Ritorna all'elenco dei canali\n"
 
 msgid "Risorsa non trovata (404)"
 msgstr ""
@@ -589,10 +589,10 @@ msgid "Search"
 msgstr "Cerca"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Cerca live/film"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Cerca un titolo nell'elenco"
 
 msgid "Select"
 msgstr "Seleziona"
@@ -613,10 +613,10 @@ msgid "Server Username"
 msgstr "Server Username"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Imposta "Giocatore live attivo" in Impostazioni:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Imposta 'No' per Registra dal vivo\n"
 
 msgid "Set Name for MakerBouquet"
 msgstr "Configura il Nome/Tag per Esportazione Bouquet"
@@ -625,13 +625,13 @@ msgid "Settings saved successfully !"
 msgstr "Configurazione salvata con successo!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Inizia a scaricare tutte le serie di episodi\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Avvia download o registra il canale selezionato:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Arresta il giocatore all'uscita"
 
 msgid "The movie does not exist!"
 msgstr "Il video  non esiste!"
@@ -649,10 +649,10 @@ msgid "Timeout della connessione"
 msgstr ""
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "SCONOSCIUTO"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
-msgstr ""
+msgstr "NOMEUTENTE='xxxxxxxxxx'\n"
 
 msgid "Update Aborted!"
 msgstr "Aggiornamento interrotto!"
@@ -670,13 +670,13 @@ msgid "Wait... downloading in progress ..."
 msgstr "Attendere... downloading in corso ..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Quando invece si apre un file .m3u:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "PULSANTE GIALLO:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "È necessario configurare il tipo di output\n"
 
 msgid "Your Server Login and data input"
 msgstr "Accesso al server e immissione dei dati"
@@ -685,22 +685,22 @@ msgid "fixed time"
 msgstr "timer fisso"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(host senza http:// )\n"
 
 msgid "interval"
 msgstr "intervallo"
 
 msgid "not exist!"
-msgstr ""
+msgstr "non esistere!"
 
 msgid "password\n"
 msgstr ""
 
 msgid "port\n"
-msgstr ""
+msgstr "porto\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "utente\n"
 
 msgid "wait please..."
 msgstr "attendere prego..."

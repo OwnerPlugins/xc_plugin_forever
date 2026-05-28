@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s aniqlanmadi!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(KO‘K TUGMA):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(YaSIL TUGMA):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(REC TUGMASI):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(TOʻXT TUGMASI):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(SARI TUGMA):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,652 +42,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Bekor qilinmoqda..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Ruxsatsiz kirish (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Faol avtomatik guldasta yangilanishi"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Faol asosiy ekran katta"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Vaqt mintaqasini sozlang"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Vaqt mintaqasini sozlash (soat)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Kutilmagan xatolik yuz berdi. Keyinroq qayta urinib ko‘ring."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Bir soatlik oraliqda yoki belgilangan vaqtda"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Guldastani avtomatik yangilash (jadval):"
 
 msgid "Back"
-msgstr ""
+msgstr "Orqaga"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Guldasta"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Buket uslubi"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Bekor qilish"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Bu vazifa holatini o‘zgartirib bo‘lmaydi"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Bu elementni to‘xtatib bo‘lmaydi/davom ettirib bo‘lmaydi"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Bu elementni olib tashlab bo‘lmaydi"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Sevimlilar ro'yxatini tekshiring..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Katalogni tanlang:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Katalogni tanlang"
 
 msgid "Close"
-msgstr ""
+msgstr "Yopish"
 
 msgid "Config"
-msgstr ""
+msgstr "Konfiguratsiya"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Sozlash parametrlarini sozlash\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Belgilangan vaqtda sozlang"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Bundan keyin har bir soat oralig'ini sozlang"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Eksport qilingan guldasta nomini sozlang. Standart myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Dvb-Iptv-Gstreamer-Exteplayer3 ma'lumotnoma xizmatini sozlang"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Iptv-Gstreamer-Exteplayer3 ma'lumotnoma xizmatini sozlang"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Sevimlilar ro'yxatida konvertatsiya turini sozlang"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "O'zgartirilgan ro'yxatlarning guldastalarini joylashtirish uchun sozlang"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Yuklab olish filmi turini sozlang: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Konvertatsiya orqali yuklab olinadigan oqim turini sozlang"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Tabriklaymiz! Sizda allaqachon oxirgi versiya mavjud..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Serverga ulanmoqda..."
 
 msgid "Console"
-msgstr ""
+msgstr "Konsol"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "%s konvertatsiya qilinmoqda:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Konversiya turi Chiqish"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Pleylistni %s ga aylantirasizmi?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "XC Live/VOD buketlarini yarating\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "VIDEONI YUKLAB OLINGMI?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "YUKLAB olinmoqda"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Ma'lumotlar serveri konfiguratsiyasi:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "XCpluginni asosiy menyuda ko'rsatish"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "%s ni sevimli .tv ga aylantirmoqchimisiz?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Yangilanishni (%s) hozir oʻrnatmoqchimisiz?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "%s ni olib tashlamoqchimisiz?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "O'chirmoqchimisiz: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Buni olib tashlamoqchimisiz: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Yuklab oling"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Yuklab bo'lmadi!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Yuklab olish tugadi!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "M3u faylini yuklab olingmi?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Pikonlarni yuklab olingmi?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Yuklab olish turi"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Tanlangan VOD kanalini yuklab oling\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Videoni yuklab oling \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Yuklab olish tugallandi"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Yuklab olish muvaffaqiyatli yakunlandi!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Yuklab olish xatosi: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Qaytish kodi bilan yuklab olinmadi: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Yuklab olinmadi:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Yuklab bo‘lmadi"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Corso ichida yuklab oling"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Yuklab olish qayta ishga tushirildi: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Yuklab olish boshlandi: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Yuklab olish toʻxtatildi: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Yuklab olish vazifasi olib tashlandi"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Yuklab olish: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Yuklab olingan fayl juda kichik"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Yuklab olingan fayl topilmadi"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Parolni kiriting"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Server portini kiriting, masalan: '8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Server URL manzilini "http://" your_domine holda kiriting"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Foydalanuvchi nomini kiriting"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "PIN kodni kiriting"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg qoʻllanmasi yoki imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Xato kodi"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Yuklashni nazorat qilishda xatolik yuz berdi: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Faylni oʻchirishda xatolik yuz berdi:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "%s o‘qish yoki qayta ishlashda xatolik yuz berdi: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Faylni oʻqish yoki qayta ishlashda xatolik yuz berdi: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Vazifani olib tashlashda xatolik yuz berdi: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Yuklashni tekshirishda xatolik yuz berdi: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Chiqish"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksport"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "m3u faylini Bouquet .tv ga eksport qiling\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "MUVOFIQ EDI"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Yangilanish maʼlumotlarini olib boʻlmadi. Iltimos, internet aloqangizni tekshiring."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Yangilanish maʼlumotlarini tahlil qilib boʻlmadi. Keyinroq qayta urinib ko‘ring."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Fayl noma'lum!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Fayl topilmadi yoki boʻsh: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Fayl topilmadi!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Yomon kunni filtrlang"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Ushbu turkumni filtrlash..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Avval ro'yxatni tanlang yoki uni Config-ga kiriting"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr ".xml foydalanuvchi fayli"
 
 msgid "Format:\n"
 msgstr ""
 
 msgid "Free Space"
-msgstr ""
+msgstr "Bo'sh joy"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "YORDAM TUGMASI:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "UY"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Yordam\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Yashirish/Ko‘rsatish"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Agar o'yinchi faol bo'lsa, chiqishda o'yinchi ishlab chiqarishni to'xtating"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Agar sizda fayl bo'lsa:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Agar faylingiz boʻlsa\n"
 
 msgid "Import"
 msgstr ""
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Serverni /etc/enigma2/iptv.sh dan import qilish kerakmi?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Server /tmp/xc.tx dan import qilinsinmi?"
 
 msgid "Info"
-msgstr ""
+msgstr "Ma'lumot"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Davom etishni boshlang\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "URL noto'g'ri!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Yangilanish maʼlumotlarida sana formati yaroqsiz."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Fayl formati noto‘g‘ri: %s ichida yetarlicha yoki bo‘sh qatorlar yo‘q"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "%s formati yaroqsiz. Server tafsilotlarini chiqarib boʻlmadi."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Ish turi noto'g'ri yoki qo'llab-quvvatlanmaydi"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Katalog yoki fayl mavjud emas"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Kanalning oxirgi yangilanishi: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Pleylistda qator allaqachon mavjud"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Pleylistga qator qo'shildi"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Asosiy menyuda havola"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Sozlamada jonli oʻyinchi faol: Live Record uchun Yoʻqni oʻrnating"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Stream .ts uchun Live Player: Record Live uchun Yo‘q"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Jonli xizmatlar turi"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer faol"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u yuklagich"
 
 msgid "Main"
-msgstr ""
+msgstr "Asosiy"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Asosiy ekran XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Qilish"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Media papkasi"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Yoʻqolgan yoki boʻsh fayl: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Kino"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Kino papkasi"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Film muvaffaqiyatli oʻchirildi"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Nom guldastasi konfiguratsiyasi:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Buket eksporti nomi"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Tarmoq xatosi!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Yuklab olish uchun server sozlanmagan!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Yuklab olish/yozib olish uchun video yo'q!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "XCplugin bilan mos kelmaydigan maʼlumotlar yoki pleylist yoʻq."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Hech qanday film tanlanmagan!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Hech qanday vazifa tanlanmagan!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Yangilanish maʼlumotlari mavjud emas."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Faqat serial qismlariga ruxsat berilgan!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Faqat VOD filmiga ruxsat beriladi!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Film jildini oching\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='yyyyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "Toʻxtatildi"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "To'xtatib turish/davom etish"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV kviling uchun"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "IPTV guldastalarini joylashtiring"
 
 msgid "Player"
-msgstr ""
+msgstr "O'yinchi"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Iltimos, avval server tafsilotlarini sozlang"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Ota-ona nazorati pin kodini kiriting"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Yuklab olish tayyorlanmoqda..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr ".m3u fayllarini %s jildiga joylashtiring"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Chiziqlaringizni ga qo'ying"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Haqiqatan ham sozlamalar saqlanmasdan yopilsinmi?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Rec film"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Rec seriyasi"
 
 msgid "Reload"
-msgstr ""
+msgstr "Qayta yuklash"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Roʻyxatni qayta yuklash\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Pleylistlarni qayta yuklash davom etmoqda..."
 
 msgid "Remove"
-msgstr ""
+msgstr "O'chirish"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Buketlardan pleylist olib tashlansinmi?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "{} uchun yuklab olish vazifasi olib tashlansinmi?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Faylni roʻyxatdan olib tashlang\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Barcha guldastalarni olib tashlaydi\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Ruxsatni o‘zgartirib bo‘lmadi"
 
 msgid "Restart"
-msgstr ""
+msgstr "Qayta ishga tushirish"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Kanallar roʻyxatiga qaytish\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Resurs topilmadi (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "TANLOVINGIZNI TANlang"
 
 msgid "Save"
-msgstr ""
+msgstr "Saqlash"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Yuklash: %d%% - Tezlik: %.1f KB/s - Qolgan vaqt: %d sek"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Jadval turi:"
 
 msgid "Search"
-msgstr ""
+msgstr "Qidiruv"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Jonli efir/filmni qidiring"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Ro'yxatdagi sarlavhani qidiring"
 
 msgid "Select"
-msgstr ""
+msgstr "Tanlang"
 
 msgid "Server PORT"
 msgstr ""
 
 msgid "Server Password"
-msgstr ""
+msgstr "Server paroli"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Server vaqti tugashi"
 
 msgid "Server URL"
-msgstr ""
+msgstr "Server URL manzili"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Server foydalanuvchi nomi"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Sozlamalarda “Jonli o‘yinchi faol”ni o‘rnating:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Live Record uchun “Yo‘q”ni belgilang\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "MakerBouquet uchun nom o'rnating"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Sozlamalar muvaffaqiyatli saqlandi!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Barcha epizodlar seriyasini yuklab olishni boshlang\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Tanlangan kanalni yuklab oling yoki yozib oling:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "O'yinchini chiqishda to'xtating"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Film mavjud emas!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Siz kiritgan pin kod noto'g'ri."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Yangilashni boshlash vaqti:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Vaqt tugashi serveri (soniya)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Ulanish vaqti tugadi"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "noma'lum"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Yangilash bekor qilindi!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Yangilanish oralig'i (soat):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Vod xizmatlari turi"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Haqiqatan ham yuklab olishni to'xtatmoqchimisiz?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Kutib turing... yuklab olinmoqda..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Buning o'rniga .m3u faylini ochishda:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "SARI TUGMA:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Chiqish turini sozlashingiz kerak\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Serverga kirish va ma'lumotlarni kiritish"
 
 msgid "fixed time"
-msgstr ""
+msgstr "belgilangan vaqt"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(host http:// )\n"
 
 msgid "interval"
 msgstr ""
 
 msgid "not exist!"
-msgstr ""
+msgstr "mavjud emas!"
 
 msgid "password\n"
-msgstr ""
+msgstr "parol\n"
 
 msgid "port\n"
 msgstr ""
 
 msgid "user\n"
-msgstr ""
+msgstr "foydalanuvchi\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "kuting iltimos..."

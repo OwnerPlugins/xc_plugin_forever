@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s არ არის გამოვლენილი!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(ლურჯი ღილაკი):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(მწვანე ღილაკი):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(ჩაწერის ღილაკი):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(STOP ღილაკი):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(ყვითელი ღილაკი):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,652 +42,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "აბორტი..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "არაავტორიზებული წვდომა (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "აქტიური ავტომატური ბუკეტის განახლება"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "აქტიური მთავარი ეკრანი დიდი"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "დაარეგულირეთ დროის სარტყელი"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "დროის სარტყლის კორექტირება (საათი)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "მოხდა მოულოდნელი შეცდომა. გთხოვთ, სცადოთ მოგვიანებით."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "საათების ინტერვალით ან ფიქსირებულ დროს"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "ბუკეტის ავტომატური განახლება (განრიგი):"
 
 msgid "Back"
-msgstr ""
+msgstr "უკან"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "ბუკეტი"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "ბუკეტის სტილი"
 
 msgid "Cancel"
-msgstr ""
+msgstr "გაუქმება"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "ამ ამოცანის სტატუსის შეცვლა შეუძლებელია"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "ამ ელემენტის შეჩერება/განახლება შეუძლებელია"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "ამ ელემენტის წაშლა შეუძლებელია"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "შეამოწმეთ ფავორიტების სიები..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "აირჩიეთ დირექტორია:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "აირჩიეთ დირექტორია"
 
 msgid "Close"
-msgstr ""
+msgstr "დახურვა"
 
 msgid "Config"
-msgstr ""
+msgstr "კონფიგურაცია"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "კონფიგურაციის დაყენების პარამეტრები\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "კონფიგურაცია ფიქსირებულ დროს"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "ამიერიდან საათების ყოველი ინტერვალის კონფიგურაცია"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "ექსპორტირებული ბუკეტის სახელის კონფიგურაცია. ნაგულისხმევი არის myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "სერვისის კონფიგურაცია Reference Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "სერვისის კონფიგურაციის მითითება Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "კონფიგურაციის ტიპის კონფიგურაცია ფავორიტთა სიაში"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "კონფიგურაცია მოათავსეთ გარდაქმნილი სიების თაიგულები"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "ფილმის ჩამოტვირთვის ტიპის კონფიგურაცია: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "დააკონფიგურირეთ ნაკადის ტიპი, რომელიც ჩამოიტვირთება კონვერტაციით"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "გილოცავ! თქვენ უკვე გაქვთ უახლესი ვერსია..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "მიმდინარეობს სერვერთან დაკავშირება..."
 
 msgid "Console"
-msgstr ""
+msgstr "კონსოლი"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "%s კონვერტაცია მიმდინარეობს:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "კონვერტაციის ტიპი გამომავალი"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "გადაიყვანეთ დასაკრავი სიის შემდეგ: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "შექმენით XC Live/VOD თაიგულები\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "ჩამოტვირთეთ ვიდეო?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "ჩამოტვირთვა"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "მონაცემთა სერვერის კონფიგურაცია:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "აჩვენეთ XCplugin მთავარ მენიუში"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "გსურთ %s გადაიყვანოთ საყვარელ .tv ?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "გსურთ განახლების (%s) დაყენება ახლა?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "გსურთ წაშალოთ %s ?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "გსურთ წაშალოთ: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "გსურთ წაშალოთ: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "ჩამოტვირთვა"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "ჩამოტვირთვა ვერ მოხერხდა!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "ჩამოტვირთვა დასრულდა!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "ჩამოტვირთეთ M3u ფაილი?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "ჩამოტვირთეთ პიკონები?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "ჩამოტვირთვის ტიპი"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "ჩამოტვირთეთ VOD არჩეული არხი\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "ვიდეოს ჩამოტვირთვა \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "ჩამოტვირთვა დასრულდა"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "ჩამოტვირთვა წარმატებით დასრულდა!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "ჩამოტვირთვის შეცდომა: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "ჩამოტვირთვა ვერ მოხერხდა დაბრუნების კოდით: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "ჩამოტვირთვა ვერ მოხერხდა:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "ჩამოტვირთვა ვერ მოხერხდა"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "ჩამოტვირთეთ კორსოში"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "ჩამოტვირთვა ხელახლა დაიწყო: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "ჩამოტვირთვა დაიწყო: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "ჩამოტვირთვა შეწყდა: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "ამოცანების ჩამოტვირთვა ამოღებულია"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "ჩამოტვირთვა: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "გადმოწერილი ფაილი ძალიან მცირეა"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "ჩამოტვირთული ფაილი ვერ მოიძებნა"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "შეიყვანეთ პაროლი"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "შეიყვანეთ სერვერის პორტი მაგ.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "შეიყვანეთ სერვერის Url 'http://' your_domine-ის გარეშე"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "შეიყვანეთ მომხმარებლის სახელი"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "შეიყვანეთ პინის კოდი"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg სახელმძღვანელო ან imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "შეცდომის კოდი"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "შეცდომა ჩამოტვირთვის კონტროლის დროს: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "შეცდომა ფაილის წაშლისას:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "%s წაკითხვის ან დამუშავების შეცდომა: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "შეცდომა ფაილის წაკითხვისას ან დამუშავებისას: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "შეცდომა ამოცანის ამოშლისას: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "შეცდომა ჩამოტვირთვის დადასტურებისას: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "გასვლა"
 
 msgid "Export"
-msgstr ""
+msgstr "ექსპორტი"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "ფაილის m3u ექსპორტი Bouquet-ში .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "ვერ მოხერხდა"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "განახლების ინფორმაციის მიღება ვერ მოხერხდა. გთხოვთ, შეამოწმოთ თქვენი ინტერნეტ კავშირი."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "განახლების ინფორმაციის გაანალიზება ვერ მოხერხდა. გთხოვთ, სცადოთ მოგვიანებით."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "ფაილი უცნობია!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "ფაილი ვერ მოიძებნა ან ცარიელია: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "ფაილი ვერ მოიძებნა!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "გაფილტრე ცუდი დღე"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "ამ კატეგორიის გაფილტვრა..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "ჯერ აირჩიეთ სია ან შეიყვანეთ კონფიგურაციაში"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "საქაღალდის მომხმარებლის ფაილი .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "ფორმატი:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "თავისუფალი სივრცე"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "დახმარების ღილაკი:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "მთავარი"
 
 msgid "Help\n"
-msgstr ""
+msgstr "დახმარება\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "დამალვა/ჩვენება"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "თუ მოთამაშე აქტიურია STOP მოთამაშის გამრავლების გასვლისას"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "თუ გაქვთ ფაილი:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "თუ გაქვთ ფაილი\n"
 
 msgid "Import"
-msgstr ""
+msgstr "იმპორტი"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "სერვერის იმპორტი /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "სერვერის იმპორტი /tmp/xc.tx-დან?"
 
 msgid "Info"
-msgstr ""
+msgstr "ინფორმაცია"
 
 msgid "Init Continue Play\n"
 msgstr ""
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "არასწორი URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "თარიღის არასწორი ფორმატი განახლების ინფორმაციაში."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "ფაილის ფორმატი არასწორია: არ არის საკმარისი ან ცარიელი ხაზები %s-ში"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "არასწორი ფორმატი %s-ში. სერვერის დეტალების ამოღება ვერ მოხერხდა."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "სამუშაოს ტიპი არასწორი ან მხარდაუჭერელია"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "დირექტორია ან ფაილი არ არსებობს"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "არხის ბოლო განახლება: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "ხაზი უკვე არსებობს დასაკრავ სიაში"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "ხაზი დაემატა დასაკრავ სიას"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "ბმული მთავარ მენიუში"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Live Player აქტიურია პარამეტრებში: დააყენეთ No Live ჩანაწერისთვის"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player სტრიმისთვის .ts: დააყენეთ No Live ჩანაწერისთვის"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "ცოცხალი სერვისების ტიპი"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer აქტიური"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u ჩამტვირთავი"
 
 msgid "Main"
-msgstr ""
+msgstr "მთავარი"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "მთავარი ეკრანი XL"
 
 msgid "Make"
-msgstr ""
+msgstr "გააკეთე"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "მედია საქაღალდე"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "ფაილი აკლია ან ცარიელია: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "ფილმი"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "ფილმის საქაღალდე"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "ფილმი წარმატებით წაიშალა"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "სახელის თაიგულის კონფიგურაცია:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "სახელწოდება ბუკეტი ექსპორტი"
 
 msgid "Network error!"
-msgstr ""
+msgstr "ქსელის შეცდომა!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "სერვერი არ არის კონფიგურირებული ჩამოსატვირთად!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "ვიდეო არ არის ჩამოსატვირთი/ჩასაწერი!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "მონაცემები ან დასაკრავი სია არ არის თავსებადი XCplugin-თან."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "ფილმი არ არის შერჩეული!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "დავალება არ არის შერჩეული!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "განახლების ინფორმაცია არ არის ხელმისაწვდომი."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "ნებადართულია მხოლოდ სერიალების ეპიზოდები!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "ნებადართულია მხოლოდ VOD ფილმი!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "გახსენით ფილმის საქაღალდე\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='იიიიიიიიი'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "შეჩერებულია"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "პაუზა/განახლება"
 
 msgid "Picons IPTV"
-msgstr ""
+msgstr "პიკონები IPTV"
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV თაიგულები"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "განათავსეთ IPTV თაიგულები"
 
 msgid "Player"
-msgstr ""
+msgstr "მოთამაშე"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "გთხოვთ, ჯერ დააკონფიგურიროთ სერვერის დეტალები"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "გთხოვთ, შეიყვანოთ მშობლის კონტროლის პინ კოდი"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "ჩამოტვირთვის მომზადება..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "ჩადეთ .m3u ფაილები საქაღალდეში %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "განათავსეთ თქვენი ხაზები"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "ნამდვილად დაიხურება პარამეტრების შენახვის გარეშე?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Rec ფილმი"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Rec სერია"
 
 msgid "Reload"
-msgstr ""
+msgstr "გადატვირთვა"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "სიის გადატვირთვა\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "დასაკრავი სიების გადატვირთვა მიმდინარეობს..."
 
 msgid "Remove"
-msgstr ""
+msgstr "ამოღება"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "გსურთ დასაკრავი სიის ამოშლა თაიგულებიდან?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "წაიშალოს ჩამოტვირთვის ამოცანა {}-ისთვის?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "ფაილის წაშლა სიიდან\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "შლის ყველა თაიგულს, რომელიც იყო\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "რეზოლუციის შეცვლა ვერ მოხერხდა"
 
 msgid "Restart"
-msgstr ""
+msgstr "გადატვირთეთ"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "არხების სიაში დაბრუნება\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "რესურსი ვერ მოიძებნა (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "აირჩიეთ თქვენი არჩევანი"
 
 msgid "Save"
-msgstr ""
+msgstr "შენახვა"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "ჩამოტვირთვა: %d%% - სიჩქარე: %.1f KB/s - დარჩენილი დრო: %d წმ"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "განრიგის ტიპი:"
 
 msgid "Search"
-msgstr ""
+msgstr "ძიება"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "მოძებნეთ ლაივ/ფილმი"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "მოძებნეთ სათაური სიაში"
 
 msgid "Select"
-msgstr ""
+msgstr "აირჩიეთ"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "სერვერის პორტი"
 
 msgid "Server Password"
-msgstr ""
+msgstr "სერვერის პაროლი"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "სერვერის დროის ამოწურვა"
 
 msgid "Server URL"
-msgstr ""
+msgstr "სერვერის URL"
 
 msgid "Server Username"
-msgstr ""
+msgstr "სერვერის მომხმარებლის სახელი"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "დააყენეთ „Live Player Active“ პარამეტრებში:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "დააყენეთ „არა“ Live ჩანაწერისთვის\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "დააყენეთ სახელი MakerBouquet-ისთვის"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "პარამეტრები წარმატებით შენახულია!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "დაიწყეთ ყველა ეპიზოდის სერიის ჩამოტვირთვა\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "დაიწყეთ არჩეული არხის ჩამოტვირთვა ან ჩაწერა:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "შეაჩერე მოთამაშე გასვლისას"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "ფილმი არ არსებობს!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "თქვენ მიერ შეყვანილი პინ კოდი არასწორია."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "განახლების დაწყების დრო:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "დროის ამოწურვის სერვერი (წმ)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "კავშირის დრო ამოიწურა"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "უცნობი"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "განახლება შეწყდა!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "განახლების ინტერვალი (საათები):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Vod სერვისების ტიპი"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "ნამდვილად გსურთ ჩამოტვირთვის შეჩერება?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "დაელოდეთ... ჩამოტვირთვა მიმდინარეობს..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "სანაცვლოდ .m3u ფაილის გახსნისას:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "ყვითელი ღილაკი:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "თქვენ უნდა დააკონფიგურიროთ გამომავალი ტიპის\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "თქვენი სერვერის შესვლა და მონაცემების შეყვანა"
 
 msgid "fixed time"
-msgstr ""
+msgstr "ფიქსირებული დრო"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "ჰოსტი\t(მასპინძელი http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "ინტერვალი"
 
 msgid "not exist!"
-msgstr ""
+msgstr "არ არსებობს!"
 
 msgid "password\n"
-msgstr ""
+msgstr "პაროლი\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "პორტი\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "მომხმარებელი\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "დაელოდე გთხოვ..."

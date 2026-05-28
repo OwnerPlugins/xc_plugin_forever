@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "لم يتم اكتشاف %s!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(الزر الأزرق):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(الزر الأخضر):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(زر التسجيل):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(زر الإيقاف):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(الزر الأصفر):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,652 +42,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "جارٍ الإجهاض..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "الوصول غير المصرح به (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "تحديث الباقة التلقائي النشط"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "الشاشة الرئيسية النشطة كبيرة"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "ضبط المنطقة الزمنية"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "ضبط المنطقة الزمنية (ساعة)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى في وقت لاحق."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "على فترات زمنية أو في وقت محدد"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "التحديث التلقائي للباقة (الجدول الزمني):"
 
 msgid "Back"
-msgstr ""
+msgstr "خلف"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "باقة"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "نمط باقة"
 
 msgid "Cancel"
-msgstr ""
+msgstr "يلغي"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "لا يمكن تعديل حالة المهمة هذه"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "لا يمكن إيقاف/استئناف هذا العنصر"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "لا يمكن إزالة هذا العنصر"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "التحقق من قوائم المفضلة..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "اختر الدليل:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "اختر الدليل"
 
 msgid "Close"
-msgstr ""
+msgstr "يغلق"
 
 msgid "Config"
-msgstr ""
+msgstr "التكوين"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "خيارات إعداد التكوين\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "تكوين في وقت محدد"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "قم بتكوين كل فترة زمنية من الساعات من الآن"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "تكوين اسم الباقة المصدرة. الافتراضي هو myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "تكوين مرجع الخدمة Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "تكوين الخدمة المرجعية Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "تكوين نوع التحويل في القائمة المفضلة"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "تكوين لوضع باقات القوائم المحولة"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "تكوين نوع تنزيل الفيلم: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "قم بتكوين نوع الدفق ليتم تنزيله عن طريق التحويل"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "تهاني! لديك بالفعل الإصدار الأخير ..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "جارٍ الاتصال بالخادم..."
 
 msgid "Console"
-msgstr ""
+msgstr "وحدة التحكم"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "التحويل %s قيد التقدم:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "نوع التحويل الناتج"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "تحويل قائمة التشغيل إلى: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "إنشاء باقات XC Live/VOD\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "هل تريد تنزيل الفيديو؟"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "جارٍ التنزيل"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "تكوين خادم البيانات:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "عرض XCplugin في القائمة الرئيسية"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "هل تريد تحويل %s إلى .tv المفضل؟"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "هل تريد تثبيت التحديث (%s) الآن؟"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "هل تريد إزالة %s؟"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "هل تريد إزالة: %s ؟"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "هل تريد إزالة: %s؟"
 
 msgid "Download"
-msgstr ""
+msgstr "تحميل"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "فشل التنزيل!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "انتهى التنزيل!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "تنزيل ملف M3u؟"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "تحميل بيكونز؟"
 
 msgid "Download Type"
-msgstr ""
+msgstr "نوع التنزيل"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "تنزيل قناة VOD المحددة\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "تنزيل الفيديو \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "اكتمل التنزيل"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "تم التحميل بنجاح!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "خطأ في التحميل: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "فشل التنزيل مع رمز الإرجاع: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "فشل التنزيل:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "فشل التنزيل"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "تحميل في كورسو"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "تم إعادة تشغيل التنزيل: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "بدأ التنزيل: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "توقف التنزيل: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "تمت إزالة مهمة التنزيل"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "التنزيل: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "الملف الذي تم تنزيله صغير جدًا"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "لم يتم العثور على الملف الذي تم تنزيله"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "أدخل كلمة المرور"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "أدخل منفذ الخادم، على سبيل المثال: "8080""
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "أدخل عنوان URL للخادم بدون "http://" your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "أدخل اسم المستخدم"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "أدخل الرمز السري"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "دليل Epg أو imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "رمز الخطأ"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "خطأ في التحكم في التنزيل: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "حدث خطأ أثناء حذف الملف:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "خطأ في قراءة أو معالجة %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "خطأ في قراءة الملف أو معالجته: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "خطأ في إزالة المهمة: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "خطأ في التحقق من التنزيل: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "مخرج"
 
 msgid "Export"
-msgstr ""
+msgstr "يصدّر"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "تصدير ملف m3u إلى Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "فشل"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "فشل في جلب معلومات التحديث. يرجى التحقق من اتصالك بالإنترنت."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "فشل في تحليل معلومات التحديث. يرجى المحاولة مرة أخرى في وقت لاحق."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "الملف غير معروف !!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "لم يتم العثور على الملف أو أنه فارغ: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "لم يتم العثور على الملف!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "تصفية يوم سيء"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "تصفية هذه الفئة..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "أولاً حدد القائمة أو أدخلها في التكوين"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "مجلد ملف المستخدم .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "التنسيق:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "مساحة حرة"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "زر المساعدة:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "بيت"
 
 msgid "Help\n"
-msgstr ""
+msgstr "تعليمات\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "إخفاء/إظهار"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "إذا كان اللاعب نشطًا، قم بإيقاف إعادة إنتاج اللاعب عند الخروج"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "إذا كان لديك ملف:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "إذا كان لديك ملف\n"
 
 msgid "Import"
-msgstr ""
+msgstr "يستورد"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "استيراد الخادم من /etc/enigma2/iptv.sh؟"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "استيراد الخادم من /tmp/xc.tx؟"
 
 msgid "Info"
-msgstr ""
+msgstr "معلومات"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "بدء تشغيل متابعة التشغيل\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "عنوان URL غير صالح!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "تنسيق التاريخ غير صالح في معلومات التحديث."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "تنسيق الملف غير صالح: الأسطر غير كافية أو فارغة في %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "التنسيق غير صالح في %s. تعذر استخراج تفاصيل الخادم."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "نوع المهمة غير صالح أو غير معتمد"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "هل الدليل أو الملف غير موجود"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "آخر تحديث للقناة: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "الخط موجود بالفعل في قائمة التشغيل"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "تم إلحاق الخط بقائمة التشغيل"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "الرابط في القائمة الرئيسية"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "المشغل المباشر نشط في الإعداد: اضبط لا للسجل المباشر"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player للدفق .ts: قم بتعيين "لا" للسجل المباشر"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "نوع الخدمات المباشرة"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "لايف بلاير نشط"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "محمل M3u"
 
 msgid "Main"
-msgstr ""
+msgstr "رئيسي"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "الشاشة الرئيسية XL"
 
 msgid "Make"
-msgstr ""
+msgstr "يصنع"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "مجلد الوسائط"
 
 msgid "MediaPlayer\n"
-msgstr ""
+msgstr "مشغل الوسائط\n"
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "ملف مفقود أو فارغ: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "فيلم"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "مجلد الفيلم"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "تم حذف الفيلم بنجاح"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "تكوين باقة الاسم:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "تصدير باقة الاسم"
 
 msgid "Network error!"
-msgstr ""
+msgstr "خطأ في الشبكة!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "لم يتم تكوين خادم للتحميل !!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "لا يوجد فيديو للتنزيل/التسجيل!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "لا توجد بيانات أو قائمة تشغيل غير متوافقة مع XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "لم يتم تحديد أي فيلم!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "لم يتم تحديد مهمة!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "لا تتوفر معلومات التحديث."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "مسموح بحلقات المسلسل فقط !!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "يُسمح فقط بفيلم VOD !!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "افتح مجلد الفيلم\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "كلمة المرور='يييييييي'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "متوقف مؤقتًا"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "وقفة / استئناف"
 
 msgid "Picons IPTV"
-msgstr ""
+msgstr "بيكونز IPTV"
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "باقات Picons IPTV ل"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "ضع باقات IPTV على"
 
 msgid "Player"
-msgstr ""
+msgstr "لاعب"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "يرجى تكوين تفاصيل الخادم أولا"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "الرجاء إدخال الرقم السري الخاص بالرقابة الأبوية"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "جاري التحضير للتحميل..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "ضع ملفات .m3u في المجلد %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "ضع خطوطك على"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "إغلاق حقا دون حفظ الإعدادات؟"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "فيلم ريك"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "سلسلة التسجيل"
 
 msgid "Reload"
-msgstr ""
+msgstr "إعادة تحميل"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "إعادة تحميل القائمة\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "جاري إعادة تحميل قوائم التشغيل..."
 
 msgid "Remove"
-msgstr ""
+msgstr "يزيل"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "هل تريد إزالة قائمة التشغيل من الباقات؟"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "هل تريد إزالة مهمة التنزيل لـ {}؟"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "إزالة الملف من القائمة\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "إزالة كافة الباقات الموجودة\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "فشل تغيير القرار"
 
 msgid "Restart"
-msgstr ""
+msgstr "إعادة تشغيل"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "العودة إلى قائمة القنوات\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "لم يتم العثور على المصدر (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "حدد اختيارك"
 
 msgid "Save"
-msgstr ""
+msgstr "يحفظ"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "التنزيل: %d%% - السرعة: %.1f كيلو بايت/ثانية - الوقت المتبقي: %d ثانية"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "نوع الجدول الزمني:"
 
 msgid "Search"
-msgstr ""
+msgstr "يبحث"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "بحث مباشر/فيلم"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "ابحث عن عنوان في القائمة"
 
 msgid "Select"
-msgstr ""
+msgstr "يختار"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "ميناء الخادم"
 
 msgid "Server Password"
-msgstr ""
+msgstr "كلمة مرور الخادم"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "مهلة الخادم"
 
 msgid "Server URL"
-msgstr ""
+msgstr "عنوان URL للخادم"
 
 msgid "Server Username"
-msgstr ""
+msgstr "اسم مستخدم الخادم"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "قم بتعيين "اللاعب المباشر النشط" في الإعداد:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "قم بتعيين "لا" للتسجيل المباشر\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "تعيين اسم لـ MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "تم حفظ الإعدادات بنجاح!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "بدء تنزيل جميع حلقات السلسلة\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "بدء التنزيل أو تسجيل القناة المحددة:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "إيقاف اللاعب عند الخروج"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "الفيلم غير موجود!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "الرقم السري الذي أدخلته خاطئ."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "الوقت لبدء التحديث:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "خادم المهلة (ثانية)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "انتهت مهلة الاتصال"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "مجهول"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
-msgstr ""
+msgstr "اسم المستخدم='xxxxxxxxxxxx'\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "تم إحباط التحديث!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "الفاصل الزمني للتحديث (ساعات):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "نوع خدمات Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "هل تريد حقًا إيقاف التنزيل؟"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "انتظر... جاري التحميل ..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "عند فتح ملف ‎.m3u بدلاً من ذلك:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "الزر الأصفر:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "تحتاج إلى تكوين نوع الإخراج\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "تسجيل الدخول إلى الخادم الخاص بك وإدخال البيانات"
 
 msgid "fixed time"
-msgstr ""
+msgstr "وقت محدد"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(مضيف بدون http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "فاصلة"
 
 msgid "not exist!"
-msgstr ""
+msgstr "غير موجود!"
 
 msgid "password\n"
-msgstr ""
+msgstr "كلمة المرور\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "المنفذ\ن"
 
 msgid "user\n"
-msgstr ""
+msgstr "المستخدم\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "انتظر من فضلك..."

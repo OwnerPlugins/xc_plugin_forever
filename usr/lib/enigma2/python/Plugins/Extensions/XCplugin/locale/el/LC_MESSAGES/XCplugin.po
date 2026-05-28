@@ -16,25 +16,25 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%s"
-msgstr ""
+msgstr "%μικρό"
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s ΔΕΝ ΑΝΙΧΝΕΥΘΗΚΕ!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(ΜΠΛΕ ΚΟΥΜΠΙ):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(ΠΡΑΣΙΝΟ ΚΟΥΜΠΙ):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(ΚΟΥΜΠΙ ΕΓΓΡΑΦΗΣ):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(ΚΟΥΜΠΙ ΣΤΟΠ):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(ΚΙΤΡΙΝΟ ΚΟΥΜΠΙ):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -43,370 +43,370 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Ακύρωση..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Μη εξουσιοδοτημένη πρόσβαση (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Ενεργή αυτόματη ενημέρωση ανθοδέσμης"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Ενεργή κύρια οθόνη Μεγάλη"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Προσαρμόστε τη ζώνη ώρας"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Προσαρμογή ζώνης ώρας (ώρα)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Παρουσιάστηκε απροσδόκητο σφάλμα. Δοκιμάστε ξανά αργότερα."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Σε μεσοδιάστημα ωρών ή σε καθορισμένο χρόνο"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Αυτόματη ενημέρωση ανθοδέσμης (πρόγραμμα):"
 
 msgid "Back"
-msgstr ""
+msgstr "Πίσω"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Μπουκέτο"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Στυλ μπουκέτο"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ματαίωση"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Δεν είναι δυνατή η τροποποίηση αυτής της κατάστασης εργασίας"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Δεν είναι δυνατή η παύση/συνέχιση αυτού του στοιχείου"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Δεν είναι δυνατή η κατάργηση αυτού του στοιχείου"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Δείτε τις λίστες αγαπημένων..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Επιλέξτε Κατάλογο:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Επιλέξτε κατάλογο"
 
 msgid "Close"
-msgstr ""
+msgstr "Κοντά"
 
 msgid "Config"
-msgstr ""
+msgstr "Διαμόρφωση"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Επιλογές ρύθμισης παραμέτρων\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Ρύθμιση παραμέτρων σε καθορισμένο χρόνο"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Διαμορφώστε κάθε μεσοδιάστημα ωρών από τώρα"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Διαμόρφωση ονόματος του εξαγόμενου μπουκέτου. Η προεπιλογή είναι το myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Διαμόρφωση υπηρεσίας Αναφορά Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Διαμόρφωση υπηρεσίας Αναφορά Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Διαμορφώστε τον τύπο μετατροπής στη λίστα αγαπημένων"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Ρυθμίστε τις παραμέτρους για να τοποθετήσετε τα μπουκέτα των λιστών που έχουν μετατραπεί"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Διαμόρφωση τύπου λήψης ταινίας: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Διαμορφώστε τον τύπο ροής για λήψη με μετατροπή"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Συγχαρητήρια! Έχετε ήδη την πιο πρόσφατη έκδοση..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Σύνδεση στον διακομιστή..."
 
 msgid "Console"
-msgstr ""
+msgstr "Κονσόλα"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Μετατροπή %s σε εξέλιξη:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Τύπος μετατροπής Έξοδος"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Μετατροπή λίστας αναπαραγωγής σε: %s ;"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Δημιουργήστε μπουκέτα XC Live/VOD\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "ΛΗΨΗ ΒΙΝΤΕΟ;"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "ΛΗΨΗ"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Διαμόρφωση διακομιστή δεδομένων:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Εμφάνιση XCplugin στο κύριο μενού"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Θέλετε να μετατρέψετε το %s στο αγαπημένο .tv;"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Θέλετε να εγκαταστήσετε την ενημέρωση (%s) τώρα;"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Θέλετε να αφαιρέσετε το %s;"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Θέλετε να αφαιρέσετε: %s ;"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Θέλετε να αφαιρέσετε: %s;"
 
 msgid "Download"
-msgstr ""
+msgstr "Λήψη"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Η λήψη απέτυχε!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Η λήψη ολοκληρώθηκε!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Λήψη αρχείου M3u;"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Λήψη Picons ;"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Τύπος λήψης"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Λήψη επιλεγμένου καναλιού VOD\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Λήψη βίντεο \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Η λήψη ολοκληρώθηκε"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Η λήψη ολοκληρώθηκε με επιτυχία!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Σφάλμα λήψης: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Η λήψη απέτυχε με κωδικό επιστροφής: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Η λήψη απέτυχε:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Η λήψη απέτυχε"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Λήψη στο corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Η λήψη επανεκκινήθηκε: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Η λήψη ξεκίνησε: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Η λήψη σταμάτησε: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Η εργασία λήψης καταργήθηκε"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Λήψη: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Το ληφθέν αρχείο είναι πολύ μικρό"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Το ληφθέν αρχείο δεν βρέθηκε"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Εισαγάγετε τον κωδικό πρόσβασης"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Εισαγάγετε τη θύρα διακομιστή π.χ.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Εισαγάγετε τη διεύθυνση URL διακομιστή χωρίς "http://" your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Εισαγάγετε Όνομα χρήστη"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Εισαγάγετε τον κωδικό PIN"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Οδηγός Epg ή imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Κωδικός σφάλματος"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Σφάλμα κατά τον έλεγχο της λήψης: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Σφάλμα κατά τη διαγραφή του αρχείου:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Σφάλμα ανάγνωσης ή επεξεργασίας %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Σφάλμα κατά την ανάγνωση ή την επεξεργασία του αρχείου: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Σφάλμα κατά την κατάργηση εργασίας: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Σφάλμα κατά την επαλήθευση λήψης: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Εξοδος"
 
 msgid "Export"
-msgstr ""
+msgstr "Εξαγωγή"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Εξαγωγή αρχείου m3u στο Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "ΑΠΟΤΥΧΗΜΕΝΟΣ"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Αποτυχία λήψης πληροφοριών ενημέρωσης. Ελέγξτε τη σύνδεσή σας στο Διαδίκτυο."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Απέτυχε η ανάλυση των πληροφοριών ενημέρωσης. Δοκιμάστε ξανά αργότερα."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Αρχείο Άγνωστο!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Το αρχείο δεν βρέθηκε ή κενό: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Το αρχείο δεν βρέθηκε!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Φιλτράρετε την κακή μέρα"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Φιλτράρισμα αυτής της κατηγορίας..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Πρώτα Επιλέξτε τη λίστα ή εισάγετέ την στο Config"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Αρχείο χρήστη φακέλου .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Μορφή:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "Ελεύθερος Χώρος"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "ΚΟΥΜΠΙ ΒΟΗΘΕΙΑΣ:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "ΣΠΙΤΙ"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Βοήθεια\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Απόκρυψη/Εμφάνιση"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Εάν ο παίκτης είναι ενεργός ΣΤΑΜΑΤΗΣΤΕ την αναπαραγωγή αναπαραγωγής κατά την έξοδο"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Εάν έχετε αρχείο:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Εάν έχετε αρχείο\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Εισαγωγή"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Εισαγωγή διακομιστή από το /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Εισαγωγή διακομιστή από το /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Πληροφορίες"
 
 msgid "Init Continue Play\n"
 msgstr ""
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Μη έγκυρη διεύθυνση URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Μη έγκυρη μορφή ημερομηνίας στις πληροφορίες ενημέρωσης."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Μη έγκυρη μορφή αρχείου: δεν υπάρχουν αρκετές ή κενές γραμμές στο %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Μη έγκυρη μορφή σε %s. Δεν ήταν δυνατή η εξαγωγή των λεπτομερειών διακομιστή."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Μη έγκυρος ή μη υποστηριζόμενος τύπος εργασίας"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Δεν υπάρχει κατάλογος ή αρχείο"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Τελευταία ενημέρωση καναλιού: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Η γραμμή υπάρχει ήδη στη λίστα αναπαραγωγής"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Η γραμμή προστέθηκε στη λίστα αναπαραγωγής"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Σύνδεσμος στο Κύριο Μενού"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Ζωντανή συσκευή αναπαραγωγής Ενεργή στη ρύθμιση: ορίστε No για εγγραφή ζωντανά"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player για Stream .ts: ορίστε No για εγγραφή ζωντανά"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Τύπος Ζωντανών Υπηρεσιών"
 
 msgid "LivePlayer Active"
 msgstr ""
@@ -415,280 +415,280 @@ msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "Φορτωτής M3u"
 
 msgid "Main"
-msgstr ""
+msgstr "Κύριος"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Κύρια οθόνη XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Μάρκα"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Φάκελος πολυμέσων"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Λείπει ή κενό αρχείο: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Ταινία"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Φάκελος ταινίας"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Η ταινία διαγράφηκε με επιτυχία"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Διαμόρφωση μπουκέτο ονόματος:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Όνομα Μπουκέτο Εξαγωγή"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Σφάλμα δικτύου!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Κανένας διακομιστής δεν έχει ρυθμιστεί για λήψη!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Δεν υπάρχει βίντεο για λήψη/εγγραφή!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Δεν υπάρχουν δεδομένα ή λίστα αναπαραγωγής που δεν είναι συμβατά με το XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Δεν έχει επιλεγεί ταινία!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Δεν επιλέχθηκε καμία εργασία!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Δεν υπάρχουν διαθέσιμες πληροφορίες ενημέρωσης."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Επιτρέπονται μόνο επεισόδια σειρών!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Επιτρέπεται μόνο ταινία VOD!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Ανοίξτε τον φάκελο ταινιών\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD='εεεεεεεε'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "ΣΕ ΠΑΥΣΗ"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Παύση/Συνέχιση"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV μπουκέτα για να"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Τοποθετήστε μπουκέτα IPTV στο"
 
 msgid "Player"
-msgstr ""
+msgstr "Παίχτης"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Διαμορφώστε πρώτα τα στοιχεία του διακομιστή"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Εισαγάγετε τον κωδικό pin γονικού ελέγχου"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Προετοιμασία λήψης..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Τοποθετήστε τα αρχεία .m3u στον φάκελο %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Βάλτε τις γραμμές σας στο"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Κλείσιμο πραγματικά χωρίς αποθήκευση ρυθμίσεων;"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Rec Ταινία"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Σειρά Rec"
 
 msgid "Reload"
-msgstr ""
+msgstr "Γεμίζω πάλι"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Επαναφόρτωση λίστας\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Επαναφόρτωση λιστών αναπαραγωγής σε εξέλιξη..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Αφαιρώ"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Κατάργηση λίστας αναπαραγωγής από Μπουκέτα;"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Κατάργηση εργασίας λήψης για {};"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Κατάργηση αρχείου από τη λίστα\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Αφαιρεί όλα τα μπουκέτα που έχουν\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Η αλλαγή ανάλυσης απέτυχε"
 
 msgid "Restart"
-msgstr ""
+msgstr "Επανεκκίνηση"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Επιστροφή στη Λίστα καναλιών\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Ο πόρος δεν βρέθηκε (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ΕΠΙΛΕΞΤΕ ΤΗΝ ΕΠΙΛΟΓΗ ΣΑΣ"
 
 msgid "Save"
-msgstr ""
+msgstr "Εκτός"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Λήψη: %d%% - Ταχύτητα: %.1f KB/s - Χρόνος που απομένει: %d δευτ."
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Τύπος προγράμματος:"
 
 msgid "Search"
-msgstr ""
+msgstr "Ερευνα"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Αναζήτηση LIve/Ταινίας"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Αναζητήστε έναν τίτλο στη λίστα"
 
 msgid "Select"
-msgstr ""
+msgstr "Επιλέγω"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "ΘΥΡΑ διακομιστή"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Κωδικός διακομιστή"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Λήξη χρονικού ορίου διακομιστή"
 
 msgid "Server URL"
-msgstr ""
+msgstr "URL διακομιστή"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Όνομα χρήστη διακομιστή"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Ορίστε το "Live Player Active" στη Ρύθμιση:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Ορίστε "Όχι" για ζωντανή εγγραφή\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Ορισμός ονόματος για το MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν με επιτυχία!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Ξεκινήστε τη λήψη όλων των σειρών επεισοδίων\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Έναρξη λήψης ή εγγραφή επιλεγμένου καναλιού:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Διακοπή του προγράμματος αναπαραγωγής κατά την έξοδο"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Η ταινία δεν υπάρχει!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Ο κωδικός PIN που εισαγάγατε είναι λάθος."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Ώρα έναρξης ενημέρωσης:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Διακομιστής χρονικού ορίου λήξης (δευτ.)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Το χρονικό όριο της σύνδεσης έληξε"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "ΑΓΝΩΣΤΟΣ"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Η ενημέρωση ματαιώθηκε!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Μεσοδιάστημα ενημέρωσης (ώρες):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Τύπος υπηρεσιών Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Θέλετε πραγματικά να διακόψετε τη λήψη;"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Περιμένετε... η λήψη σε εξέλιξη..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Κατά το άνοιγμα ενός αρχείου .m3u:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "ΚΙΤΡΙΝΟ ΚΟΥΜΠΙ:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Πρέπει να διαμορφώσετε τον τύπο εξόδου\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Είσοδος στο διακομιστή σας και εισαγωγή δεδομένων"
 
 msgid "fixed time"
-msgstr ""
+msgstr "σταθερό χρόνο"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host\t(κεντρικός υπολογιστής χωρίς http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "διάστημα"
 
 msgid "not exist!"
-msgstr ""
+msgstr "δεν υπάρχει!"
 
 msgid "password\n"
-msgstr ""
+msgstr "κωδικός πρόσβασης\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "λιμάνι\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "χρήστη\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "περίμενε παρακαλώ..."

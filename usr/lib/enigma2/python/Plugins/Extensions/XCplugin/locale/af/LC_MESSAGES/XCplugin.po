@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s NIE OPGESPREEK NIE!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(BLOU KNOP):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(GROEN KNOP):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(REC-KNOP):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(STOPKNOP):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(GEL KNOPPIE):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,64 +42,64 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Stop tans …"
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Ongemagtigde toegang (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktiewe outomatiese boeketopdatering"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Aktiewe hoofskerm groot"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Pas Tydsone aan"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Pas Tydsone (uur) aan"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "'n Onverwagte fout het voorgekom. Probeer asseblief later weer."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "Met 'n interval van ure of op 'n vasgestelde tyd"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Outomatiese boeketopdatering (skedule):"
 
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Boeket"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Boeket styl"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselleer"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Kan nie hierdie taakstatus wysig nie"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Kan nie hierdie item onderbreek/hervat nie"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Kan nie hierdie item verwyder nie"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Kyk na gunstelinglyste..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Kies gids:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Kies gids"
 
 msgid "Close"
-msgstr ""
+msgstr "Maak toe"
 
 msgid "Config"
 msgstr ""
@@ -108,586 +108,586 @@ msgid "Config Setup Options\n"
 msgstr ""
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Konfigureer op 'n vaste tyd"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Konfigureer elke interval van ure van nou af"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Stel naam van uitgevoerde boeket op. Standaard is myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Stel diensverwysing op Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Stel diensverwysing op Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Stel die tipe omskakeling in die gunstelinglys op"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Stel op om die ruikers van die omgeskakelde lyste te plaas"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Stel tipe aflaai fliek op: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Stel die tipe stroom op wat deur omskakeling afgelaai moet word"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Geluk! Jy het reeds die nuutste weergawe..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Koppel tans aan die bediener …"
 
 msgid "Console"
-msgstr ""
+msgstr "Konsole"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Omskakeling %s aan die gang:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Omskakelingstipe Uitset"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Skakel snitlys om na: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Skep XC Live/VOD-boekette\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "LAAI VIDEO AF?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "AFLAAI"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Databedienerkonfigurasie:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Wys XCplugin in Hoofkieslys"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Wil jy %s omskakel na gunsteling .tv?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Wil jy nou opdatering (%s) installeer?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Wil jy %s verwyder?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Wil jy: %s verwyder?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Wil jy verwyder: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Laai af"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Aflaai het misluk!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Aflaai klaar!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Laai M3u-lêer af?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Laai Picons af?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Aflaai Tipe"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Laai VOD geselekteerde kanaal af\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Laai video af \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Aflaai voltooi"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Aflaai suksesvol voltooi!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Aflaaifout: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Aflaai het misluk met terugkeerkode: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Aflaai het misluk:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Kon nie aflaai nie"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Laai af in corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Aflaai herbegin: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Aflaai het begin: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Aflaai gestop: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Aflaaitaak is verwyder"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Aflaai: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Afgelaaide lêer is te klein"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Afgelaaide lêer nie gevind nie"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Voer Wagwoord in"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Voer bedienerpoort in, bv.:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Voer bediener-URL in sonder 'http://' jou_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Voer Gebruikersnaam in"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Voer pinkode in"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg-gids of imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Foutkode"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Kon nie aflaai beheer nie: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Kon nie die lêer uitvee nie:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Kon nie %s lees of verwerk nie: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Kon nie die lêer lees of verwerk nie: %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Kon nie taak verwyder nie: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Kon nie aflaai verifieer nie: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Verlaat"
 
 msgid "Export"
-msgstr ""
+msgstr "Uitvoer"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Voer lêer m3u uit na Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "MISLUK"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Kon nie opdateringsinligting gaan haal nie. Gaan asseblief jou internetverbinding na."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Kon nie opdateringinligting ontleed nie. Probeer asseblief later weer."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Lêer onbekend!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Lêer nie gevind nie of leeg: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Lêer nie gevind nie!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Filter slegte dag"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtreer hierdie kategorie..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Kies eers die lys of voer dit in Config in"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Gidsgebruikerlêer .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Formaat:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "Vrye spasie"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "HELP-KNOP:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "TUIS"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Hulp\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Versteek/Wys"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "As speler aktief STOP speler riproduksie by uitgang"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "As jy 'n lêer het:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "As jy 'n lêer het\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Invoer"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Voer bediener in vanaf /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Voer bediener in vanaf /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Inligting"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Init Gaan voort speel\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Ongeldige URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Ongeldige datumformaat in opdateringinligting."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Ongeldige lêerformaat: nie genoeg of leë reëls in %s nie"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Ongeldige formaat in %s. Kon nie bedienerbesonderhede onttrek nie."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Ongeldige of ongesteunde werktipe"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Is Gids of lêer nie bestaan ​​nie"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Laaste kanaalopdatering: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Lyn bestaan ​​reeds in snitlys"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Reël by snitlys gevoeg"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Skakel in Hoofkieslys"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Regstreekse speler aktief in instelling: stel Nee vir Regstreeks op"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Regstreekse speler vir stroom .ts: stel Nee vir Regstreeks op"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Tipe lewendige dienste"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer aktief"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u-laaier"
 
 msgid "Main"
-msgstr ""
+msgstr "Hoof"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Hoofskerm XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Maak"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Media-lêergids"
 
 msgid "MediaPlayer\n"
-msgstr ""
+msgstr "Mediaspeler\n"
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Ontbrekende of leë lêer: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Fliek"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Filmgids"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Fliek is suksesvol uitgevee"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Naam boeket konfigurasie:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Naam Boeket Uitvoer"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Netwerkfout!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Geen bediener gekonfigureer om af te laai nie!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Geen video om af te laai/op te neem nie!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Geen data of snitlys is nie versoenbaar met XCplugin nie."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Geen fliek gekies nie!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Geen taak gekies nie!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Geen opdateringsinligting beskikbaar nie."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Slegs reeks episodes toegelaat!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Slegs VOD-fliek toegelaat!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Maak fliekvouer oop\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
 msgstr ""
 
 msgid "PAUSED"
-msgstr ""
+msgstr "GEPUSEER"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Pouse/Hervat"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV ruikers aan"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Plaas IPTV-ruikers by"
 
 msgid "Player"
-msgstr ""
+msgstr "Speler"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Stel asseblief eers die bedienerbesonderhede op"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Voer asseblief die ouerkontrole-pinkode in"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Berei tans die aflaai voor..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Plaas .m3u-lêers in vouer %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Sit jou lyne na die"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Regtig toemaak sonder om instellings te stoor?"
 
 msgid "Rec Movie"
 msgstr ""
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Reeks Reeks"
 
 msgid "Reload"
-msgstr ""
+msgstr "Herlaai"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Herlaai lys\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Herlaai snitlyste aan die gang..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Verwyder"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Verwyder snitlys van ruikers?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Verwyder aflaaitaak vir {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Verwyder lêer van lys\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Verwyder al die ruikers wat\n was"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Resolusieverandering het misluk"
 
 msgid "Restart"
-msgstr ""
+msgstr "Herbegin"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Keer terug na kanalelys\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Hulpbron nie gevind nie (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "KIES JOU KEUSE"
 
 msgid "Save"
-msgstr ""
+msgstr "Stoor"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Aflaai: %d%% - Spoed: %.1f KB/s - Oorblywende tyd: %d sek"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Skedule tipe:"
 
 msgid "Search"
-msgstr ""
+msgstr "Soek"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Soek regstreeks/film"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Soek vir 'n titel in die lys"
 
 msgid "Select"
-msgstr ""
+msgstr "Kies"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "Bediener PORT"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Bediener wagwoord"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Bediener Timeout"
 
 msgid "Server URL"
-msgstr ""
+msgstr "Bediener URL"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Bediener gebruikersnaam"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Stel 'Regstreekse speler aktief' in Instelling:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Stel 'Nee' vir Record Live\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Stel naam vir MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Instellings suksesvol gestoor!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Begin aflaai van alle episodes-reeks\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Begin aflaai of neem geselekteerde kanaal op:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Stop speler by uitgang"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Die fliek bestaan ​​nie!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Die pinkode wat jy ingevoer het, is verkeerd."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Tyd om opdatering te begin:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Uittelbediener (sek.)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Verbinding het uitgetel"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "ONBEKEND"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Opdatering gestop!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Opdateringsinterval (ure):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Vod Dienste Tipe"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Wil jy regtig die aflaai stop?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Wag ... besig om af te laai ..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Wanneer jy eerder 'n .m3u-lêer oopmaak:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "GEEL KNOP:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Jy moet die tipe uitset konfigureer\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Jou bedieneraanmelding en data-invoer"
 
 msgid "fixed time"
-msgstr ""
+msgstr "vaste tyd"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "gasheer\t(gasheer sonder http:// )\n"
 
 msgid "interval"
 msgstr ""
 
 msgid "not exist!"
-msgstr ""
+msgstr "bestaan ​​nie!"
 
 msgid "password\n"
-msgstr ""
+msgstr "wagwoord\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "poort\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "gebruiker\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "wag asseblief..."

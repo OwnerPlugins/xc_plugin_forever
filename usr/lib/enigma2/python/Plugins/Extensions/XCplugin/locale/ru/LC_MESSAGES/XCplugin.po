@@ -19,22 +19,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s НЕ ОБНАРУЖЕН!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(СИНЯЯ КНОПКА):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(ЗЕЛЕНАЯ КНОПКА):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(КНОПКА ЗАПИСИ):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(КНОПКА СТОП):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(ЖЕЛТАЯ КНОПКА):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -43,652 +43,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Прерывание..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Несанкционированный доступ (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Активное автоматическое обновление букета"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Активный главный экран, большой"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Настроить часовой пояс"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Настроить часовой пояс (часы)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Произошла непредвиденная ошибка. Пожалуйста, повторите попытку позже."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "С интервалом в несколько часов или в фиксированное время"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Автоматическое обновление букета (по расписанию):"
 
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Букет"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Стиль букета"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Невозможно изменить статус этой задачи"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Невозможно приостановить/возобновить этот элемент."
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Невозможно удалить этот элемент"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Проверьте списки избранных..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Выберите каталог:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Выберите каталог"
 
 msgid "Close"
-msgstr ""
+msgstr "Закрывать"
 
 msgid "Config"
-msgstr ""
+msgstr "Конфигурация"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Параметры настройки конфигурации\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Настройка в фиксированное время"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Настройте каждый интервал часов с этого момента"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Настройте имя экспортируемого букета. По умолчанию — myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Справочник по настройке службы Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Ссылка на настройку службы IPTV-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Настройте тип конверсии в списке избранных"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Настроить размещение букетов конвертированных списков"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Настройте тип загрузки фильма: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Настройте тип потока, который будет загружен путем преобразования."
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Поздравляю! У вас уже установлена ​​последняя версия..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "Подключение к серверу..."
 
 msgid "Console"
-msgstr ""
+msgstr "Консоль"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Выполняется преобразование %s:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Тип преобразования Выход"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Преобразовать список воспроизведения в: %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Создание букетов XC Live/VOD\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "СКАЧАТЬ ВИДЕО?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "СКАЧИВАНИЕ"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Конфигурация сервера данных:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Отображение XCplugin в главном меню"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Вы хотите конвертировать %s в любимый .tv?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Вы хотите установить обновление (%s) сейчас?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Вы хотите удалить %s?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Вы хотите удалить: %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Вы хотите удалить: %s?"
 
 msgid "Download"
-msgstr ""
+msgstr "Скачать"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Загрузка не удалась!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Загрузка завершена!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Скачать файл M3u?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Скачать Пиконы?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Тип загрузки"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Загрузить выбранный канал VOD\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Скачать видео \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Загрузка завершена"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Загрузка завершена успешно!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Ошибка загрузки: %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Загрузка не удалась, код возврата: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Загрузка не удалась:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Загрузка не удалась"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Скачать на корсо"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Загрузка возобновлена: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Загрузка началась: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Загрузка остановлена: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "Задача скачивания удалена."
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Скачать: %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Загруженный файл слишком мал"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Загруженный файл не найден"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Введите пароль"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Введите порт сервера, например: «8080»."
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Введите URL-адрес сервера без http:// your_domine"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Введите имя пользователя"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Введите пин-код"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Руководство по Epg или imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Код ошибки"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Ошибка управления загрузкой: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Ошибка удаления файла:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Ошибка чтения или обработки %s: %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Ошибка чтения или обработки файла: %s."
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Ошибка удаления задачи: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Ошибка проверки загрузки: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Выход"
 
 msgid "Export"
-msgstr ""
+msgstr "Экспорт"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Экспорт файла m3u в Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "НЕУСПЕШНЫЙ"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Не удалось получить информацию об обновлении. Пожалуйста, проверьте подключение к Интернету."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Не удалось проанализировать информацию об обновлении. Пожалуйста, повторите попытку позже."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Файл неизвестен!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Файл не найден или пуст: %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Файл не найден!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Фильтр «Плохой день»"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Отфильтровать эту категорию..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "Сначала выберите список или введите его в Config."
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Пользовательский файл папки .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "Формат:\n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "Свободное пространство"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "КНОПКА ПОМОЩИ:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "ДОМ"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Помощь\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Скрыть/Показать"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Если игрок активен, ОСТАНОВИТЕ воспроизведение игрока при выходе."
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "Если у вас есть файл:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "Если у вас есть файл\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Импорт"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Импортировать сервер из /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Импортировать сервер из /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Информация"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Инициал. Продолжить воспроизведение\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "Неверный URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Неверный формат даты в информации об обновлении."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Неверный формат файла: недостаточно или пустые строки в %s."
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Неверный формат в %s. Не удалось извлечь сведения о сервере."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Недопустимый или неподдерживаемый тип задания."
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Каталог или файл не существует?"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Последнее обновление канала: %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "Строка уже существует в плейлисте"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Строка добавлена ​​в плейлист"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Ссылка в главном меню"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Живой проигрыватель активен в настройках: установите «Нет» для записи в реальном времени."
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Live Player для потока .ts: установите «Нет» для записи в реальном времени."
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Тип интерактивных служб"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer активен"
 
 msgid "M3u"
-msgstr ""
+msgstr "М3у"
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "M3u Загрузчик"
 
 msgid "Main"
-msgstr ""
+msgstr "Основной"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Главный экран XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Делать"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Медиа-папка"
 
 msgid "MediaPlayer\n"
-msgstr ""
+msgstr "Медиаплеер\n"
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Отсутствует или пустой файл: %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Фильм"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Папка с фильмами"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Фильм успешно удален"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Имя Конфигурация букета:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Имя Букет Экспорт"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Ошибка сети!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Сервер не настроен для загрузки!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Нет видео для скачивания/записи!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Нет данных или плейлиста, несовместимого с XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Фильм не выбран!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Задача не выбрана!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Информация об обновлении отсутствует."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Разрешены только серии сериалов!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Разрешены только фильмы по запросу!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Открыть папку с фильмами\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "ПАРОЛЬ='yyyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "ПРИОСТАНОВЛЕНО"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Пауза/возобновление"
 
 msgid "Picons IPTV"
-msgstr ""
+msgstr "Пиконы IPTV"
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Букеты Picons IPTV для"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Разместите букеты IPTV на"
 
 msgid "Player"
-msgstr ""
+msgstr "Игрок"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Пожалуйста, сначала настройте данные сервера"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Пожалуйста, введите пин-код родительского контроля"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Подготовка к загрузке..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Поместите файлы .m3u в папку %s."
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Поместите свои строки в"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Действительно закрыть без сохранения настроек?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Запись фильма"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Серия записей"
 
 msgid "Reload"
-msgstr ""
+msgstr "Перезагрузить"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Обновить список\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Выполняется перезагрузка плейлистов..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Удалять"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Удалить плейлист из букетов?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Удалить задачу загрузки для {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Удалить файл из списка\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Удаляет все букеты, которые были\n"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Изменение разрешения не удалось"
 
 msgid "Restart"
-msgstr ""
+msgstr "Перезапуск"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Вернуться к списку каналов\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Ресурс не найден (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ВЫБЕРИТЕ СВОЙ ВЫБОР"
 
 msgid "Save"
-msgstr ""
+msgstr "Сохранять"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Загрузка: %d%% - Скорость: %.1f КБ/с - Оставшееся время: %d сек."
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Тип расписания:"
 
 msgid "Search"
-msgstr ""
+msgstr "Поиск"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Поиск в прямом эфире/фильме"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Поиск названия в списке"
 
 msgid "Select"
-msgstr ""
+msgstr "Выбирать"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "ПОРТ сервера"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Пароль сервера"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Тайм-аут сервера"
 
 msgid "Server URL"
-msgstr ""
+msgstr "URL-адрес сервера"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Имя пользователя сервера"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Установите «Живой игрок активен» в настройках:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Установите «Нет» для записи в реальном времени\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Установить имя для MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Настройки успешно сохранены!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Начать загрузку всех серий\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Начать загрузку или запись выбранного канала:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Остановить игрока при выходе"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Фильма не существует!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Введенный вами пин-код неверен."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Время начать обновление:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Тайм-аут сервера (сек)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "Время подключения истекло"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "НЕИЗВЕСТНЫЙ"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
-msgstr ""
+msgstr "ИМЯ ПОЛЬЗОВАТЕЛЯ = 'xxxxxxxxxxxx'\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Обновление прервано!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Интервал обновления (часы):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Тип услуги видео"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Вы действительно хотите остановить загрузку?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Подождите... идет загрузка..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Вместо этого при открытии файла .m3u:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "ЖЕЛТАЯ КНОПКА:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Вам необходимо настроить тип вывода\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Вход на ваш сервер и ввод данных"
 
 msgid "fixed time"
-msgstr ""
+msgstr "фиксированное время"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "хост\t(хост без http:// )\n"
 
 msgid "interval"
-msgstr ""
+msgstr "интервал"
 
 msgid "not exist!"
-msgstr ""
+msgstr "не существует!"
 
 msgid "password\n"
-msgstr ""
+msgstr "пароль\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "порт\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "пользователь\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "подожди, пожалуйста..."

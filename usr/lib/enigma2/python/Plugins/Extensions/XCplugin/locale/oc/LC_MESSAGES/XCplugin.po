@@ -18,22 +18,22 @@ msgid "%s"
 msgstr ""
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "%s PAS DETECTAT !"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(BOTON BLAU):\n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(BOTON VERD):\n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(BOTON DE REC):\n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(BOTON DE ARRESTA):\n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(BOTON JAUNE):\n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,652 +42,652 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "Avortar..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "Accès non autorizat (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Mesa a jorn automatica activa del ramèl"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "Ecran principal actiu grand"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "Ajustar lo fus orari"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "Ajustar lo fus orari (ora)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "Una error inesperada s'es producha. Ensajatz tornar mai tard."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "A un interval d'oras o a un moment fixe"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "Mesa a jorn automatica del ramelet (programa):"
 
 msgid "Back"
-msgstr ""
+msgstr "Arrièr"
 
 msgid "Bouquet"
-msgstr ""
+msgstr "Boquet"
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "Estil de ramèl"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Anullar"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "Pòt pas modificar l'estat d'aqueste prètzfach"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "Pòt pas pausar/reprene aqueste element"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "Pòt pas suprimir aqueste element"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "Consultatz las listas de favorits..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "Causissètz Repertòri :"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "Causissètz lo repertòri"
 
 msgid "Close"
-msgstr ""
+msgstr "Barrar"
 
 msgid "Config"
-msgstr ""
+msgstr "Configuracion"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "Opcions de configuracion de configuracion\n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Configurar a un moment fixe"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "Configurar cada interval d'oras a partir d'ara"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "Configurar lo nom del ramelet exportat. Per defaut es myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Configurar lo servici Referéncia Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Configurar lo servici Referéncia Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "Configurar lo tipe de conversion dins la lista dels favorits"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "Configurar per plaçar los ramèls de las listas convertidas"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "Configurar lo tipe de telecargament de filme: JobManager/Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "Configurar lo tipe de flux a telecargar per conversion"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "Felicitacions! Avètz ja la darrièra version..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "En se connectant al servidor..."
 
 msgid "Console"
-msgstr ""
+msgstr "Consòla"
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "Conversion %s en cors :"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "Tipe de conversion Sortida"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "Convertir la lista de lectura en : %s ?"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "Crear XC Live/VOD Bouquets\n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "TELECARGAR VÍDEO?"
 
 msgid "DOWNLOADING"
-msgstr ""
+msgstr "TELECARGAMENT"
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "Configuracion del servidor de donadas:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "Afichar XCplugin dins lo menú principal"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "Volètz convertir %s en .tv favorit ?"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "Volètz installar la mesa a jorn (%s) ara ?"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "Volètz suprimir %s ?"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "Volètz suprimir : %s ?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "Volètz suprimir : %s ?"
 
 msgid "Download"
-msgstr ""
+msgstr "Descargar"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "Lo telecargament fracassat!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "Telecargar acabat!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "Telecargar lo fichièr M3u?"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "Telecargar Picons ?"
 
 msgid "Download Type"
-msgstr ""
+msgstr "Tipe de telecargament"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "Telecargar VOD canal seleccionat\n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Telecargar Vidèo \n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "Telecargament acabat"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "Telecargament acabat amb succès!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "Error de telecargament : %s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "Lo telecargament a fracassat amb lo còde de retorn : {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "Lo telecargament a fracassat :"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "Lo telecargament a fracassat"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Telecargar en corso"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "Telecargament reaviat : {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "Telecargament començat : {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "Lo telecargament arrestat : {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "La tòca de telecargament suprimida"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "Telecargar : %d%%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "Lo fichièr telecargat es tròp pichon"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "Fichièr telecargat pas trobat"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "Picatz lo senhal"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "Picatz lo pòrt del servidor per exemple:'8080'"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "Picatz l'url del servidor sens 'http://' vòstre_domeni"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "Picatz lo nom d'utilizaire"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "Picatz lo còde pin"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg guida o imdb/tmdb\n"
 
 msgid "Error code"
-msgstr ""
+msgstr "Còde d'error"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "Error al contraròtle del telecargament : {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "Error al moment de la supression del fichièr :"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "Error al moment de la lectura o del tractament de %s : %s"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "Error al moment de la lectura o del tractament del fichièr : %s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "Error al moment de suprimir lo prètzfach : {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "Error al moment de la verificacion del telecargament : {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Sortida"
 
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "Exportar lo fichièr m3u cap a Bouquet .tv\n"
 
 msgid "FAILED"
-msgstr ""
+msgstr "MANCAT"
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "Fracàs al moment de la recuperacion d'informacions de mesa a jorn. Verificatz vòstra connexion a internet."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "Fracàs al moment de l'analisi de las informacions de mesa a jorn. Ensajatz tornar mai tard."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "Fichièr Desconegut!!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "Fichièr pas trobat o void : %s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "Fichièr pas trobat !"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "Filtre marrit jorn"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "Filtrar aquesta categoria..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "D'en primièr Seleccionatz la lista o picatz-la dins la configuracion"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "Fichièr d'utilizaire del dorsièr .xml"
 
 msgid "Format:\n"
 msgstr ""
 
 msgid "Free Space"
-msgstr ""
+msgstr "Espaci liure"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "BOTON DE AJUDA:\n"
 
 msgid "HOME"
-msgstr ""
+msgstr "OSTAL"
 
 msgid "Help\n"
-msgstr ""
+msgstr "Ajuda\n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Amagar/Afichar"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "Se lo jogaire es actiu ARRESTA la riproduccion del jogaire a la sortida"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "S'avètz un fichièr:\n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "S'avètz un fichièr\n"
 
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "Importar lo servidor dempuèi /etc/enigma2/iptv.sh?"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "Importar lo servidor dempuèi /tmp/xc.tx?"
 
 msgid "Info"
-msgstr ""
+msgstr "Informacions"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Init Contunhar de jogar\n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "URL pas valida!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "Format de data invalid dins las informacions de mesa a jorn."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "Format de fichièr invalid : pas pro o de linhas voidas dins %s"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "Format invalid dins %s. Impossible d'extraire los detalhs del servidor."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "Tipe de trabalh invalid o pas suportat"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "Existisson pas un repertòri o un fichièr"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Darrièra mesa a jorn del canal : %s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "La linha existís ja dins la lista de lectura"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "Linha aponduda a la lista de lectura"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Ligam dins lo menut principal"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "Lector en dirècte actiu dins lo paramètre: definir Non per Enregistrar en dirècte"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Lector en dirècte per la difusion .ts: fixar No per Enregistrar en dirècte"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "Tipe de servicis en dirècte"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer actiu"
 
 msgid "M3u"
 msgstr ""
 
 msgid "M3u Loader"
-msgstr ""
+msgstr "Carregador M3u"
 
 msgid "Main"
-msgstr ""
+msgstr "Principal"
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "Ecran principal XL"
 
 msgid "Make"
-msgstr ""
+msgstr "Far"
 
 msgid "Media Folder"
-msgstr ""
+msgstr "Dòrsièr mèdias"
 
 msgid "MediaPlayer\n"
 msgstr ""
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "Fichièr mancant o void : %s"
 
 msgid "Movie"
-msgstr ""
+msgstr "Film"
 
 msgid "Movie Folder"
-msgstr ""
+msgstr "Dossièr de filmes"
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "Lo filme es estat suprimit amb succès"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "Nom Configuracion del ramelet:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Nom Boquet Exportacion"
 
 msgid "Network error!"
-msgstr ""
+msgstr "Error de ret !"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "Cap de servidor configurat per telecargar!!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "Pas de vidèo per telecargar/enregistrar!!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "Pas de donadas o de lista de lectura pas compatibles amb XCplugin."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "Pas cap de filme seleccionat!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "Pas cap de prètzfach seleccionat!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "Cap d'informacion de mesa a jorn disponibla."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "Sonque los episòdis de sèria autorizats!!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "Sonque la pellicula VOD autorizada!!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "Dobrir lo dorsièr de filme\n"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "CONTRASEÑA='yyyyyyyy'\n"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "PAUSA"
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "Pausa/Reprene"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Ramos de Picons IPTV a"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "Plaçatz de rams IPTV a"
 
 msgid "Player"
-msgstr ""
+msgstr "Jogaire"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "Mercés de configurar los detalhs del servidor d'en primièr"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "Picatz lo còde pin de contraròtle parental"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "Preparant lo telecargament..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr "Metètz los fichièrs .m3u dins lo dorsièr %s"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "Metètz vòstras linhas a la"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Barrar vertadièrament sens enregistrar los paramètres?"
 
 msgid "Rec Movie"
-msgstr ""
+msgstr "Film de Rec"
 
 msgid "Rec Series"
-msgstr ""
+msgstr "Sèria de Rec"
 
 msgid "Reload"
-msgstr ""
+msgstr "Recargar"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "Recargar la lista\n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "Recargar las listas de lectura en cors..."
 
 msgid "Remove"
-msgstr ""
+msgstr "Levar"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "Suprimir la lista de reproduccion de Bouquets?"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Suprimir lo prètzfach de telecargament per {}?"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "Suprimir lo fichièr de la lista\n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "Leva totes los ramèls que son estats"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "Cambiament de resolucion a fracassat"
 
 msgid "Restart"
-msgstr ""
+msgstr "Reaviar"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "Tornar a la lista de canals\n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "Ressorsa pas trobada (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "SELECCIONATZ VÒSTRA CAUSSION"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "Telecargament: %d%% - Velocitat: %.1f KB/s - Temps restant: %d sec"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Tipe d'oraris:"
 
 msgid "Search"
-msgstr ""
+msgstr "Cercar"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "Cercar en dirècte/Film"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "Cercar un títol dins la lista"
 
 msgid "Select"
-msgstr ""
+msgstr "Causir"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "PÒRT del servidor"
 
 msgid "Server Password"
-msgstr ""
+msgstr "Senhal del servidor"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "Temps d'espèra del servidor"
 
 msgid "Server URL"
-msgstr ""
+msgstr "URL del servidor"
 
 msgid "Server Username"
-msgstr ""
+msgstr "Nom d'utilizaire del servidor"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "Definir 'Lector en dirècte actiu' dins lo paramètre:\n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "Definir 'Non' per Enregistrar en dirècte\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Definir lo nom per MakerBouquet"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "Los paramètres enregistrats amb succès !"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "Començar Descargar Totes los Episòdis Series\n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "Començar lo telecargament o l'enregistrament del canal seleccionat:\n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "Arrestar lo jogaire a la sortida"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "Lo filme existís pas!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "Lo còde pin qu'avètz picat es incorrècte."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Temps de començar la mesa a jorn :"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "Servidor de temps d'espèra (sec)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "La connexion es passada"
 
 msgid "UNKNOWN"
-msgstr ""
+msgstr "DESCONEGUT"
 
 msgid "USERNAME='xxxxxxxxxx'\n"
-msgstr ""
+msgstr "NOM DE UTILIZADOR='xxxxxxxxxx'\n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Mesa a jorn avortada!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "Interval de mesa a jorn (oras):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Tipe de servicis Vod"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "Volètz vertadièrament arrestar lo telecargament ?"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "Espèra... lo telecargament en cors ..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "Al moment de dobrir un fichièr .m3u a la plaça:\n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "BOTON JAUNE:\n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "Vos cal configurar lo tipe de sortida\n"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "Vòstre servidor Connexion e entrada de donadas"
 
 msgid "fixed time"
-msgstr ""
+msgstr "temps fixe"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "òste\t(òste sens http:// )\n"
 
 msgid "interval"
 msgstr ""
 
 msgid "not exist!"
-msgstr ""
+msgstr "existís pas!"
 
 msgid "password\n"
-msgstr ""
+msgstr "senhal\n"
 
 msgid "port\n"
-msgstr ""
+msgstr "pòrt\n"
 
 msgid "user\n"
-msgstr ""
+msgstr "utilizaire\n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "esperatz mercés..."

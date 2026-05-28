@@ -15,25 +15,25 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%s"
-msgstr ""
+msgstr "% s"
 
 msgid "%s NOT DETECTED!"
-msgstr ""
+msgstr "% s ئېنىقلانمىدى!"
 
 msgid "(BLUE BUTTON):\n"
-msgstr ""
+msgstr "(BLUE BUTTON): \ n"
 
 msgid "(GREEN BUTTON):\n"
-msgstr ""
+msgstr "(GREEN BUTTON): \ n"
 
 msgid "(REC BUTTON):\n"
-msgstr ""
+msgstr "(REC BUTTON): \ n"
 
 msgid "(STOP BUTTON):\n"
-msgstr ""
+msgstr "(STOP BUTTON): \ n"
 
 msgid "(YELLOW BUTTON):\n"
-msgstr ""
+msgstr "(سېرىق رەڭلىك كۇنۇپكا): \ n"
 
 msgid "/etc/enigma2/iptv.sh\n"
 msgstr ""
@@ -42,373 +42,373 @@ msgid "/tmp/xc.txt\n"
 msgstr ""
 
 msgid "Aborting..."
-msgstr ""
+msgstr "ئەمەلدىن قالدۇرۇش ..."
 
 msgid "Accesso non autorizzato (401)"
-msgstr ""
+msgstr "ئىجازەتسىز زىيارەت (401)"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "ئاكتىپ ئاپتوماتىك گۈل يېڭىلاش"
 
 msgid "Active Main Screen Large"
-msgstr ""
+msgstr "ئاكتىپ ئاساسىي ئېكران چوڭ"
 
 msgid "Adjust Timezone"
-msgstr ""
+msgstr "ۋاقىت رايونىنى تەڭشەش"
 
 msgid "Adjust Timezone (hour)"
-msgstr ""
+msgstr "ۋاقىت رايونىنى تەڭشەش (سائەت)"
 
 msgid "An unexpected error occurred. Please try again later."
-msgstr ""
+msgstr "ئويلىمىغان خاتالىق يۈز بەردى. كېيىن قايتا سىناڭ."
 
 msgid "At an interval of hours or at a fixed time"
-msgstr ""
+msgstr "سائەت ئارىلىقىدا ياكى مۇقىم ۋاقىتتا"
 
 msgid "Automatic bouquet update (schedule):"
-msgstr ""
+msgstr "ئاپتوماتىك گۈل يېڭىلاش (ۋاقىت جەدۋىلى):"
 
 msgid "Back"
-msgstr ""
+msgstr "قايتىش"
 
 msgid "Bouquet"
 msgstr ""
 
 msgid "Bouquet style"
-msgstr ""
+msgstr "گۈلچەمبىرەك ئۇسلۇبى"
 
 msgid "Cancel"
-msgstr ""
+msgstr "بىكار قىلىش"
 
 msgid "Cannot modify this task status"
-msgstr ""
+msgstr "بۇ ۋەزىپە ھالىتىنى ئۆزگەرتەلمەيدۇ"
 
 msgid "Cannot pause/resume this item"
-msgstr ""
+msgstr "بۇ تۈرنى توختاتقىلى ياكى ئەسلىگە كەلتۈرگىلى بولمايدۇ"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "بۇ تۈرنى ئۆچۈرگىلى بولمايدۇ"
 
 msgid "Check on favorites lists..."
-msgstr ""
+msgstr "ياقتۇرىدىغان تىزىملىكلەرنى تەكشۈرۈڭ ..."
 
 msgid "Choose Directory:"
-msgstr ""
+msgstr "مۇندەرىجىنى تاللاڭ:"
 
 msgid "Choose directory"
-msgstr ""
+msgstr "مۇندەرىجىنى تاللاڭ"
 
 msgid "Close"
-msgstr ""
+msgstr "تاقاش"
 
 msgid "Config"
-msgstr ""
+msgstr "سەپلەڭ"
 
 msgid "Config Setup Options\n"
-msgstr ""
+msgstr "تەڭشەش تاللانمىلىرىنى تەڭشەش \ n"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "بەلگىلەنگەن ۋاقىتتا سەپلەڭ"
 
 msgid "Configure every interval of hours from now"
-msgstr ""
+msgstr "ھازىردىن باشلاپ ھەر بىر سائەت ئارىلىقىنى سەپلەڭ"
 
 msgid "Configure name of exported bouquet. Default is myBouquet"
-msgstr ""
+msgstr "ئېكسپورت قىلىنغان گۈلنىڭ نامىنى سەپلەڭ. سۈكۈتتىكىسى myBouquet"
 
 msgid "Configure service Reference Dvb-Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "مۇلازىمەت پايدىلىنىش پايدىلانمىسى Dvb-Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "مۇلازىمەتنى تەڭشەش پايدىلىنىش Iptv-Gstreamer-Exteplayer3"
 
 msgid "Configure the type of conversion in the favorite list"
-msgstr ""
+msgstr "ياقتۇرىدىغان تىزىملىكتىكى ئايلاندۇرۇش تىپىنى سەپلەڭ"
 
 msgid "Configure to place the bouquets of the converted lists"
-msgstr ""
+msgstr "ئۆزگەرتىلگەن تىزىملىكنىڭ گۈللىرىنى قويۇڭ"
 
 msgid "Configure type of download movie: JobManager/Direct."
-msgstr ""
+msgstr "چۈشۈرۈش فىلىمىنىڭ تۈرىنى سەپلەڭ: JobManager / Direct."
 
 msgid "Configure type of stream to be downloaded by conversion"
-msgstr ""
+msgstr "ئايلاندۇرۇش ئارقىلىق چۈشۈرمەكچى بولغان ئېقىننىڭ تۈرىنى سەپلەڭ"
 
 msgid "Congrats! You already have the latest version..."
-msgstr ""
+msgstr "مۇبارەك بولسۇن! سىزدە ئەڭ يېڭى نەشرى بار ..."
 
 msgid "Connessione al server..."
-msgstr ""
+msgstr "مۇلازىمېتىرغا ئۇلىنىش ..."
 
 msgid "Console"
 msgstr ""
 
 msgid "Conversion %s in progress:"
-msgstr ""
+msgstr "ئۆزگەرتىش% s داۋاملىشىۋاتىدۇ:"
 
 msgid "Conversion type Output"
-msgstr ""
+msgstr "ئايلاندۇرۇش تىپى چىقىرىش"
 
 msgid "Convert Playlist to: %s ?"
-msgstr ""
+msgstr "قويۇش تىزىملىكىنى:% s غا ئايلاندۇرامسىز؟"
 
 msgid "Create XC Live/VOD Bouquets\n"
-msgstr ""
+msgstr "XC Live / VOD گۈللۈكى قۇرۇش \ n"
 
 msgid "DOWNLOAD VIDEO?"
-msgstr ""
+msgstr "VIDEO نى چۈشۈرۈڭ؟"
 
 msgid "DOWNLOADING"
 msgstr ""
 
 msgid "Data Server Configuration:"
-msgstr ""
+msgstr "سانلىق مەلۇمات مۇلازىمېتىر سەپلىمىسى:"
 
 msgid "Display XCplugin in Main Menu"
-msgstr ""
+msgstr "باش تىزىملىكتە XCplugin نى كۆرسىتىڭ"
 
 msgid "Do you want to Convert %s to favorite .tv ?"
-msgstr ""
+msgstr "% S نى ياخشى كۆرىدىغان .tv غا ئايلاندۇرماقچىمۇ؟"
 
 msgid "Do you want to install update (%s) now?"
-msgstr ""
+msgstr "ھازىر يېڭىلاش (% s) نى قاچىلىماقچىمۇ؟"
 
 msgid "Do you want to remove %s ?"
-msgstr ""
+msgstr "% S نى ئۆچۈرمەكچىمۇ؟"
 
 msgid "Do you want to remove: %s ?"
-msgstr ""
+msgstr "ئۆچۈرمەكچىمۇ:% s?"
 
 msgid "Do you want to remove: %s?"
-msgstr ""
+msgstr "ئۆچۈرمەكچىمۇ:% s?"
 
 msgid "Download"
-msgstr ""
+msgstr "چۈشۈرۈش"
 
 msgid "Download Failed!"
-msgstr ""
+msgstr "چۈشۈرۈش مەغلۇب بولدى!"
 
 msgid "Download Finished!"
-msgstr ""
+msgstr "چۈشۈرۈش تاماملاندى!"
 
 msgid "Download M3u File?"
-msgstr ""
+msgstr "M3u ھۆججىتىنى چۈشۈرۈڭ؟"
 
 msgid "Download Picons ?"
-msgstr ""
+msgstr "رەسىملەرنى چۈشۈرۈڭ؟"
 
 msgid "Download Type"
-msgstr ""
+msgstr "چۈشۈرۈش تىپى"
 
 msgid "Download VOD selected channel\n"
-msgstr ""
+msgstr "VOD تاللانغان قانالنى چۈشۈرۈڭ \ n"
 
 msgid "Download Video \n"
-msgstr ""
+msgstr "Download Video \ n"
 
 msgid "Download completato"
-msgstr ""
+msgstr "چۈشۈرۈش تاماملاندى"
 
 msgid "Download completato con successo!"
-msgstr ""
+msgstr "چۈشۈرۈش مۇۋەپپەقىيەتلىك تاماملاندى!"
 
 msgid "Download error: %s"
-msgstr ""
+msgstr "چۈشۈرۈش خاتالىقى:% s"
 
 msgid "Download failed with return code: {}"
-msgstr ""
+msgstr "قايتۇرۇش كودى بىلەن چۈشۈرۈش مەغلۇپ بولدى: {}"
 
 msgid "Download failed:"
-msgstr ""
+msgstr "چۈشۈرۈش مەغلۇپ بولدى:"
 
 msgid "Download fallito"
-msgstr ""
+msgstr "چۈشۈرۈش مەغلۇب بولدى"
 
 msgid "Download in corso"
-msgstr ""
+msgstr "Corso دا چۈشۈرۈڭ"
 
 msgid "Download restarted: {}"
-msgstr ""
+msgstr "چۈشۈرۈش قايتا قوزغىتىلدى: {}"
 
 msgid "Download started: {}"
-msgstr ""
+msgstr "چۈشۈرۈش باشلاندى: {}"
 
 msgid "Download stopped: {}"
-msgstr ""
+msgstr "چۈشۈرۈش توختىتىلدى: {}"
 
 msgid "Download task removed"
-msgstr ""
+msgstr "چۈشۈرۈش ۋەزىپىسى ئۆچۈرۈلدى"
 
 msgid "Download: %d%%"
-msgstr ""
+msgstr "چۈشۈرۈش:% d %%"
 
 msgid "Downloaded file is too small"
-msgstr ""
+msgstr "چۈشۈرۈلگەن ھۆججەت بەك كىچىك"
 
 msgid "Downloaded file not found"
-msgstr ""
+msgstr "چۈشۈرۈلگەن ھۆججەت تېپىلمىدى"
 
 msgid "Enter Password"
-msgstr ""
+msgstr "پارول كىرگۈزۈڭ"
 
 msgid "Enter Server Port Eg.:'8080'"
-msgstr ""
+msgstr "مۇلازىمېتىر ئېغىزىغا كىرىڭ مەسىلەن: 8080 '"
 
 msgid "Enter Server Url without 'http://' your_domine"
-msgstr ""
+msgstr "مۇلازىمېتىر Url نى «http: //» بولمىسا كىرگۈزۈڭ"
 
 msgid "Enter Username"
-msgstr ""
+msgstr "ئىشلەتكۈچى نامىنى كىرگۈزۈڭ"
 
 msgid "Enter pin code"
-msgstr ""
+msgstr "PIN كودىنى كىرگۈزۈڭ"
 
 msgid "Epg guide or imdb/tmdb\n"
-msgstr ""
+msgstr "Epg يېتەكچىسى ياكى imdb / tmdb \ n"
 
 msgid "Error code"
-msgstr ""
+msgstr "خاتالىق كودى"
 
 msgid "Error controlling download: {}"
-msgstr ""
+msgstr "چۈشۈرۈشنى كونترول قىلىشتىكى خاتالىق: {}"
 
 msgid "Error deleting the file:"
-msgstr ""
+msgstr "ھۆججەتنى ئۆچۈرۈشتە خاتالىق:"
 
 msgid "Error reading or processing %s: %s"
-msgstr ""
+msgstr "% S:% s ئوقۇش ياكى بىر تەرەپ قىلىشتا خاتالىق"
 
 msgid "Error reading or processing the file: %s"
-msgstr ""
+msgstr "ھۆججەتنى ئوقۇش ياكى بىر تەرەپ قىلىشتا خاتالىق:% s"
 
 msgid "Error removing task: {}"
-msgstr ""
+msgstr "ۋەزىپىنى ئۆچۈرۈشتە خاتالىق: {}"
 
 msgid "Error verifying download: {}"
-msgstr ""
+msgstr "چۈشۈرۈشنى دەلىللەشتە خاتالىق: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "چىقىش"
 
 msgid "Export"
-msgstr ""
+msgstr "ئېكسپورت"
 
 msgid "Export file m3u to Bouquet .tv\n"
-msgstr ""
+msgstr "M3u ھۆججىتىنى Bouquet .tv \ n غا چىقىرىش"
 
 msgid "FAILED"
 msgstr ""
 
 msgid "Failed to fetch update information. Please check your internet connection."
-msgstr ""
+msgstr "يېڭىلاش ئۇچۇرىغا ئېرىشەلمىدى. تور ئۇلىنىشىڭىزنى تەكشۈرۈپ بېقىڭ."
 
 msgid "Failed to parse update information. Please try again later."
-msgstr ""
+msgstr "يېڭىلاش ئۇچۇرلىرىنى تەھلىل قىلالمىدى. كېيىن قايتا سىناڭ."
 
 msgid "File Unknow!!!"
-msgstr ""
+msgstr "ھۆججەت نامەلۇم !!!"
 
 msgid "File not found or empty: %s"
-msgstr ""
+msgstr "ھۆججەت تېپىلمىدى ياكى قۇرۇق:% s"
 
 msgid "File not found!"
-msgstr ""
+msgstr "ھۆججەت تېپىلمىدى!"
 
 msgid "Filter Bad Tag"
-msgstr ""
+msgstr "ناچار كۈننى سۈزۈڭ"
 
 msgid "Filter this category..."
-msgstr ""
+msgstr "بۇ تۈرنى سۈزۈڭ ..."
 
 msgid "First Select the list or enter it in Config"
-msgstr ""
+msgstr "ئالدى بىلەن تىزىملىكنى تاللاڭ ياكى سەپلىمىگە كىرگۈزۈڭ"
 
 msgid "Folder user file .xml"
-msgstr ""
+msgstr "ھۆججەت قىسقۇچ ئىشلەتكۈچى ھۆججىتى .xml"
 
 msgid "Format:\n"
-msgstr ""
+msgstr "فورماتى: \ n"
 
 msgid "Free Space"
-msgstr ""
+msgstr "ھەقسىز بوشلۇق"
 
 msgid "HELP BUTTON:\n"
-msgstr ""
+msgstr "ياردەم كۇنۇپكىسى: \ n"
 
 msgid "HOME"
-msgstr ""
+msgstr "ئۆي"
 
 msgid "Help\n"
-msgstr ""
+msgstr "ياردەم \ n"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "يوشۇرۇش / كۆرسىتىش"
 
 msgid "If player active STOP player riproduction on exit"
-msgstr ""
+msgstr "ئەگەر قويغۇچ ئاكتىپ ھالەتتە STOP قويغۇچ چېكىنىپ چىقسا"
 
 msgid "If you have a file:\n"
-msgstr ""
+msgstr "ئەگەر ھۆججىتىڭىز بولسا: \ n"
 
 msgid "If you have a file\n"
-msgstr ""
+msgstr "ئەگەر ھۆججىتىڭىز بولسا \ n"
 
 msgid "Import"
-msgstr ""
+msgstr "ئەكىرىش"
 
 msgid "Import Server from /etc/enigma2/iptv.sh?"
-msgstr ""
+msgstr "مۇلازىمېتىرنى /etc/enigma2/iptv.sh دىن ئەكىرىڭ؟"
 
 msgid "Import Server from /tmp/xc.tx?"
-msgstr ""
+msgstr "مۇلازىمېتىرنى /tmp/xc.tx دىن ئەكىرىڭ؟"
 
 msgid "Info"
-msgstr ""
+msgstr "ئۇچۇر"
 
 msgid "Init Continue Play\n"
-msgstr ""
+msgstr "Init Continue Play \ n"
 
 msgid "Invalid URL!"
-msgstr ""
+msgstr "ئىناۋەتسىز URL!"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "يېڭىلاش ئۇچۇرلىرىدىكى ئىناۋەتسىز ۋاقىت فورماتى."
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "ئىناۋەتسىز ھۆججەت شەكلى:% s دىكى يېتەرلىك ياكى قۇرۇق قۇر ئەمەس"
 
 msgid "Invalid format in %s. Could not extract server details."
-msgstr ""
+msgstr "% S دىكى ئىناۋەتسىز فورماتى. مۇلازىمېتىر تەپسىلاتلىرىنى چىقىرالمىدى."
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "ئىناۋەتسىز ياكى قوللىمايدىغان خىزمەت تىپى"
 
 msgid "Is Directory or file not exist"
-msgstr ""
+msgstr "مۇندەرىجە ياكى ھۆججەت مەۋجۇت ئەمەس"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "ئاخىرقى قانالنىڭ يېڭىلىنىشى:% s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "قۇر قويۇش تىزىملىكىدە ئاللىبۇرۇن مەۋجۇت"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "قۇر قويۇش تىزىملىكىگە قوشۇلدى"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "باش تىزىملىكتىكى ئۇلىنىش"
 
 msgid "Live Player Active in Setting: set No for Record Live"
-msgstr ""
+msgstr "تەڭشەشتىكى ئاكتىپ قويغۇچ: نەق مەيدان خاتىرىسىنى ياق"
 
 msgid "Live Player for Stream .ts: set No for Record Live"
-msgstr ""
+msgstr "Stream ئۈچۈن نەق مەيدان قويغۇچ"
 
 msgid "Live Services Type"
-msgstr ""
+msgstr "نەق مەيدان مۇلازىمەت تىپى"
 
 msgid "LivePlayer Active"
-msgstr ""
+msgstr "LivePlayer ئاكتىپ"
 
 msgid "M3u"
 msgstr ""
@@ -420,19 +420,19 @@ msgid "Main"
 msgstr ""
 
 msgid "Main Screen XL"
-msgstr ""
+msgstr "ئاساسلىق ئېكران XL"
 
 msgid "Make"
-msgstr ""
+msgstr "ياساڭ"
 
 msgid "Media Folder"
 msgstr ""
 
 msgid "MediaPlayer\n"
-msgstr ""
+msgstr "MediaPlayer \ n"
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "يوقاپ كەتكەن ياكى قۇرۇق ھۆججەت:% s"
 
 msgid "Movie"
 msgstr ""
@@ -441,82 +441,82 @@ msgid "Movie Folder"
 msgstr ""
 
 msgid "Movie has been successfully deleted"
-msgstr ""
+msgstr "فىلىم مۇۋەپپەقىيەتلىك ئۆچۈرۈلدى"
 
 msgid "Name Bouquet Configuration:"
-msgstr ""
+msgstr "ئىسىم گۈللۈكى سەپلىمىسى:"
 
 msgid "Name Bouquet Export"
-msgstr ""
+msgstr "Bouquet ئېكسپورتى"
 
 msgid "Network error!"
-msgstr ""
+msgstr "تور خاتالىقى!"
 
 msgid "No Server Configured to Download!!!"
-msgstr ""
+msgstr "چۈشۈرۈشكە تەڭشەلگەن مۇلازىمېتىر يوق !!!"
 
 msgid "No Video to Download/Record!!"
-msgstr ""
+msgstr "چۈشۈرۈش / خاتىرىلەش ئۈچۈن سىن يوق !!"
 
 msgid "No data or playlist not compatible with XCplugin."
-msgstr ""
+msgstr "XCplugin غا ماس كەلمەيدىغان سانلىق مەلۇمات ياكى قويۇش تىزىملىكى يوق."
 
 msgid "No movie selected!"
-msgstr ""
+msgstr "ھېچقانداق كىنو تاللانمىدى!"
 
 msgid "No task selected!"
-msgstr ""
+msgstr "ھېچقانداق ۋەزىپە تاللانمىدى!"
 
 msgid "No update information available."
-msgstr ""
+msgstr "يېڭىلاش ئۇچۇرى يوق."
 
 msgid "Only Series Episodes Allowed!!!"
-msgstr ""
+msgstr "پەقەت يۈرۈشلۈك قىسىملىرى رۇخسەت قىلىنغان !!!"
 
 msgid "Only VOD Movie allowed!!!"
-msgstr ""
+msgstr "پەقەت VOD كىنو رۇخسەت قىلىنغان !!!"
 
 msgid "Open Movie Folder\n"
-msgstr ""
+msgstr "كىنو ھۆججەت قىسقۇچىنى ئېچىڭ"
 
 msgid "PASSWORD='yyyyyyyyy'\n"
-msgstr ""
+msgstr "PASSWORD = 'yyyyyyyyy' \ n"
 
 msgid "PAUSED"
 msgstr ""
 
 msgid "Pause/Resume"
-msgstr ""
+msgstr "توختىتىش / ئەسلىگە كەلتۈرۈش"
 
 msgid "Picons IPTV"
 msgstr ""
 
 msgid "Picons IPTV bouquets to"
-msgstr ""
+msgstr "Picons IPTV گۈللىرى"
 
 msgid "Place IPTV bouquets at"
-msgstr ""
+msgstr "IPTV گۈللىرىنى قويۇڭ"
 
 msgid "Player"
-msgstr ""
+msgstr "قويغۇچ"
 
 msgid "Please configure the server details first"
-msgstr ""
+msgstr "ئالدى بىلەن مۇلازىمېتىر تەپسىلاتلىرىنى سەپلەڭ"
 
 msgid "Please enter the parental control pin code"
-msgstr ""
+msgstr "ئاتا-ئانىلارنىڭ كونترول pin كودىنى كىرگۈزۈڭ"
 
 msgid "Preparando il download..."
-msgstr ""
+msgstr "چۈشۈرۈشكە تەييارلىق قىلىش ..."
 
 msgid "Put .m3u Files in Folder %s"
-msgstr ""
+msgstr ".M3u ھۆججەتلىرىنى% s ھۆججەت قىسقۇچىغا قويۇڭ"
 
 msgid "Put your lines to the"
-msgstr ""
+msgstr "قۇرلىرىڭىزنى قويۇڭ"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "تەڭشەكلەرنى ساقلىماي راستىنلا تاقامسىز؟"
 
 msgid "Rec Movie"
 msgstr ""
@@ -525,169 +525,169 @@ msgid "Rec Series"
 msgstr ""
 
 msgid "Reload"
-msgstr ""
+msgstr "قايتا يۈكلەڭ"
 
 msgid "Reload List\n"
-msgstr ""
+msgstr "قايتا يۈكلەش تىزىملىكى \ n"
 
 msgid "Reload Playlists in progress..."
-msgstr ""
+msgstr "ئىجرا قىلىنىۋاتقان تىزىملىكلەرنى قايتا يۈكلەڭ ..."
 
 msgid "Remove"
-msgstr ""
+msgstr "ئۆچۈرۈڭ"
 
 msgid "Remove Playlist from Bouquets?"
-msgstr ""
+msgstr "گۈل تىزىملىكىدىن قويۇش تىزىملىكىنى ئۆچۈرەمسىز؟"
 
 msgid "Remove download task for {}?"
-msgstr ""
+msgstr "Download} ئۈچۈن چۈشۈرۈش ۋەزىپىسىنى ئۆچۈرۈڭ؟"
 
 msgid "Remove file from list\n"
-msgstr ""
+msgstr "ھۆججەتنى تىزىملىكتىن ئۆچۈرۈڭ \ n"
 
 msgid "Removes all the bouquets that have been\n"
-msgstr ""
+msgstr "\ N بولغان بارلىق گۈللەرنى ئۆچۈرۈۋېتىدۇ"
 
 msgid "Resolution Change Failed"
-msgstr ""
+msgstr "قارار ئۆزگەرتىش مەغلۇب بولدى"
 
 msgid "Restart"
-msgstr ""
+msgstr "قايتا قوزغىتىڭ"
 
 msgid "Return to Channels List\n"
-msgstr ""
+msgstr "قاناللار تىزىملىكىگە قايتىش \ n"
 
 msgid "Risorsa non trovata (404)"
-msgstr ""
+msgstr "بايلىق تېپىلمىدى (404)"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "تاللىشىڭىزنى تاللاڭ"
 
 msgid "Save"
-msgstr ""
+msgstr "ساقلاش"
 
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
-msgstr ""
+msgstr "چۈشۈرۈش:% d %% - سۈرئەت:% .1f KB / s - قالغان ۋاقتى:% d سېكۇنت"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "ۋاقىت جەدۋىلى:"
 
 msgid "Search"
-msgstr ""
+msgstr "ئىزدەش"
 
 msgid "Search LIve/Movie"
-msgstr ""
+msgstr "LIve / Movie نى ئىزدەڭ"
 
 msgid "Search for a title in the list"
-msgstr ""
+msgstr "تىزىملىكتىن ماۋزۇ ئىزدەڭ"
 
 msgid "Select"
-msgstr ""
+msgstr "تاللاڭ"
 
 msgid "Server PORT"
-msgstr ""
+msgstr "مۇلازىمېتىر PORT"
 
 msgid "Server Password"
-msgstr ""
+msgstr "مۇلازىمېتىر پارولى"
 
 msgid "Server Timeout"
-msgstr ""
+msgstr "مۇلازىمېتىر ۋاقتى"
 
 msgid "Server URL"
-msgstr ""
+msgstr "مۇلازىمېتىر URL"
 
 msgid "Server Username"
-msgstr ""
+msgstr "مۇلازىمېتىر ئىشلەتكۈچى ئىسمى"
 
 msgid "Set 'Live Player Active' in Setting:\n"
-msgstr ""
+msgstr "تەڭشەشتە «نەق مەيدان قويغۇچ ئاكتىپ» نى تەڭشەڭ: \ n"
 
 msgid "Set 'No' for Record Live\n"
-msgstr ""
+msgstr "نەق مەيدان خاتىرىلەش ئۈچۈن «ياق» نى بەلگىلەڭ"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "MakerBouquet نىڭ نامىنى بەلگىلەڭ"
 
 msgid "Settings saved successfully !"
-msgstr ""
+msgstr "تەڭشەكلەر مۇۋەپپەقىيەتلىك ساقلاندى!"
 
 msgid "Start Download All Episodes Series\n"
-msgstr ""
+msgstr "بارلىق بۆلەكلەرنى چۈشۈرۈشنى باشلاڭ \ n"
 
 msgid "Start Download or Record Selected Channel:\n"
-msgstr ""
+msgstr "تاللانغان قانالنى چۈشۈرۈش ياكى خاتىرىلەشنى باشلاڭ: \ n"
 
 msgid "Stop Player on Exit"
-msgstr ""
+msgstr "قويغۇچنى چېكىنىشنى توختىتىڭ"
 
 msgid "The movie does not exist!"
-msgstr ""
+msgstr "بۇ فىلىم مەۋجۇت ئەمەس!"
 
 msgid "The pin code you entered is wrong."
-msgstr ""
+msgstr "سىز كىرگۈزگەن pin كودى خاتا."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "يېڭىلاشنى باشلاش ۋاقتى:"
 
 msgid "Timeout Server (sec)"
-msgstr ""
+msgstr "ۋاقىت مۇلازىمېتىرى (سېكۇنت)"
 
 msgid "Timeout della connessione"
-msgstr ""
+msgstr "ئۇلىنىش ۋاقتى توشتى"
 
 msgid "UNKNOWN"
 msgstr ""
 
 msgid "USERNAME='xxxxxxxxxx'\n"
-msgstr ""
+msgstr "USERNAME = 'xxxxxxxxxx' \ n"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "يېڭىلانغان ئەمەلدىن قالدۇرۇلدى!"
 
 msgid "Update interval (hours):"
-msgstr ""
+msgstr "يېڭىلاش ئارىلىقى (سائەت):"
 
 msgid "Vod Services Type"
-msgstr ""
+msgstr "Vod مۇلازىمەت تىپى"
 
 msgid "Vuoi davvero interrompere il download?"
-msgstr ""
+msgstr "چۈشۈرۈشنى راستىنلا توختاتامسىز؟"
 
 msgid "Wait... downloading in progress ..."
-msgstr ""
+msgstr "ساقلاپ تۇرۇڭ ... چۈشۈرۈش باسقۇچىدا ..."
 
 msgid "When opening an .m3u file instead:\n"
-msgstr ""
+msgstr "ئۇنىڭ ئورنىغا .m3u ھۆججىتىنى ئاچقاندا: \ n"
 
 msgid "YELLOW BUTTON:\n"
-msgstr ""
+msgstr "سېرىق رەڭلىك كۇنۇپكا: \ n"
 
 msgid "You need to configure the type of output\n"
-msgstr ""
+msgstr "چىقىرىش تىپى \ n نى تەڭشىشىڭىز كېرەك"
 
 msgid "Your Server Login and data input"
-msgstr ""
+msgstr "مۇلازىمېتىرغا كىرىش ۋە سانلىق مەلۇمات كىرگۈزۈش"
 
 msgid "fixed time"
-msgstr ""
+msgstr "مۇقىم ۋاقىت"
 
 msgid "host\t(host without http:// )\n"
-msgstr ""
+msgstr "host \ t (http: //) بولمىغان ساھىبجامال"
 
 msgid "interval"
-msgstr ""
+msgstr "ئارىلىق"
 
 msgid "not exist!"
-msgstr ""
+msgstr "مەۋجۇت ئەمەس!"
 
 msgid "password\n"
-msgstr ""
+msgstr "پارول \ n"
 
 msgid "port\n"
-msgstr ""
+msgstr "port \ n"
 
 msgid "user\n"
-msgstr ""
+msgstr "ئىشلەتكۈچى \ n"
 
 msgid "wait please..."
-msgstr ""
+msgstr "ساقلاپ تۇرۇڭ ..."
