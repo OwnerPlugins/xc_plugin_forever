@@ -566,6 +566,7 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
+#, fuzzy
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
 msgstr "Download: %d%% - Speed: %.1f KB/s - Remaining time: %d sec"
 

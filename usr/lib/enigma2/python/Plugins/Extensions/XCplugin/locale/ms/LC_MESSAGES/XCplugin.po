@@ -566,6 +566,7 @@ msgstr "PILIH PILIHAN ANDA"
 msgid "Save"
 msgstr "Jimat"
 
+#, fuzzy
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
 msgstr "Muat turun: %d%% - Kelajuan: %.1f KB/s - Baki masa: %d saat"
 

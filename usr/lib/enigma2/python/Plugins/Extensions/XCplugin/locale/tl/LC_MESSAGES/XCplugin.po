@@ -566,6 +566,7 @@ msgstr "PUMILI NG IYONG PAGPILI"
 msgid "Save"
 msgstr "I-save"
 
+#, fuzzy
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
 msgstr "Download: %d%% - Bilis: %.1f KB/s - Natitirang oras: %d sec"
 

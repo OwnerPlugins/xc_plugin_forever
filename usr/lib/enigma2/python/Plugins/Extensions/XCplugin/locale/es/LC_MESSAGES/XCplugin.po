@@ -638,7 +638,7 @@ msgid "Set 'No' for Record Live\n"
 msgstr "Establezca 'No' para Grabar en vivo\n"
 
 msgid "Set Name for MakerBouquet"
-msgstr ""
+msgstr "Establecer nombre para MakerBouquet"
 
 msgid "Settings saved successfully !"
 msgstr "¡La configuración se guardó correctamente!"

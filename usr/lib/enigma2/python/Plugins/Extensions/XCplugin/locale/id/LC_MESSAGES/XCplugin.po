@@ -566,6 +566,7 @@ msgstr "PILIH PILIHAN ANDA"
 msgid "Save"
 msgstr "Menyimpan"
 
+#, fuzzy
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
 msgstr "Unduh: %d%% - Kecepatan: %.1f KB/s - Sisa waktu: %d detik"
 

@@ -566,6 +566,7 @@ msgstr "HAUTATU ZURE AUKERA"
 msgid "Save"
 msgstr "Gorde"
 
+#, fuzzy
 msgid "Scaricamento: %d%% - Velocit: %.1f KB/s - Tempo rimanente: %d sec"
 msgstr "Deskarga: %d%% - Abiadura: %.1f KB/s - Gainerako denbora: %d seg"
 

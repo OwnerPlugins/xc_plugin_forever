@@ -109,7 +109,7 @@ msgid "Cannot pause/resume this item"
 msgstr "無法暫停/恢復此項目"
 
 msgid "Cannot remove this item"
-msgstr ""
+msgstr "無法刪除該項目"
 
 msgid "Check on favorites lists..."
 msgstr "查看收藏夹列表..."
@@ -449,13 +449,13 @@ msgid "Invalid date format in update information."
 msgstr ""
 
 msgid "Invalid file format: not enough or empty lines in %s"
-msgstr ""
+msgstr "檔案格式無效：%s 中行數不足或為空白行"
 
 msgid "Invalid format in %s. Could not extract server details."
 msgstr "%s 中的格式無效。无法提取服务器详细信息。"
 
 msgid "Invalid or unsupported job type"
-msgstr ""
+msgstr "作業類型無效或不受支援"
 
 msgid "Is Directory or file not exist"
 msgstr "目录或文件是否不存在"
@@ -464,10 +464,10 @@ msgid "Last channel update: %s"
 msgstr "上次频道更新：%s"
 
 msgid "Line already exists in playlist"
-msgstr ""
+msgstr "該行已存在於播放清單中"
 
 msgid "Line appended to playlist"
-msgstr ""
+msgstr "附加到播放清單的行"
 
 #, fuzzy
 msgid "Link in Main Menu"
@@ -513,7 +513,7 @@ msgid "MediaPlayer\n"
 msgstr "            媒体播放器\n"
 
 msgid "Missing or empty file: %s"
-msgstr ""
+msgstr "文件遺失或為空：%s"
 
 msgid "Movie"
 msgstr "电影"
