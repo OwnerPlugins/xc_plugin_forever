@@ -446,7 +446,7 @@ msgid "Invalid URL!"
 msgstr "無效網址！"
 
 msgid "Invalid date format in update information."
-msgstr ""
+msgstr "更新資訊中的日期格式無效。"
 
 msgid "Invalid file format: not enough or empty lines in %s"
 msgstr "檔案格式無效：%s 中行數不足或為空白行"
